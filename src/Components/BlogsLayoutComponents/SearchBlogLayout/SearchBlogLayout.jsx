@@ -33,7 +33,7 @@ const SearchBlogLayout = () => {
     setFetching(true);
 
     try {
-      const response = await fetch("http://192.168.1.14:3000/api/blogs/search", {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_BASE_URL}/api/blogs/search`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

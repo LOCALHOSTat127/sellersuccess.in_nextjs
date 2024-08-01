@@ -67,7 +67,7 @@ const BlogComponent = () => {
 
     try {
       const response = await fetch(
-        "http://192.168.1.14:3000/api/blogs/get_by_topic",
+        `${process.env.NEXT_PUBLIC_API_BASE_URL}/api/blogs/get_by_topic`,
         {
           method: "POST",
           headers: {
