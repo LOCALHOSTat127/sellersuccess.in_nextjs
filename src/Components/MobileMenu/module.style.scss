@@ -1,0 +1,156 @@
+.accordion {
+    width: 100%;
+    font-size: 1rem;
+    padding : 18px 18px;
+    height: 100%;
+ background-color: rgb(233, 233, 233);
+
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+
+    gap: 18px;
+    .accordionHeader, .subHeader {
+      display: flex;
+      gap: 16px;
+    
+      align-items: center;
+      padding: 12px 15px;
+      cursor: pointer;
+      transition: background-color 300ms ease-in-out;
+
+   
+  
+      h3, h4 {
+        margin: 0;
+      }
+  
+      .bold {
+        font-weight: 500;
+        color: black;
+      }
+    }
+
+    .subHeader {
+       padding: 10px 8px;
+       h4{
+        font-weight: 500;
+       }
+
+      }
+  
+    .accordionContent, .subContent {
+      max-height: 0;
+      padding-left: 24px;
+      overflow: hidden;
+      transition: max-height 300ms ease-in-out, padding 300ms ease-in-out;
+    }
+  
+    .open {
+      max-height: 500px; /* Adjust this to a large enough value to accommodate content */
+      padding-top: 10px;
+      padding-bottom: 10px;
+      animation: slideFromRight 0.3s ease-in-out forwards;
+      @keyframes slideFromRight {
+        from {
+          transform: translateX(12px);
+          opacity: 0;
+        }
+        to {
+          transform: translateX(0);
+          opacity: 1;
+        }
+      }
+    }
+  
+    ul {
+      padding: 0;
+      list-style: none;
+      margin: 0;
+  
+      li {
+        padding: 8px 15px;
+        cursor: pointer;
+        transition: color 50ms ease-in-out;
+        margin-left: 16px;
+        &:hover{
+            color: red;
+        }
+  
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+    }
+  }
+  
+
+  .buttonsContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    p{
+        width: 100%;
+        text-wrap: nowrap;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    padding:  18px 28px;
+    .icons{
+        flex-grow: 1;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        justify-content: flex-end;
+        // gap: 16px;
+        .social_icon{
+            margin-left: 26px;
+            max-width: 22px;
+            height: auto;
+        }
+        
+    }
+}
+  
+
+
+  .expertButton,
+  .blogsButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    border: none;
+    background-color: #2c28f1d6;
+    color: #fff;
+    font-size: 0.95rem;
+    text-wrap: nowrap;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 50ms ease-in-out;
+    
+    &:hover {
+      background-color: #2f2dbd;
+    }
+
+    &:active {
+        transform: scale(0.9);
+    }
+    
+    .icon {
+      margin-right: 8px;
+      font-size: 22px;
+    }
+  }
+  .blogsButton{
+    color: black;
+    
+    background-color: rgb(234, 234, 234);
+    &:hover {
+        background-color: rgb(217, 217, 217);
+      }
+}

@@ -1,0 +1,183 @@
+{
+    "mata_info": {
+        "read_time": "6 minutes reading",
+        "date_publish": "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary": "Changing a company name involves several steps. First, obtain approval from the board of directors and pass a special resolution in a general meeting. File Form INC-24 with the Ministry of Corporate Affairs (MCA) for name change approval. After approval, update the Memorandum of Association (MOA) and Articles of Association (AOA) to reflect the new name. Notify the Registrar of Companies (ROC) by filing Form INC-25, and update all official documents and registrations to reflect the new company name. Ensure compliance with all regulatory requirements to avoid penalties.",
+        "seo": {
+            "title": "All About Changing Your Company Name",
+            "description": "Changing your company name involves a series of legal and administrative steps to update your business’s official name. This process includes passing a resolution in the board meeting, obtaining shareholder approval, and filing the necessary forms with the Registrar of Companies (ROC). It is crucial to ensure that the new name complies with legal requirements and does not infringe on any trademarks. Additionally, updates need to be made across all business documents and registrations.",
+            "keywords": [
+                "Company Name Change",
+                "Business Name Change",
+                "Name Change Procedure",
+                "Registrar of Companies",
+                "ROC Name Change",
+                "Legal Name Change",
+                "Business Documentation"
+            ]
+        }
+    },
+    "content": "<section class=\"dynamic_html_fluyed\"><p>A Limited Company is identified by a name and the selection of name is as per the discretion of a company. In other words, a company can alter its name whenever it wants to. However, the name change should be as per the regulations and procedures of company laws.</p><div class=\"list_container\"><p>Reasons for Changing company’s name :</p><ul><li>Change of business activity of the company.</li><li>Change to reflect brand of the company.</li><li>Change as per government order.</li></ul></div><div class=\"list_container\"><p>Conditions to fulfill for Changing Company’s Name:</p><ul><li>A time period of at least 1 year should have elapsed from the last name change.</li><li>At least 50% of its total revenue in the preceding 1 year period should have been accounted for by the new activity suggested by the new name, or, the amount invested in the new activity/project is at least 50% of the assets of the company.</li><li>The new name along with the old name shall be disclosed through the web sites of the respective stock exchange/s where the company is listed for a continuous period of one year, from the date of the last name change.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": null
+        },
+        "isnCol": {
+            "state": false,
+            "head": "",
+            "sub_head": "",
+            "list": null
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Effects of changing company’s name",
+            "sub_head": "",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Impact on Rights/Obligations",
+                    "subhead": "The change of name shall not affect any rights or obligations of the company or any legal proceedings continued against or by the company in its former or new name."
+                },
+                {
+                    "index": 2,
+                    "head": "Continuation of Legal Proceedings",
+                    "subhead": "Legal proceedings commenced by the company under its old name can continue under the new name."
+                },
+                {
+                    "index": 3,
+                    "head": "Entity of the Company",
+                    "subhead": "The entity of the company remains the same despite the change of name."
+                },
+                {
+                    "index": 4,
+                    "head": "Company Status",
+                    "subhead": "The company is not dissolved, nor does a new company come into existence due to the name change."
+                },
+                {
+                    "index": 5,
+                    "head": "Constitution of the Company",
+                    "subhead": "The constitution of the company is not altered by the name change; only the name itself changes."
+                }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "List of Directors and Shareholders",
+                "Current Certificate of Incorporation",
+                "MOA and AOA in word format",
+                "Proposed Name(s) in order of preference.",
+                "Certified copy of Board Resolution",
+                "Digital Signature of the authorised director",
+                "Letterheads (approx 10) and rubber stamp of director"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState": false,
+            "head": "Affordable Pricing for everybody.",
+            "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+                {
+                    "original_price": 14999,
+                    "current_price": 13299,
+                    "type": "Essential",
+                    "list": [
+                        "PAN Modification",
+                        "TAN Modification",
+                        "Document preparation",
+                        "Name Approval",
+                        "Company Name Change(Private Limited)",
+                        "Change in MOA & AOA",
+                        "Application for Name Change of the Company"
+                    ]
+                },
+                {
+                    "original_price": 25499,
+                    "current_price": 20299,
+                    "type": "Enhanced",
+                    "list": [
+                        "Document preparation",
+                        "Name Approval",
+                        "Change in MOA & AOA",
+                        "Modification in PAN Card",
+                        "Modification in TAN",
+                        "GST Modification",
+                        "MSME Modification",
+                        "Company Name Change (Private limited)",
+                        "Application for Name Change of the Company"
+                    ]
+                }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "Why would a company want to change its name?",
+                        "answer": "Companies may change their names for various reasons, including rebranding, mergers or acquisitions, changes in ownership or management, or to better reflect the company’s activities or values."
+                    },
+                    {
+                        "question": "What is the process for changing a company's name?",
+                        "answer": "The process for changing a company’s name typically involves obtaining approval from regulatory authorities, such as the Companies Registrar or Corporate Affairs Commission, submitting an application with the proposed new name, and updating legal documents and contracts to reflect the new name."
+                    },
+                    {
+                        "question": "Is shareholder approval required for changing a company's name?",
+                        "answer": "Yes, in many jurisdictions, changing a company’s name requires approval from the company’s shareholders. This approval is usually obtained through a resolution passed at a general meeting, such as an Annual General Meeting (AGM) or Extraordinary General Meeting (EGM)."
+                    },
+                    {
+                        "question": "How long does it take to change a company's name?",
+                        "answer": "The timeline for changing a company’s name can vary depending on the jurisdiction and the efficiency of the regulatory authorities involved. It may take a few weeks to several months to complete the name change process."
+                    },
+                    {
+                        "question": "What documents are required to change a company's name?",
+                        "answer": "Documents typically required include a board resolution approving the name change, a shareholder resolution if applicable, an application form for name change, and any additional documents specified by the regulatory authority."
+                    },
+                    {
+                        "question": "What are the legal implications of changing a company's name?",
+                        "answer": "Changing a company’s name has legal implications, including the need to update contracts, legal documents, and registrations with regulatory bodies. The company must also notify stakeholders, including customers and suppliers, of the name change."
+                    },
+                    {
+                        "question": "Can a company change its name to one that is already taken?",
+                        "answer": "No, a company cannot change its name to one that is already in use by another company or one that is similar enough to cause confusion. The proposed new name must be unique and available for registration."
+                    },
+                    {
+                        "question": "What happens if a company's name change is rejected?",
+                        "answer": "If a company’s name change application is rejected, the company will be notified of the reasons for the rejection and may need to submit a revised application or address the issues before reapplying."
+                    },
+                    {
+                        "question": "Do all jurisdictions have the same process for changing a company's name?",
+                        "answer": "No, the process for changing a company’s name can vary by jurisdiction. Companies should consult local regulations and regulatory authorities to understand the specific requirements and procedures applicable in their area."
+                    },
+                    {
+                        "question": "Are there any costs associated with changing a company's name?",
+                        "answer": "Yes, there are typically costs associated with changing a company’s name, including application fees, legal fees for updating documents, and potential costs for rebranding and notifying stakeholders."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "Are there any restrictions on the new company name?",
+                        "answer": "Yes, there may be restrictions on the new company name, such as not being identical or similar to existing company names, not being misleading or offensive, and complying with any specific naming criteria or regulations set by the regulatory authorities."
+                    },
+                    {
+                        "question": "Do I need to update legal documents and contracts after changing the company's name?",
+                        "answer": "Yes, after changing the company’s name, it is essential to update all legal documents, contracts, agreements, and stationery to reflect the new name. This includes updating the company’s memorandum and articles of association, certificates of incorporation, bank accounts, tax registrations, licenses, and any other relevant documents."
+                    },
+                    {
+                        "question": "Will changing the company's name affect its brand identity and marketing efforts?",
+                        "answer": "Yes, changing a company’s name may impact its brand identity and marketing efforts. Companies should carefully consider the implications of a name change on their branding, logo, website, marketing materials, and customer perception."
+                    },
+                    {
+                        "question": "Are there any costs associated with changing a company's name?",
+                        "answer": "Yes, there are typically costs associated with changing a company’s name, including application fees, legal fees, publication costs, and administrative expenses. The total cost can vary depending on the jurisdiction and the complexity of the name change process."
+                    }
+                ]
+            }
+        }
+    }
+}

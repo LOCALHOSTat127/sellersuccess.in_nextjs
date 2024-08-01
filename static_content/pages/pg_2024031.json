@@ -1,0 +1,151 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        
+    "auther": "Sahil Joshi",
+    "quick_summary" : "To complete annual filing for a One Person Company (OPC), visit the Ministry of Corporate Affairs (MCA) portal. File the annual return (Form MGT-7) and financial statements (Form AOC-4) within the stipulated deadlines. Provide details such as company financials, shareholding pattern, and compliance status. Submit the forms online and ensure all required documents are uploaded. Timely filing ensures compliance with regulatory requirements and avoids penalties.",
+        "seo" :{
+            "title": "Understanding Annual Filing for One Person Company (OPC)",
+            "description": "Discover the requirements for the annual filing of a One Person Company (OPC) in India. As per the Companies Act 2013, OPCs must file annual returns with the Registrar of Companies (ROC) every year, hold an annual general meeting, and submit annual accounts. The financial year for OPCs runs from April 1st to March 31st. OPCs have fewer compliance requirements compared to private or public limited companies.",
+            "keywords": [
+              "Annual Filing of OPC",
+              "One Person Company annual return",
+              "OPC annual compliance",
+              "ROC filing requirements",
+              "Companies Act 2013 OPC",
+              "OPC financial year",
+              "annual general meeting OPC",
+              "OPC annual accounts",
+              "OPC compliance checklist",
+              "OPC filing process"
+            ]
+          }
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">Annual return consists of information and documents that include the Balance Sheet of the Company, Profit & Loss Account, OPC Compliance Certificate, Registered Office Address, Register of Member, Shares and Debentures details, Debt details and information about the Management of the Company. The annual return would also disclose the shareholding structure of the Company, changes in Directorship and details of transfers of securities.</p><div class=\"list_container\"><p>Usually, a company is required to file three forms with ROC :</p><ul><li><span>ROC Form MGT 7 :</span> which contains details of shareholding structure, change in directorship and details of the transfer of shares during the year if any. The due date for ROC Form, MGT 7 would be 28th November. As One Person Company does not require to hold AGM, the due date for filing Form MGT 7 shall be 60 days from the completion of the 6 months from the end of the financial year.</li><li><span>ROC Form AOC4 :</span> which contains details and annexures relating to the Balance Sheet of the Company, Profit & Loss Account, Compliance Certificate, Registered Office Address, Register of members, Shares and Debentures details, and Debt details and information about the Management of the Company. The due date for ROC Form AOC 4 would be 180 days from the close of the financial year. That means the due date for AOC 4 for OPC shall be 27th September. (If we count 180 days from 1st April).</li><li><span>ROC Form ADT 1 :</span> is filed for auditor appointment. The due date for ROC Form ADT 1 would be 14th October i.e within 15 days from the conclusion of AGM.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""    
+        },
+        "isnCol": {
+            "state": true,
+            "head": "All about OPC Annual Filing",
+            "sub_head": "",
+            "list": [
+                {
+                    "title": "Forms",
+                    "description": "AOC 4 and MGT 7 are required to be filed annually. AOC 4 must be filed within 180 days from the close of the financial year, while MGT 7 should be filed within 6 months from the close of the financial year."
+                  },
+                  {
+                    "title": "Compliances",
+                    "description": "An OPC (One Person Company) is required to conduct a minimum of 2 board meetings and one annual general meeting. However, conducting an AGM is not mandatory for OPCs. EbizFiling can assist in managing these requirements seamlessly."
+                  },
+                  {
+                    "title": "Penalties",
+                    "description": "Non-filing of annual returns for One Person Companies entails hefty penalties, which are over and above normal fees charged by MCA (Ministry of Corporate Affairs). There are no provisions to reduce these penalties."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [ 
+                "Photograph, Adhaar card and PAN card of all the Directors/Subscribers",
+                "ID Proof of the Directors /Subscribers (Driving License/Passport/Voter ID)",
+                "Address proof of Directors /Subscribers",
+                "Business Address proof (electricity Bill or any other utility bill)"                
+            ]
+        },
+
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 4599,
+                  "current_price": 3999,
+                  "list" : [
+                    "Authorized Capital of Rs 1 Lakhs, turnover upto Rs. 20 Lakhs",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 18999,
+                  "current_price": 15999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 1 Lakhs",
+                    "turnover upto Rs. 20 Lakhs and upto 100 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 20 Lakhs",
+                    "DIR-3 KYC"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 29999,
+                  "current_price": 25999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Authorized Capital of Rs 5 Lakhs, turnover upto Rs. 100 Lakhs and upto 300 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 100 Lakhs",
+                    "DIR-3 KYC"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is OPC Filing?",
+                        "answer": "OPC filing refers to the process of submitting various documents and forms to regulatory authorities, primarily the Ministry of Corporate Affairs (MCA), by One Person Companies in India to ensure compliance with statutory requirements."
+                    },
+                    {
+                        "question": "Which documents are included in OPC Filing?",
+                        "answer": "OPC filing typically includes documents such as financial statements (Balance Sheet, Profit and Loss Account, Cash Flow Statement), annual return (Form MGT-7), compliance certificate (if applicable), auditor’s report, director’s report, appointment and resignation of directors (Form DIR-12), and appointment of auditor (Form ADT-1)."
+                    },
+                    {
+                        "question": "When is the deadline for OPC Filing?",
+                        "answer": "The deadline for OPC filing varies depending on the specific requirement. For instance, annual returns are typically filed within 60 days from the conclusion of the Annual General Meeting (AGM), while financial statements must be filed within 30 days from the date of AGM."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "Can OPC Filing be outsourced to third-party professionals?",
+                        "answer": "Yes, OPCs often engage third-party professionals, such as Chartered Accountants or Company Secretaries, to assist with their filing requirements. These professionals ensure accurate and timely filing, helping OPCs maintain compliance with regulatory authorities."
+                    },
+                    {
+                        "question": "Is OPC Filing mandatory for all OPCs?",
+                        "answer": "Yes, OPC filing is mandatory for all One Person Companies registered under the Companies Act, 2013. Failure to comply with filing requirements may lead to penalties, fines, and legal consequences for the OPC and its director(s)."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

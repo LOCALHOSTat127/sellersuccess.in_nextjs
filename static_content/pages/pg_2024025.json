@@ -1,0 +1,176 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To register for Employees' State Insurance Corporation (ESIC), visit the ESIC portal and complete the online registration form. Provide details such as business information, number of employees, and their wages. Upload necessary documents like the business registration certificate and PAN card. Submit the form, and after verification, you'll receive an ESIC registration number for managing employee insurance contributions and benefits.",
+        "seo" : {
+            "title": "What is ESIC Registration? A Complete Guide",
+            "description": "Discover what ESIC (Employee State Insurance Corporation) registration is and its significance under the Employees’ State Insurance Act, 1948. This mandatory registration provides medical and cash benefits to employees and their dependents in cases of sickness, maternity, disablement, or death due to employment injury. Learn everything you need to know about ESIC registration here.",
+            "keywords": [
+              "ESIC registration",
+              "Employee State Insurance Corporation",
+              "ESIC benefits",
+              "Employees’ State Insurance Act",
+              "how to register for ESIC",
+              "ESIC compliance",
+              "medical benefits ESIC",
+              "cash benefits ESIC",
+              "ESIC in India",
+              "ESIC requirements"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">Purpose of ESIC Registration</p><p>ESIC registration is aimed at providing social security to employees by ensuring access to medical care and financial assistance during times of need. It covers various contingencies such as sickness, maternity, disablement, and death due to employment injury.</p></div><div class=\"para_with_head\"><p class=\"head\">Applicability</p><p>ESIC registration is mandatory for factories and other establishments notified under the Employees’ State Insurance Act, 1948. It applies to entities with ten or more employees (twenty or more in certain states).</p></div><div class=\"list_container\"><p>Registration Process : </p><ul><li>Employers need to register themselves with the ESIC within 15 days of the Act becoming applicable to their establishment.</li><li>Registration can be done online through the ESIC portal (<a href=\"http://www.esic.in\">www.esic.in</a>) by filling out the required forms and submitting necessary documents such as PAN card, address proof, and details of employees.</li></ul></div><div class=\"list_container\"><p>Benefits of ESIC Registration :</p><ul><li><span>Medical Benefits :</span> ESIC provides comprehensive medical care to insured employees and their dependents through a network of dispensaries, hospitals, and clinics.</li><li><span>Cash Benefits :</span> ESIC offers cash benefits in the form of sickness benefit, maternity benefit, disablement benefit, dependent’s benefit, and funeral expenses.</li><li><span>Other Benefits :</span> ESIC also provides vocational rehabilitation, super specialty treatment, and various health education programs.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Compliance Requirements</p><p>Once registered, employers need to comply with various obligations such as maintaining registers, submitting monthly contribution statements, providing medical facilities, and reporting accidents.</p></div><div class=\"para_with_head\"><p class=\"head\">Validity</p><p>ESIC registration is valid as long as the establishment is operational and complies with the provisions of the Employees’ State Insurance Act, 1948.</p></div><div class=\"para_with_head\"><p class=\"head\">Penalties for Non-Compliance</p><p>Failure to register with ESIC or comply with its provisions may attract penalties, fines, and legal actions against the employer.</p></div><div class=\"para_with_head\"><p class=\"head\">Exemptions</p><p>Certain categories of employees or establishments may be exempted from ESIC coverage, subject to fulfillment of specified conditions.</p></div><div class=\"para_with_head\"><p class=\"head\">Additional Information</p><p>Employers are encouraged to familiarize themselves with the ESIC Act, rules, and guidelines to ensure compliance and provide adequate social security benefits to their employees.</p></div><div class=\"list_container\"><p>Who needs to register for ESI? (What establishments need ESI registration?)  : </p><ul><li>Shops</li><li>Hotels or restaurants not having any manufacturing activity, but only engaged in ‘sales’</li><li>Cinemas including preview theaters</li><li>Road Motor Transport Establishments</li><li>News paper establishments</li><li>Private Educational Institutions (those run by individuals, trustees, societies or other organizations and Medical Institutions including Corporate, Joint Sector, trust, charitable, and private ownership hospitals, nursing homes, diagnostic centers, pathological labs)</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Rate of Contribution towards ESIC</p><p>Currently, the employee’s contribution rate towards ESIC (w.e.f. 01.07.2019) is 0.75% of the wages and that of the employer’s is 3.25% of the wages paid/payable in respect of the employees in every wage period.<br>However, this rate keeps on changing from time to time. </p></div><div class=\"para_with_head\"><p class=\"head\">Contribution Period and Benefit Period  </p><p>There are two contribution periods each of six months duration and two corresponding benefit periods also of six months duration.</p></div><p class=\"paragraph\">ESIC registration is a statutory responsibility of the employers of the factory. It is mandatory according to the rules and regulation of the ESI Act 1948.</p></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""      
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Benefits of Registring ESIC",
+            "sub_head": "Here are some key advantages of ESIC registration",
+            "list": [
+                {
+                    "title": "Medical Benefits",
+                    "description": "ESIC provides comprehensive medical care to insured employees and their dependents. This includes outpatient treatment, specialist consultation, diagnostic tests, hospitalization, surgeries, and maternity benefits."
+                },
+                {
+                    "title": "Cash Benefits",
+                    "description": "ESIC offers cash benefits to insured employees during periods of sickness, maternity, disablement, or death due to employment injury. These benefits include sickness benefit, maternity benefit, disablement benefit, dependent’s benefit, and funeral expenses."
+                },
+                {
+                    "title": "Financial Security",
+                    "description": "ESIC registration provides financial security to employees by ensuring access to medical care and financial assistance during times of need. It helps employees and their families cope with medical emergencies and unforeseen circumstances without facing financial hardship."
+                },
+                {
+                    "title": "Reduced Healthcare Costs",
+                    "description": "By availing medical services through ESIC dispensaries, hospitals, and clinics, employees can significantly reduce their out-of-pocket healthcare expenses. ESIC covers a wide range of medical treatments and procedures, thereby alleviating the financial burden on employees."
+                },
+                {
+                    "title": "Enhanced Productivity",
+                    "description": "Access to quality healthcare and timely medical intervention under ESIC leads to improved health outcomes and faster recovery for employees. This, in turn, enhances productivity levels as employees are better able to perform their duties without being hampered by health issues."
+                },
+                {
+                    "title": "Employee Welfare",
+                    "description": "ESIC registration demonstrates an employer’s commitment to the welfare and well-being of their workforce. It fosters a positive work environment and strengthens employee morale by providing them with essential healthcare and financial support."
+                },
+                {
+                    "title": "Legal Compliance",
+                    "description": "ESIC registration is mandatory for certain categories of employers under the Employees’ State Insurance Act, 1948. Compliance with ESIC regulations ensures that employers fulfill their legal obligations towards providing social security benefits to their employees."
+                },
+                {
+                    "title": "Attracting and Retaining Talent",
+                    "description": "Offering ESIC benefits can make an employer more attractive to potential employees and aid in retaining existing talent. Employees value access to healthcare and financial security, and ESIC registration signals that the employer prioritizes these aspects."
+                },
+                {
+                    "title": "Reduced Absenteeism",
+                    "description": "By providing timely medical care and support, ESIC helps in reducing absenteeism due to illness or injury. Employees are more likely to seek medical treatment promptly, leading to quicker recovery and fewer days off work."
+                },
+                {
+                    "title": "Government Subsidies and Support",
+                    "description": "Employers registered under ESIC may be eligible for various government subsidies, incentives, and support schemes aimed at promoting employee welfare and social security."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": false,
+            "list": []
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 6499,
+                  "current_price": 5999,
+                  "list" : [
+                    "ESIC Registration (employees less than 20)"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 14999,
+                  "current_price": 12999,
+                  "list" : [
+                    "ESIC Registration (employees less than 20)",
+                    "ESIC Return for 1 year"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 22999,
+                  "current_price": 19999,
+                  "list" : [
+                    "ESIC Return for 1 year",
+                    "ESIC Registration (employees less than 50)" 
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is ESIC Registration?",
+                        "answer": "ESIC registration is a mandatory registration for employers under the Employees’ State Insurance Act, 1948. It provides medical and cash benefits to employees and their dependents in case of sickness, maternity, disablement, or death due to employment injury."
+                    },
+                    {
+                        "question": "Who needs to obtain ESIC Registration?",
+                        "answer": "Employers of factories and other establishments notified under the Employees’ State Insurance Act, 1948 need to obtain ESIC registration. It applies to entities with ten or more employees (twenty or more in certain states)."
+                    },
+                    {
+                        "question": "What are the benefits of ESIC Registration?",
+                        "answer": "Benefits of ESIC registration include access to medical benefits such as outpatient treatment, hospitalization, maternity benefits, and cash benefits such as sickness benefit, maternity benefit, disablement benefit, dependent’s benefit, and funeral expenses."
+                    },
+                    {
+                        "question": "How can I apply for ESIC Registration?",
+                        "answer": "Employers can apply for ESIC registration online through the ESIC portal (www.esic.in) by filling out the required forms and submitting necessary documents such as PAN card, address proof, and details of employees."
+                    },
+                    {
+                        "question": "Is there any fee for ESIC Registration?",
+                        "answer": "No, there is no registration fee for ESIC registration. The process is free of cost and can be completed online."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "What documents are required for ESIC Registration?",
+                        "answer": "Documents required for ESIC registration include PAN card of the employer, address proof of the establishment, registration certificate, and details of employees such as Aadhaar card, PAN card, and bank account details."
+                    },
+                    {
+                        "question": "What is the contribution rate for ESIC?",
+                        "answer": "Both employers and employees contribute to the ESIC fund. The current rate of contribution is 4% of the wages, with the employer contributing 3.25% and the employee contributing 0.75%."
+                    },
+                    {
+                        "question": "What are the compliance requirements after ESIC Registration?",
+                        "answer": "Employers need to comply with various obligations such as maintaining registers, submitting monthly contribution statements, providing medical facilities, and reporting accidents."
+                    },
+                    {
+                        "question": "What is the validity period of ESIC Registration?",
+                        "answer": "ESIC registration is valid as long as the establishment is operational and complies with the provisions of the Employees’ State Insurance Act, 1948."
+                    },
+                    {
+                        "question": "What are the penalties for non-compliance with ESIC regulations?",
+                        "answer": "Failure to register with ESIC or comply with its provisions may attract penalties, fines, and legal actions against the employer."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

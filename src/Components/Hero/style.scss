@@ -1,0 +1,268 @@
+
+
+
+@import "../../Styles/variables";
+
+
+.hero__{
+   
+    .outer_wrapper{
+        background-image: url("/assets/img/5.jpg");
+        overflow: 0.4;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+        background-attachment: fixed;
+        
+        &::before{
+            filter: blur(2px);
+            content:  " ";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(35, 34, 35, 0.44);
+        }
+        min-height: 400px;
+        overflow: hidden;
+   
+  
+    .wrapper{
+    
+        height: 75vh;
+        max-width: 1524px;
+        margin: 0px auto;
+        padding: 120px 0px 120px 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 44px;
+
+        
+        .content{
+            height: 100%;
+            padding: 0px 0px;
+            z-index: 50;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+
+            .title{
+                text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+                font-family:"Newsreader";
+                text-align: center;
+                font-size: clamp(1rem, 12vh + 1rem, 6rem); /* Responsive font size */
+                color: white;
+                font-weight: 700;
+                line-height: normal;
+
+                span{
+                    text-align: center;
+                    color: $clr_yel_prim;
+                   &:last-child{
+                    margin-top: 20px;
+                    display: inline-block;
+                   }
+                }
+            }
+
+            .description{
+               
+                color: #f4f4f4;
+                line-height: normal;
+                text-align: center;
+                font-weight: 400;
+                font-size: 1.2rem;
+                max-width: 60%;
+                margin: 0px auto;
+               
+            }
+
+            .ctat{
+             margin-top: 22px;
+             justify-content: center;
+                gap: 24px;
+                .cta_hero{
+                    outline: none;
+                    color: white;
+                    display: flex;
+                    align-items: center;
+                    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+                                       
+                    width: fit-content;
+                    overflow: hidden;
+                    gap: 12px; 
+                    font-size: 1.1rem;
+                    padding: 14px 20px;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                  
+                    transition: all 50ms ease-in-out;
+                    border-radius: calc(.5rem - 1px);
+                    cursor: pointer;
+                    font-weight: 500;
+
+                 
+                    &.primary{
+                        color: #ffcc5f;
+                        border: 1px solid rgba(128, 128, 128, 0.422);
+                        background-color: #1b1f22;
+                    }
+                    &.secondary{
+                        background: #6b6b6b53;
+                        border: 1px solid #373737;
+                    }
+
+                    &:active{
+                        transform: scale(0.9);
+                    }
+                }
+            }
+        }
+
+    
+    }
+
+     }
+}
+
+
+
+
+/* Mobile devices (small) */
+@media (max-width: 480px) {
+    /* Styles for small mobile devices */
+    .hero__{
+        background-image: none;
+        
+        &::before{
+        display: none;
+        }
+        .outer_wrapper{
+            .wrapper{
+                height: fit-content;
+                padding:20px 0px;
+                background-image: url("/assets/img/5.jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                gap: 24px;
+                justify-content: flex-end;
+                &::before{
+                
+                    content:  " ";
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: linear-gradient(rgba(0, 0, 0, 0.722),rgba(0, 0, 0, 0.506),black);
+                }
+
+            
+                display: flex;
+                flex-direction: column;
+                gap: 0px;
+              
+                .content{
+                   
+                    padding: 20px 0px 60px 0px;
+                    gap: 20px;
+                    .title{
+                        font-family:sans-serif;
+                        padding: 5px 0px 5px 20px;
+                        text-align: left;
+                        font-size: 2.8rem; /* Responsive font size */
+
+                        span{
+                            &:last-child{
+                                margin-top: 0px;
+                            }
+                        }
+    
+                    }
+    
+                    .description{
+                        padding: 5px 20px;
+                        max-width: 100%;
+                        text-align: left;
+                        font-size: 0.90rem; 
+                        font-weight: 300;
+                        color: rgba(212, 211, 211, 0.861);
+    
+                    }
+    
+                    .ctat{
+                        // background-color: blue;
+                        gap: 12px;
+                        justify-content: flex-start;
+                        padding: 0px 0px 0px 20px;
+                        .cta_hero{
+                            box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+                            gap: 10px; 
+                            font-size: 0.90rem;
+                            padding: 14px 12px;
+                            box-sizing: border-box;
+                            .icon{
+                                width: 18px;
+                                height: auto;
+                            }   
+                            &.secondary{
+                                border: 1px solid rgba(128, 128, 128, 0.12);
+                                background-color: rgb(17, 17, 17);
+                            }
+                        }
+                      
+                       }
+    
+                }
+             
+            }
+        }
+    
+    }
+}
+
+/* Media query for iPhone 8 Plus in portrait orientation */
+
+/* Mobile devices (medium) */
+@media (min-width: 481px) and (max-width: 767px) {
+    /* Styles for medium mobile devices */
+    
+  
+}
+
+/* Tablets (portrait) */
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* Styles for small tablets */
+}
+
+/* Tablets (landscape) */
+@media (min-width: 1025px) and (max-width: 1279px) {
+    /* Styles for large tablets */
+}
+
+/* Laptops */
+@media (min-width: 1280px) and (max-width: 1366px) {
+    /* Styles for small laptops */
+}
+
+/* Medium desktops */
+@media (min-width: 1367px) and (max-width: 1440px) {
+    /* Styles for medium desktops */
+}
+
+/* Large desktops */
+@media (min-width: 1441px) and (max-width: 1920px) {
+    /* Styles for large desktops */
+}
+
+/* Extra large desktops */
+@media (min-width: 1921px) {
+    /* Styles for extra large desktops */
+}

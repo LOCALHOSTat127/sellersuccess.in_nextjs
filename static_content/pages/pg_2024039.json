@@ -1,0 +1,153 @@
+{
+    "mata_info": {
+        "read_time": "6 minutes reading",
+        "date_publish": "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary": "A Designated Partner in an LLP is an individual responsible for managing the LLP and ensuring compliance with legal and regulatory requirements. They must be an individual resident in India and hold a valid DIN (Director Identification Number). Designated Partners are involved in the day-to-day operations and strategic decisions of the LLP. They also sign documents on behalf of the LLP and are accountable for its compliance with the LLP Act and other regulations.",
+        "seo": {
+            "title": "Who is a Designated Partner under LLP?",
+            "description": "A Designated Partner in a Limited Liability Partnership (LLP) is an individual appointed to manage the affairs of the LLP and ensure compliance with legal requirements. Unlike regular partners, Designated Partners have specific responsibilities, including filing annual returns, maintaining records, and representing the LLP in legal matters. They must be registered with the Ministry of Corporate Affairs (MCA) and hold a valid Designated Partner Identification Number (DPIN).",
+            "keywords": [
+                "Designated Partner",
+                "Limited Liability Partnership",
+                "LLP",
+                "Designated Partner Identification Number",
+                "DPIN",
+                "LLP Management",
+                "Legal Compliance LLP",
+                "Roles and Responsibilities LLP"
+            ]
+        }
+    },
+    "content": "<section class=\"dynamic_html_fluyed\"><p>Every LLP must have at least two Designated Partners who are natural persons and at least one of them shall be resident in India. The LLP deed specifies who are to be Designated Partners and the responsibility of doing all acts, things and matters as are required under the LLP Act vests with the Designated Partners and they are concerned with the overall administration of LLP. A Designated Partner can be removed in LLP or added in LLP by passing a resolution and filing relevant forms with the Registrar of Companies.</p><p>Mandatory requirements for appointment of Designated Partners are valid Digital Signature Certificate (DSC), Designated Partner Identification Number (DPIN) and Consent Letter from proposed Designated Partner. DPIN is similar to DIN in case of Directors of Companies. You may read the DIN Application to understand how to apply for DPIN. DPIN can be obtained for any person above the age of 18. Indian National, Non-Resident Indians, and Foreign Nationals can be appointed a Designated Partner in India.</p></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": null
+        },
+        "isnCol": {
+            "state": false,
+            "head": "",
+            "sub_head": "",
+            "list": null
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "WHO CANNOT BE A DESIGNATED PARTNER IN LLP",
+            "sub_head": "Here are some categories of individuals who cannot be designated partners",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Minor",
+                    "subhead": "A person below 18 years cannot be a designated partner of an LLP as they lack the legal capacity to enter into contracts and assume responsibilities."
+                },
+                {
+                    "index": 2,
+                    "head": "Undischarged Insolvent",
+                    "subhead": "Individuals declared as undischarged insolvents by a court cannot be designated partners to prevent financially insolvent individuals from managing an LLP."
+                },
+                {
+                    "index": 3,
+                    "head": "Persons disqualified by law",
+                    "subhead": "Individuals disqualified by law from holding office as directors of a company cannot be designated partners. This includes those convicted of certain offenses or disqualified by regulatory authorities."
+                },
+                {
+                    "index": 4,
+                    "head": "Persons declared unfit by the National Company Law Tribunal (NCLT)",
+                    "subhead": "The NCLT can declare individuals unfit to act as directors or designated partners if found guilty of fraud, mismanagement, or other corporate governance offenses."
+                },
+                {
+                    "index": 5,
+                    "head": "Persons declared unfit by the Central Government",
+                    "subhead": "The Central Government may declare individuals unfit based on criteria such as involvement in fraudulent activities or non-compliance with statutory requirements."
+                },
+                {
+                    "index": 6,
+                    "head": "Persons not eligible for LLP registration",
+                    "subhead": "Individuals who do not meet the eligibility criteria for LLP registration, such as non-residents without a place of business in India, cannot be designated partners."
+                },
+                {
+                    "index": 7,
+                    "head": "Persons disqualified under LLP agreement",
+                    "subhead": "The LLP agreement may specify additional disqualifications for designated partners, such as prohibiting employees of competing businesses from becoming designated partners."
+                }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Details regarding Capital Contribution of all the Incoming Partners",
+                "Occupation and Educational Qualifications of all the Incoming Partners",
+                "Scan photographs of all the Incoming Partners",
+                "Self attested and color copy PAN Card of all the Incoming Partners",
+                "Self attested and color copy ID Proof of all the Incoming Partners (Driving License/Passport/Voter ID)"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState": false,
+            "head": "Affordable Pricing for everybody.",
+            "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+                {
+                    "original_price": 1499,
+                    "current_price": 1299,
+                    "type": "Essential",
+                    "list": [
+                        "Execution of deed (Applicable for Partnership Firm)",
+                        "Preparation of Supplementary deed (Applicable for Partnership Firm)"
+                    ]
+                },
+                {
+                    "original_price": 2499,
+                    "current_price": 2299,
+                    "type": "Enhanced",
+                    "list": [
+                        "Execution of deed",
+                        "Documents preparation for filing",
+                        "Preparation of Supplementary deed",
+                        "Filing of Form 3 and Form 4 with Department"
+                    ]
+                },
+                {
+                    "original_price": 3499,
+                    "current_price": 3299,
+                    "type": "Ultimate",
+                    "list": [
+                        "DSC of Incoming Partner",
+                        "DIN of Incoming Partner",
+                        "Execution of deed",
+                        "Preparation of Supplementary deed",
+                        "Documents preparation for filing",
+                        "Filing of Form 3 and Form 4 with Department"
+                    ]
+                }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What are the requirements for becoming a Designated Partner?",
+                        "answer": "Every Limited Liability Partnership (LLP) must have at least two Designated Partners who are individuals, with at least one being a resident in India. Additionally, a Designated Partner must have a Digital Certificate and a Designated Partner Identification Number (DPIN)."
+                    },
+                    {
+                        "question": "What is the Minimum & Maximum number of Designated Partners required under an LLP?",
+                        "answer": "An LLP must have a minimum of two Designated Partners, but there is no maximum limit on the number of Designated Partners."
+                    },
+                    {
+                        "question": "What is the difference between a Partner and a Designated Partner?",
+                        "answer": "Any Partner can become a Designated Partner in accordance with the LLP agreement. The appointment procedures for both regular Partners and Designated Partners are similar, including changes in the LLP Agreement and filing of e-forms with the Ministry of Corporate Affairs (MCA). The key distinction is that Designated Partners have specific responsibilities and obligations under the LLP Act, while regular Partners may not."
+                    }
+                ],
+                "right": {
+                    "question": "What will be the obligation of a Partner in case he changes his name or address?",
+                    "answer": "Every partner must inform the LLP of any change in their name or address within fifteen days of the change. The LLP is then obligated to file the updated details with the Registrar within thirty days of the change using Form 4."
+                }
+            }
+        }
+    }
+}

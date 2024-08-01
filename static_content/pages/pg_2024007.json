@@ -1,0 +1,293 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/partnership.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To register a Partnership Firm in India, draft a Partnership Deed detailing roles and profit-sharing. Obtain PAN and TAN for the firm, then register the deed with the local Registrar of Firms. Additionally, secure any necessary licenses and GST registration. This process formalizes the partnership, providing legal recognition and allowing for smooth business operations.",
+        "seo" : {
+            "title": "How to Register a Partnership Firm: A Step-by-Step Guide",
+            "description": "Learn the process to register a partnership firm. This business structure involves two or more individuals managing and operating a business based on a Partnership Deed. Understand the steps to set up a partnership firm, its advantages, and why it's popular among small and medium-sized businesses in the unorganized sectors.",
+            "keywords": [
+              "register partnership firm",
+              "partnership firm registration",
+              "how to register a partnership",
+              "partnership firm setup",
+              "partnership deed",
+              "partnership firm advantages",
+              "business structure partnership",
+              "starting a partnership firm",
+              "partnership firm process",
+              "small business partnership"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">A partnership firm in India can be formed by drafting and registering a partnership deed, which outlines the terms and conditions of the partnership, including the names and addresses of the partners, their contributions, profit-sharing ratios, rights, and duties, et</p><p class=\"paragraph\">While registration is not mandatory for partnership firms, it is advisable to register with the Registrar of Firms to avail certain legal benefits and protection.</p><div class=\"list_container\"><p class=\"section-title\">Contents of Partnership Deed :</p><ul class=\"list\"><li>The name of the firm</li><li>Name and details of all partners</li><li>Date of commencement of business</li><li>Duration of the firm’s existence</li><li>Capital contributed by each partner</li><li>Profit/loss sharing ratio</li><li>Profit/loss sharing ratio</li><li>Interest on capital payable to partners</li><li>The extent of borrowings each partner can draw</li><li>Salary payable to partners, if any</li><li>The procedure of admission or retirement of a partner</li><li>The method used for calculating goodwill</li><li>Preparation of accounts of the firm</li><li>The procedure to be followed in case disputes arise between partners</li></ul></div><div class=\"list_container\"><p class=\"section-title\">Characteristics :</p><ul class=\"list\"><li><span>Minimum Partners :</span> A partnership firm must have a minimum of two partners. There can be a maximum of 100 partners in any kind of business except for banking business, where the maximum number of partners is 10.</li><li><span>Agreement :</span> Partnership is based on an agreement between partners known as the partnership deed.</li><li><span>Liability :</span> Partners have unlimited liability, meaning their personal assets may be used to settle the firm’s debts.</li><li><span>Profit Sharing :</span> Profits and losses are shared among the partners as per the partnership deed.</li><li><span>Management :</span> Partners jointly manage the affairs of the firm, unless specified otherwise in the partnership deed.</li><li><span>Duration   :</span> A partnership firm can be for a fixed term or at-will (partnership at-will).</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": true,
+            "content": {
+              "left_col": {
+                "head": "Advantages",
+                "list": [
+                    {
+                        "title": "Ease of Formation",
+                        "description": "Partnership firms are relatively easy and inexpensive to form compared to companies."
+                    },
+                    {
+                        "title": "Pooling of Resources",
+                        "description": "Partners can pool their resources, skills, and expertise, enabling the firm to benefit from their collective efforts."
+                    },
+                    {
+                        "title": "Flexibility",
+                        "description": "Partnership firms offer flexibility in management and decision-making, as partners have the freedom to run the business according to their agreement."
+                    },
+                    {
+                        "title": "Tax Benefits",
+                        "description": "Partnership firms are taxed as a separate entity, but the income is taxed at the individual partner’s tax rates, which may be advantageous in certain situations."
+                    },
+                    {
+                        "title": "Complementary Skills",
+                        "description": "Partners with different skills and expertise can complement each other, leading to better decision-making and problem-solving."
+                    }
+                  ]
+              },
+              "right_col": {
+                "head": "Disadvantages",
+                "list": [
+                    {
+                        "title": "Unlimited Liability",
+                        "description": "Partners have unlimited liability, meaning they are personally liable for the debts and obligations of the firm."
+                    },
+                    {
+                        "title": "Conflict Among Partners",
+                        "description": "Differences in opinion or conflicts among partners can arise, leading to disagreements and potentially affecting the firm’s operations."
+                    },
+                    {
+                        "title": "Limited Capital",
+                        "description": "Partnership firms may face limitations in raising capital compared to companies, as partners’ contributions are usually limited."
+                    },
+                    {
+                        "title": "Limited Life",
+                        "description": "Partnership firms may have a limited life, as they are dissolved upon the death, retirement, or insolvency of a partner unless otherwise specified in the partnership deed."
+                    },
+                    {
+                        "title": "Lack of Public Trust",
+                        "description": "Partnership firms may lack the public trust and credibility associated with larger corporate entities."
+                    }
+                  ]
+              }
+            }        
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Compliance Required For Partnership Firm",
+            "sub_head": "There are some compliance to be done.",
+            "list": [
+                {
+                    "title": "GSTIN",
+                    "description": "This registration is mandatory for Private Limited Companies engaging in taxable supplies of goods or services within 30 days of incorporation. Once registered, the company must collect GST on its sales, file regular tax returns, and comply with GST regulations, helping to ensure legal compliance and seamless business operations."
+                },
+                {
+                    "title": "GST Return",
+                    "description": "Filing GST returns involves submitting periodic reports to the tax authorities detailing its sales, purchases, and tax liabilities. These returns typically include: [detailed information can be inserted here]."
+                },
+                {
+                    "title": "Book Keeping",
+                    "description": "Accounting for a Private Limited Company is mandatory and involves several key steps and considerations to accurately record financial transactions, ensure compliance with regulatory requirements, and provide stakeholders with meaningful financial information."
+                },
+                {
+                    "title": "Statutory Audit",
+                    "description": "A statutory audit of a Private Limited Company is a mandatory examination of its financial records, conducted by an independent auditor to ensure compliance with statutory requirements and financial reporting standards irrespective of its turnover. The Board of Directors must appoint an Auditor within 30 days of incorporation and thereafter conduct an audit of its financial statements each financial year."
+                },
+                {
+                    "title": "Income Tax Audit",
+                    "description": "The requirement for an income tax audit of a Private Limited Company typically arises when the company’s annual turnover or profits exceed certain thresholds specified by tax authorities. \n- Turnover Threshold: If the company’s total turnover from business exceeds INR 1 crore (for the financial year 2021-22, subject to change as per amendments). \n- Profit Threshold: If the company’s net profit before tax exceeds 8% of its turnover or INR 6 crores, whichever is higher."
+                },
+                {
+                    "title": "ROC Annual Filing",
+                    "description": "Filing with the Registrar of Companies (ROC) is a mandatory compliance requirement for Private Limited Companies. Forms like AOC-04, MGT 7/7A are required to be submitted compulsorily by the company along with other forms which are filed on meeting certain criteria. Ensuring timely and accurate filing with the ROC is essential for maintaining compliance with regulatory requirements and avoiding penalties or legal liabilities."
+                },
+                {
+                    "title": "Trademark Registration",
+                    "description": "Trademark registration is a crucial step for protecting a company’s brand identity and intellectual property. While not legally mandatory, it offers significant advantages and protections. Registering a Private Limited Company with a name does not provide complete protection to the name or brand name. Ultimate protection is secured only by Trademark Registration, which grants ownership of the company name, brand name, logo, etc."
+                },
+                {
+                    "title": "IEC Registration",
+                    "description": "If a Private Limited Company wishes to engage in import or export activities, it is mandatory to obtain an IEC code. The code is a mandatory requirement for customs clearance for goods entering or leaving the country."
+                },
+                {
+                    "title": "Statutory Registers",
+                    "description": "The company must maintain statutory registers such as the Register of Members (shareholders), Register of Directors, Register of Charges, etc., and keep them updated."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "How to register Partnership Firm?",
+            "sub_head": "To register a partnership firm in India, you need to follow these steps:",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Choose a Name",
+                    "subhead": "Choose a unique name for your partnership firm. Ensure that the name is not already in use and does not violate any trademarks."
+                },
+                {
+                    "index": 2,
+                    "head": "Draft a Partnership Deed",
+                    "subhead": "Draft a partnership deed that outlines the terms and conditions of the partnership, including the names and addresses of partners, profit-sharing ratios, capital contributions, rights, and responsibilities, etc."
+                },
+                {
+                    "index": 3,
+                    "head": "Get the Partnership Deed Notarized",
+                    "subhead": "Once the partnership deed is drafted, it needs to be printed on a stamp paper of appropriate value and signed by all partners in the presence of a notary public. Notarization of the deed helps in providing legal validity."
+                },
+                {
+                    "index": 4,
+                    "head": "Obtain PAN (Permanent Account Number) and TAN (Tax Deduction and Collection Account Number)",
+                    "subhead": "Apply for PAN and TAN for the partnership firm from the Income Tax Department. PAN is required for opening a bank account and for various tax-related purposes, while TAN is necessary for deducting and remitting taxes."
+                },
+                {
+                    "index": 5,
+                    "head": "Register with Registrar of Firms",
+                    "subhead": "While registration of partnership firms is optional, it is advisable to register with the Registrar of Firms in the state where the partnership is situated. To register, submit the required documents and fees."
+                },
+                {
+                    "index": 6,
+                    "head": "Open a Bank Account",
+                    "subhead": "Use the Certificate of Registration obtained from the Registrar of Firms to open a bank account in the name of the partnership firm. A partnership bank account is necessary for carrying out business transactions."
+                },
+                {
+                    "index": 7,
+                    "head": "Obtain GST Registration (if applicable)",
+                    "subhead": "If the annual turnover of the partnership firm exceeds the threshold limit prescribed under the Goods and Services Tax (GST) Act, obtain GST registration."
+                },
+                {
+                    "index": 8,
+                    "head": "Fulfill Other Regulatory Requirements",
+                    "subhead": "Depending on the nature of the business, obtain licenses, permits, or registrations from other regulatory authorities as per applicable laws and regulations."
+                },
+                {
+                    "index": 9,
+                    "head": "Compliance with Income Tax Requirements",
+                    "subhead": "File income tax returns for the partnership firm and partners as per the provisions of the Income Tax Act, 1961."
+                },
+                {
+                    "index": 10,
+                    "head": "Maintain Records",
+                    "subhead": "Maintain proper accounting records, books of accounts, and other financial documents as required by law."
+                }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph of all the Partners",
+                "PAN Card of all the Partners",
+                "ID Proof of all the Partners (Driving License/Passport/Voter ID)",
+                "Electricity Bill or any other utility bill"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "original_price": 1799,
+                "current_price": 1599,
+                "type": "Essential",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "Drafting of deed",
+                    "Execution of Deed"
+                  ]                  
+              },
+              {
+                  "original_price": 3999,
+                "current_price": 3399,
+                "type": "Enhanced",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "GST Registration",
+                    "Drafting of deed",
+                    "Execution of Deed"
+                  ]                  
+              },
+              {
+                  "original_price": 22999,
+                "current_price": 19999,
+                "type": "Ultimate",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "GST Registration",
+                    "Drafting of deed",
+                    "Execution of Deed",
+                    "SSI/MSME Registration",
+                    "Accounting and Book-keeping (up to 500 transactions)",
+                    "Income Tax filing upto turnover of Rs. 50 Lakhs",
+                    "GST Returns for one year (GSTR 3B and GSTR 1)"
+                  ]
+                  
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is a partnership firm?",
+                        "answer": "A partnership firm is a business structure where two or more individuals (partners) agree to carry on a business together and share its profits and losses as per the terms of a partnership deed."
+                    },
+                    {
+                        "question": "How is a partnership firm different from a sole proprietorship?",
+                        "answer": "In a sole proprietorship, the business is owned and operated by a single individual, who is personally liable for all debts and obligations. In contrast, a partnership firm involves two or more individuals who share ownership, liabilities, and responsibilities."
+                    },
+                    {
+                        "question": "What are the key features of a partnership firm?",
+                        "answer": "Key features of a partnership firm include: Agreement between partners (partnership deed), Two or more partners, Sharing of profits and losses, Unlimited liability of partners, Mutual agency relationship among partners."
+                    },
+                    {
+                        "question": "Is registration of a partnership firm mandatory?",
+                        "answer": "No, registration of a partnership firm is optional. However, it is advisable to register with the Registrar of Firms to avail certain legal benefits and protection."
+                    },
+                    {
+                        "question": "What is a partnership deed?",
+                        "answer": "A partnership deed is a written agreement that outlines the terms and conditions of the partnership, including the names and addresses of partners, profit-sharing ratios, capital contributions, rights, and responsibilities."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "How are profits and losses shared in a partnership firm?",
+                        "answer": "Profits and losses in a partnership firm are typically shared among partners as per the terms of the partnership deed. The profit-sharing ratio may be equal or based on the capital contributions or other agreed-upon criteria."
+                    },
+                    {
+                        "question": "What is the liability of partners in a partnership firm?",
+                        "answer": "Partners in a partnership firm have unlimited liability, meaning they are personally liable for the debts and obligations of the firm. Creditors can claim against the personal assets of the partners to settle the firm’s debts."
+                    },
+                    {
+                        "question": "Can a partnership firm have more than one office?",
+                        "answer": "Yes, a partnership firm can have multiple offices as per its business requirements. Each office may have its own address and operations."
+                    },
+                    {
+                        "question": "How are decisions made in a partnership firm?",
+                        "answer": "Decisions in a partnership firm are typically made by mutual agreement among the partners. In some cases, the partnership deed may specify procedures for decision-making, such as voting rights or the appointment of a managing partner."
+                    },
+                    {
+                        "question": "Can a partnership firm be converted into another type of business structure?",
+                        "answer": "Yes, a partnership firm can be converted into another type of business structure, such as a company, LLP (Limited Liability Partnership), or sole proprietorship, subject to compliance with the relevant legal requirements and procedures."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

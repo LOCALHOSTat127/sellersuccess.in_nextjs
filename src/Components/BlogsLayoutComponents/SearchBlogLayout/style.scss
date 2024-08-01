@@ -1,0 +1,30 @@
+.blog_searchbar_container{
+    background-image: url("/assets/img/8.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    .bsbc_wrapper{
+        max-width: 924px;
+        margin: 0px auto;
+        min-height: 200px;
+        max-height: 200px;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px){
+    .blog_searchbar_container{
+        .bsbc_wrapper{
+            max-width: 100%;
+            margin: 0px auto;
+            min-height: 100px;
+            max-height: 100px;
+            padding: 10px 18px;
+            display: flex;
+            align-items:center;
+            justify-content: center;
+        }
+    }
+}

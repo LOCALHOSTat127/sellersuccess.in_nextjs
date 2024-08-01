@@ -1,0 +1,158 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "18 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "GST returns are periodic reports that businesses must file with tax authorities to detail their sales, purchases, and GST payments. To file GST returns, log in to the GST portal, select the appropriate return form (like GSTR-1 for outward supplies, GSTR-3B for summary of inward and outward supplies), fill in the details, and submit it along with any required payments. Ensure timely filing to avoid penalties and maintain compliance.",
+        "seo" : {
+            "title": "GST Returns: Everything You Need to Know",
+            "description": "Understand GST returns and their importance in compliance with GST law. Learn what GST returns are, why they are required, and how to file them properly to meet tax obligations.",
+            "keywords": [
+              "GST returns",
+              "what are GST returns",
+              "GST filing requirements",
+              "Goods and Services Tax returns",
+              "how to file GST returns",
+              "GST compliance",
+              "GST return documents",
+              "taxpayer GST returns",
+              "GST law and returns",
+              "file GST returns"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p class=\"section-title\">Here are some key points regarding GST cancellation :</p><ul><li><span>Types of GST Returns :</span> GSTR-1 (Outward Supplies), GSTR-3B (Summary Return), GSTR-4 (Composition Scheme Return), GSTR-9 (Annual Return)</li><li><span>Frequency of Filing :</span>Regular taxpayers file monthly returns, while composition scheme taxpayers file quarterly returns</li><li><span>Components of GST Return :</span> Outward supplies, Inward supplies, Taxes collected and paid, Input tax credit availed and reversed, Tax payable or refundable</li><li><span>Filing Process :</span> GST returns are filed electronically through the GST portal (www.gst.gov.in). Taxpayers need to log in to their GST account, enter the required details, and submit the return online.</li><li><span>Due Dates :</span> GSTR-1 is due on the 11th of the following month, while GSTR-3B is due on the 20th of the following month</li><li><span>Late Filing Penalty :</span> Late filing of GSTR-3B attracts penalties, with Rs. 50 per day of delay (Rs. 20 for nil return filers), subject to a maximum of Rs. 5,000</li><li><span>Reconciliation :</span> Taxpayers need to reconcile GST return data with financial records to ensure accuracy and compliance</li><li><span>Amendment and Revision :</span> Taxpayers can amend or revise GST returns within a specified time period, with limitations on the number of times amendments can be made</li><li><span>Annual Return :</span> Apart from regular returns, taxpayers file GSTR-9 annually, summarizing the year's transactions</li><li><span>GST Audit and Assessment :</span> GST authorities conduct audits or assessments to verify return accuracy and completeness</li><li><span>Penalties for Non-Compliance :</span> Non-compliance with GST return filing attracts penalties, fines, and interest as per GST laws</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Various Returns under GST",
+            "sub_head": "",
+            "list": [
+                {
+                    "title": "GSTR 3B Filing",
+                    "description": "GSTR-3B is a monthly self-declaration, which should be filed by every registered person under GST. It is a simplified summary return of inward and outward supplies. Due date of filing of GSTR 3B is 20th of the subsequent month. GSTR 3B once filed cannot be revised."
+                },
+                {
+                    "title": "GSTR 1 Filing",
+                    "description": "GSTR-1 is the record of all sales. Under this form, the suppliers will have to report their outward supplies during the reporting month. All registered taxable persons are required to file GSTR-1 by the 10th of the following month or quarter."
+                },
+                {
+                    "title": "GSTR 9 Filing",
+                    "description": "GSTR-9 is the annual return filed by all taxpayers registered under GST. It consolidates all the monthly/quarterly returns filed in that year. Due date of filing of GSTR 9 is 31st December every year."
+                },
+                {
+                    "title": "GSTR 9A Filing",
+                    "description": "GSTR-9A is an annual return filed by dealers who have opted for the Composition Scheme under GST. It includes all the information furnished in the quarterly returns filed by composition taxpayers during the financial year. Due date of filing of GSTR 9A is 31st December every year."
+                },
+                {
+                    "title": "GSTR 9C Filing",
+                    "description": "GSTR-9C is a reconciliation statement between the Annual returns filed in GSTR-9 and the audited annual financial statements of the taxpayer. It must be filed on or before 31st December of the subsequent year."
+                },
+                {
+                    "title": "GSTR 4 Filing",
+                    "description": "GSTR-4 is a quarterly return filed by dealers opting for the Composition Scheme. Unlike regular taxpayers who file monthly returns, composition dealers file GSTR-4 once every quarter by the 18th of the month following the quarter."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": false,
+            "list": []
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 799,
+                  "current_price": 599,
+                  "list" : [
+                    "Filing of one NIL GST return (GSTR 3B or GSTR 1)"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 2599,
+                  "current_price": 2499,
+                  "list" : [
+                    "GST Annual Return (GSTR 9 or 9A or 9B)"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 7999,
+                  "current_price": 6999,
+                  "list" : [
+                    "GST Returns for one year (all returns included)"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is a GST Return?",
+                        "answer": "A GST return is a document that taxpayers file with tax authorities, detailing their income under GST. It includes sales, purchases, output tax, input tax credit (ITC), and tax payable."
+                    },
+                    {
+                        "question": "How many types of GST Returns are there?",
+                        "answer": "There are several types: GSTR-1 (Outward Supplies), GSTR-3B (Summary Return), GSTR-4 (Composition Scheme Return), GSTR-9 (Annual Return), and others as per specific requirements."
+                    },
+                    {
+                        "question": "Who needs to file GST Returns?",
+                        "answer": "All entities registered under GST, including regular taxpayers, composition scheme taxpayers, ISDs, and non-resident taxpayers, must file GST returns according to specified due dates."
+                    },
+                    {
+                        "question": "What is the frequency of filing GST Returns?",
+                        "answer": "Frequency depends on taxpayer type: Regular taxpayers file monthly returns, while composition scheme taxpayers file quarterly returns."
+                    },
+                    {
+                        "question": "What are the components of a GST Return?",
+                        "answer": "Key components include: Outward supplies (sales), Inward supplies (purchases), Taxes collected and paid, Input tax credit (ITC) availed and reversed, and Tax payable or refundable."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "How can I file GST Returns?",
+                        "answer": "GST returns are filed electronically through the GST portal (www.gst.gov.in). Taxpayers log in to their GST account, enter required details, and submit the return online."
+                    },
+                    {
+                        "question": "What are the due dates for filing GST Returns?",
+                        "answer": "Due dates vary by return type. For example, GSTR-1 is due on the 11th of the following month, while GSTR-3B is due on the 20th of the following month."
+                    },
+                    {
+                        "question": "What are the penalties for late filing of GST Returns?",
+                        "answer": "Late filing attracts penalties. For GSTR-3B, it's Rs. 50 per day of delay (Rs. 20 for nil return filers), up to a maximum of Rs. 5,000."
+                    },
+                    {
+                        "question": "Can I amend or revise my GST Returns?",
+                        "answer": "Yes, taxpayers can amend or revise GST returns within a specified time period for errors or omissions. There are limitations on the number of amendments."
+                    },
+                    {
+                        "question": "Is it mandatory to file an Annual Return under GST?",
+                        "answer": "Yes, besides regular returns, taxpayers must file an annual return (GSTR-9) summarizing the entire year’s transactions and financial details."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

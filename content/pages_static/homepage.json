@@ -1,0 +1,46 @@
+{
+   
+   
+   
+    "herosection" : {
+        "title" : "Simplify your Taxation & Compliance.",
+        "description" : "Our services include Goods and Service Tax returns and registration, income tax returns and compliance, and company and LLP registration.",
+        "hero_img" : "/assets/svg/hero.svg",
+        "mob_hero_img" : "/assets/svg/mob_hero_img.svg",
+        "bg_img" : "",
+        "alt" : "Hero Image",
+        "cts" : {
+            "primary" : {
+                "text" : "Get an CallBack",
+                "icon" : "/assets/svg/call.svg"
+            },
+            "secondary" : {
+                "text" : "Explore More",
+                "icon" : "/assets/svg/down_arrow.svg"
+            }
+        }
+    },
+
+    "showcase_bar" : [
+        {
+            "text" : "Expert Team",
+            "descrtption" : "Our expert team ensures high-quality results every time.",
+            "icon" : "/assets/svg/archive-outline.svg"
+        },
+        {
+            "text" : "Industry Expert",
+            "descrtption" : "Experts with deep insights lead and innovate our projects.",
+            "icon" : "/assets/svg/flask-outline.svg"
+        },
+        {
+            "text" : "Pro Approach",
+            "descrtption" : "We solve problems proactively, anticipating your needs.",
+            "icon" : "/assets/svg/planet-outline.svg"
+        },
+        {
+            "text" : "Excellent  Service",
+            "descrtption" : "Exceptional support and service at every step of the way.",
+            "icon" : "/assets/svg/rocket-outline.svg"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.skleten{
+    opacity: 0.7;
+    animation: skleten-loading 1.2s linear infinite alternate;
+}
+
+.skleten-text{
+    width: 100%;
+    min-height: 1rem;
+    border-radius: 4px;
+    margin-bottom: 4px;
+
+    &.last{
+        margin-bottom: 0px;
+        width: 80%;
+    }
+
+    &.title{
+        min-height: 1.4rem;
+    }
+}
+
+@keyframes skleten-loading {
+    0% {
+        background-color: hsl(198, 24%, 39%);
+    }
+    50% {
+        background-color: hsl(200, 3%, 35%);
+    }
+    100% {
+        background-color: hsl(0, 0%, 100%);
+    }
+}

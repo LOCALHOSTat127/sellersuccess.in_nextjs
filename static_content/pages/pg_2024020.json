@@ -1,0 +1,160 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "A TAN (Tax Deduction and Collection Account Number) is required for businesses to deduct tax at source in India. To apply, visit the official TIN-NSDL or UTIITSL website and fill out Form 49B. Provide necessary details like business name, type, and address. Submit the form online and pay the application fee. Once processed, the TAN is issued and used for TDS compliance and reporting.",
+        "seo" : {
+            "title": "How to Apply for a TAN Number: A Complete Guide",
+            "description": "Learn how to apply for a TAN (Tax Deduction and Collection Account Number), a 10-digit alphanumeric identifier issued by the Income Tax Department of India. TAN is essential for entities required to deduct or collect tax at source. Discover the application process and key details about obtaining your TAN number.",
+            "keywords": [
+              "apply for TAN number",
+              "TAN application process",
+              "how to get a TAN number",
+              "Tax Deduction and Collection Account Number",
+              "TAN number requirements",
+              "Income Tax Department TAN",
+              "TAN registration",
+              "TAN application guide",
+              "TDS and TAN",
+              "TAN number details"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">Purpose of TAN:</p><p>TAN is used to track tax deducted or collected at source by various entities as per the provisions of the Income Tax Act, 1961. It helps the Income Tax Department monitor compliance with tax deduction and collection obligations.</p></div><div class=\"para_with_head\"><p class=\"head\">Alphanumeric Code:</p><p>TAN is a 10-character alphanumeric code in the format: ABCD12345E, where the first four characters are letters (A-Z), followed by five numerals (0-9), and ending with a letter (A-Z).</p></div><div class=\"para_with_head\"><p class=\"head\">Mandatory Requirement:</p><p>TAN is mandatory for entities required to deduct or collect tax at source under the Income Tax Act. It is applicable to entities such as companies, firms, individuals, government departments, and others engaged in specified transactions.</p></div><div class=\"para_with_head\"><p class=\"head\">Entities Covered:</p><p>Entities required to deduct tax at source (TDS) on payments such as salary, interest, rent, commission, or fees are required to obtain TAN. Similarly, entities collecting tax at source (TCS) on sale of specified goods or services are also required to obtain TAN.</p></div><div class=\"para_with_head\"><p class=\"head\">Application for TAN:</p><p>TAN can be obtained by applying online through the NSDL (National Securities Depository Limited) or UTIITSL (UTI Infrastructure Technology and Services Limited) websites or authorized TAN facilitation centers. The application can be made using Form 49B along with the necessary documents and fees.</p></div><div class=\"para_with_head\"><p class=\"head\">Documents Required for TAN Application:</p><p>Documents required for TAN application include proof of identity (PAN card, Aadhaar card, passport, etc.), proof of address (Aadhaar card, utility bill, etc.), and other documents as specified by the Income Tax Department.</p></div><div class=\"para_with_head\"><p class=\"head\">Processing and Issuance of TAN:</p><p>Once the TAN application is submitted along with the required documents and fees, it is processed by NSDL or UTIITSL. Upon verification of the details provided, a unique TAN is generated and issued to the applicant.</p></div><div class=\"para_with_head\"><p class=\"head\">Validity of TAN:</p><p>TAN once allotted is valid for a lifetime and remains unchanged even in case of change in business details or ownership. However, entities are required to intimate the Income Tax Department regarding any changes in TAN-related information.</p></div><div class=\"para_with_head\"><p class=\"head\">Reporting and Compliance:</p><p>Entities holding TAN are required to deduct or collect tax at source as per the applicable rates and provisions of the Income Tax Act. They are also required to file TDS/TCS returns, issue TDS/TCS certificates, and comply with other reporting requirements.</p></div><div class=\"para_with_head\"><p class=\"head\">Verification of TAN:</p><p>TAN details can be verified online through the Income Tax Department’s TAN verification portal by entering the TAN number and captcha code.</p></div><p class=\"paragraph\">TAN plays a crucial role in the tax administration system of India and is an essential requirement for entities involved in tax deduction and collection at source. It helps ensure transparency, accountability, and compliance with tax laws.</p></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""      
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Key Features of TAN",
+            "sub_head": "",
+            "list": [
+                {
+                    "title": "Mandatory to quote",
+                    "description": "It is mandatory to quote TAN on TDS returns and challans. It is also required to be quoted in all correspondences with the IT Department."
+                },
+                {
+                    "title": "Validity",
+                    "description": "Once a TAN is issued, it is valid for lifetime. However, TDS Filings must be made quarterly on the 31st day of July, October, January, and May. Non-filing of TDS filings within the due date will attract a penalty."
+                },
+                {
+                    "title": "Multiple TAN",
+                    "description": "You can have multiple TAN for a single PAN. You can apply for different PAN for different branches of the same company."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": [ ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Identity Proof: Copy of PAN card",
+                "Address Proof: Aadhaar card, passport, voter ID, or utility bills (not more than 3 months old).",
+                "Business Proof"
+    
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 799,
+                  "current_price": 499,
+                  "list" : [
+                    "TAN Application"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 2499,
+                  "current_price": 1999,
+                  "list" : [
+                    "TAN Application",
+                    "GST Registration",
+                    "One TDS Return upto (10 entries)",
+                    "Issue of Form 16A"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 8499,
+                  "current_price": 6499,
+                  "list" : [
+                    "TAN Application",
+                    "One TDS Return upto 10 entries",
+                    "Issue of Form 16A",
+                    "TDS Returns for one year upto 500 entries",
+                    "Form 24Q, 26Q and 27Q (as applicable)",
+                    "Form 16A on a quarterly basis",
+                    "Form 16 on an annual basis for upto 5 employees"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is TAN (Tax Deduction and Collection Account Number)?",
+                        "answer": "TAN is a 10-digit alphanumeric number allotted by the Income Tax Department to persons who are required to deduct or collect tax on payments made by them under the Income Tax Act, 1961. It is mandatory for deductors and collectors of tax to quote TAN in all communications related to tax deductions and collections."
+                    },
+                    {
+                        "question": "Who needs to obtain TAN?",
+                        "answer": "Any person or entity responsible for deducting or collecting tax at source is required to obtain TAN. This includes individuals, companies, firms, government departments, and other entities making specified payments subject to tax deduction or collection."
+                    },
+                    {
+                        "question": "What are the types of payments requiring TAN?",
+                        "answer": "TAN is required for various payments subject to tax deduction or collection at source, including salaries, interest, dividends, rent, professional fees, contractual payments, and payments to contractors or subcontractors exceeding specified thresholds."
+                    },
+                    {
+                        "question": "How to apply for TAN?",
+                        "answer": "TAN can be applied for online through the NSDL-TIN website (https://www.tin-nsdl.com/services/tan/tan-index.html) or offline by submitting Form 49B to authorized TIN facilitation centers. The application should include details such as the applicant’s name, address, PAN, and nature of payment."
+                    },
+                    {
+                        "question": "What are the documents required for TAN application?",
+                        "answer": "The documents required for TAN application include proof of identity (PAN card, Aadhaar card, passport, etc.) and proof of address (utility bill, passport, driving license, etc.) of the applicant."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "What is the procedure for TAN application?",
+                        "answer": "The applicant needs to fill out Form 49B with the required details and submit it along with the supporting documents to the designated TIN facilitation center or online through the NSDL-TIN website. Upon verification, TAN will be allotted and communicated to the applicant."
+                    },
+                    {
+                        "question": "Is there a fee for TAN application?",
+                        "answer": "Yes, a processing fee is applicable for TAN application. The fee varies depending on whether the application is made online or offline and the mode of payment chosen by the applicant."
+                    },
+                    {
+                        "question": "How long does it take to obtain TAN after applying?",
+                        "answer": "TAN is typically allotted within a few days to weeks from the date of submission of the application, subject to verification and approval by the Income Tax Department."
+                    },
+                    {
+                        "question": "What is the validity of TAN?",
+                        "answer": "TAN once allotted is valid for a lifetime and remains unchanged even in case of changes in the name or address of the deductor or collector. It is essential to quote the TAN correctly in all tax-related transactions and communications."
+                    },
+                    {
+                        "question": "What are the consequences of not obtaining TAN or quoting incorrect TAN?",
+                        "answer": "Failure to obtain TAN or quoting incorrect TAN in tax-related transactions may attract penalties or prosecution under the Income Tax Act. It is mandatory for deductors and collectors to ensure compliance with TAN requirements to avoid any legal implications."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

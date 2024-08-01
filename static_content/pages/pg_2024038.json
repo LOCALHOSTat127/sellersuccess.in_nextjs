@@ -1,0 +1,172 @@
+{
+    "mata_info": {
+        "read_time": "6 minutes reading",
+        "date_publish": "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary": "To appoint a director in a company, follow these steps: Ensure the individual meets eligibility criteria and is not disqualified. Obtain their consent and a DIN (Director Identification Number) if not already held. Hold a board meeting to approve the appointment and pass a resolution. File Form DIR-12 with the Ministry of Corporate Affairs (MCA) within 30 days of the appointment. Ensure all details are accurately submitted to comply with regulatory requirements.",
+        "seo": {
+            "title": "What is Appointment of Director?",
+            "description": "The appointment of a director is a formal process by which individuals are appointed to serve on a company's board. Directors oversee management, make strategic decisions, and ensure legal compliance. This process involves nomination, approval by shareholders or board members, consent from the nominee, and filing necessary documents with regulatory authorities.",
+            "keywords": [
+                "Appointment of Director",
+                "Director Role",
+                "Company Board",
+                "Director Appointment Process",
+                "Director Identification Number",
+                "DIN",
+                "Corporate Governance",
+                "Board of Directors"
+            ]
+        }
+    },
+    "content": "<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>Who is Director in a Company?</p><ul><li>Director is an individual who directs, manages, oversees or controls the affairs of the Company.</li><li>He is a person appointed to the Board of a company to perform the duties and functions of a company in accordance with the provisions of The Company Act, 2013.</li><li>Director of a company is a natural person elected by the shareholders as per the Memorandum of Association and Articles of Association of the company.</li><li>The Board of Directors means a group of those individuals elected by the shareholders of a company to manage the affairs of the company.</li></ul></div><div class=\"list_container\"><p>Necessity / Reasons of appointing an additional Director in a company:</p><ul><li>When there is sudden death or plans of retirement/resignation or other personal reasons, if the existing Directors are unable to work for a long time, in such cases appointing an additional director is necessary to meet the statutory limit of the company.</li><li>For the growth of business, it is necessary to hire new talent in the management of the company.</li><li>In case where there is new product line or department added in the company, then to lead the team, appointing an expert as a director is necessary.</li><li>When the specified statutory number of directors reduces, then it is mandatory for a company to appoint a new director.</li><li>To help the shareholders assign more operational responsibilities without losing any strategic control.</li></ul></div><div class=\"list_container\"><p>Eligibility criteria for a person to be appointed as director in a company:</p><ul><li>The person appointed must be eligible as per the relevant clauses in the Articles of Association.</li><li>The proposed individual must be above the age of 18 i.e. a major.</li><li>He or she must qualify as per the laws mentioned under the Companies Act, 2013.</li><li>The Members of the Board must consent to the appointment of the proposed individual in which he seeks to get appointed as director.</li><li>It must be noted that the Companies Act does not mention any educational qualification in order to be eligible to become a Director.</li><li>Indian National, Non-Resident Indians, and Foreign Nationals can be appointed as a director in India.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": null
+        },
+        "isnCol": {
+            "state": false,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Types of Directors",
+            "sub_head": "",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Managing Director",
+                    "subhead": "A Director given substantial powers of management of the affairs of the Company by virtue of AOA, an agreement, a resolution passed in a general meeting, or by the Board of Directors."
+                },
+                {
+                    "index": 2,
+                    "head": "Executive Director",
+                    "subhead": "A director who is in full-time employment of the company and is engaged in the core management and affairs of the company."
+                },
+                {
+                    "index": 3,
+                    "head": "Additional Director",
+                    "subhead": "Directors appointed by the Board of Directors who can hold office until the next general meeting. They are first registered as additional directors in existing companies."
+                },
+                {
+                    "index": 4,
+                    "head": "Alternate Director",
+                    "subhead": "A director appointed by the Board of Directors to act for a Non-Resident Indian or Foreign Collaborator during their absence for a period exceeding three months."
+                },
+                {
+                    "index": 5,
+                    "head": "Ordinary Director",
+                    "subhead": "A director who attends Board Meetings and participates in Board matters, but is neither a whole-time director nor a Managing Director."
+                }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "PAN card: Mandatory for an Indian Applicant",
+                "Passport: Mandatory for a foreign Applicant",
+                "Self-attested copy of PAN",
+                "Consent to act as director in format of DIR-2",
+                "Copy of resolution passed by the shareholders",
+                "Notice for shareholders meeting",
+                "Self-attested copy of identity and address proof such as passport or Aadhar card or Election card"
+              ]
+              
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState": false,
+            "head": "Affordable Pricing for everybody.",
+            "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+                {
+                    "original_price": 2499,
+                    "current_price": 2299,
+                    "type": "Essential",
+                    "list": [
+                        "DIR 12 form filing for one director",
+                        "Documents Preparation"
+                      ]
+                      
+                },
+                {
+                    "original_price": 4599,
+                    "current_price": 4299,
+                    "type": "Enhanced",
+                    "list": [
+                        "DIR 12 form filing for one director",
+                        "Documents Preparation",
+                        "Director Identification Number",
+                        "Digital Signature Certificate"
+                      ]
+                      
+                },
+                {
+                    "original_price": 6499,
+                    "current_price": 5299,
+                    "type": "Ultimate",
+                    "list": [
+                        "DIR 12 form filing for one director",
+                        "Documents Preparation",
+                        "Director Identification Number",
+                        "Director Regularisation for one director",
+                        "Digital Signature Certificate"
+                      ]
+                      
+                }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "Recently one of the two directors of my Private Limited company resigned from his term of office and the company is left only with one Director. What should I do in such a case?",
+                        "answer": "In a private limited company, the minimum number of directors required is two. If the total number of directors falls below this number due to resignation or removal, the company must appoint new director(s) to meet the requirement within 6 months."
+                    },
+                    {
+                        "question": "What are the requirements for becoming a director of a company?",
+                        "answer": "To become a director of a company, an individual must be above the age of 18 and possess a Director Identification Number (DIN). The person can be either an Indian National or a Foreign National."
+                    },
+                    {
+                        "question": "Can a Body Corporate be appointed as Director?",
+                        "answer": "No, a body corporate cannot be appointed as a director. Only an individual (natural person) can be appointed as a director in a company."
+                    },
+                    {
+                        "question": "Can NRI’s / Foreign Nationals be appointed as a director in an Indian Company?",
+                        "answer": "Yes, NRIs or foreign nationals can be appointed as directors in an Indian company after obtaining a DIN. However, the board of directors must include at least one director who is a resident of India."
+                    }
+                ]
+                ,
+                "right":[
+                    {
+                        "question": "What is the minimum number of Directors required for a company?",
+                        "answer": "A Private Limited Company must have a minimum of two Directors at all times. A One Person Company requires a minimum of one Director, while a Public Limited Company must have a minimum of three Directors at all times."
+                    },
+                    {
+                        "question": "What are the documents required for obtaining DIN?",
+                        "answer": "To obtain a Director Identification Number (DIN), the following documents are required: a Digital Signature, a signed Affidavit from the proposed Director, and information about the identity and address of the Director."
+                    },
+                    {
+                        "question": "For the appointment as a Director, does the person require to apply for another DIN if he already has one?",
+                        "answer": "No, if the person already has a DIN, there is no need to apply for another one. The DIN is permanently allotted and can be used for subsequent appointments in any company or LLP."
+                    },
+                    {
+                        "question": "What is the procedure for removing a Director from a company?",
+                        "answer": "A Director can be removed by passing an ordinary resolution at an Annual General Meeting (AGM) or an Extraordinary General Meeting (EGM). Ordinary resolutions require a simple majority. After passing the resolution, the company must file the resolution along with the necessary forms with the Ministry of Corporate Affairs to effect the removal."
+                    },
+                    {
+                        "question": "Do I need to sell/transfer my shares while ending my tenure as a director in a company?",
+                        "answer": "No, you do not need to sell or transfer your shares when ending your tenure as a director. However, if the shares were subscribed to as a condition of appointment as per the Articles of Association (AoA), then the shares must be disposed of in accordance with the AoA."
+                    }
+                ]
+                
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "To surrender a Director Identification Number (DIN), first pass a board resolution approving the surrender. Then, file Form DIR-5 online with the Ministry of Corporate Affairs (MCA), stating the reason for surrender and providing DIN details. Ensure there are no pending liabilities or legal proceedings involving the director. Once the MCA verifies the application, the DIN will be officially canceled. Ensure all information is accurate to avoid delays.",
+      "seo": {
+        "title": "How to Surrender Director Identification Number (DIN)",
+        "description": "Surrendering a Director Identification Number (DIN) involves formally relinquishing the DIN that was previously assigned to a director. This process typically includes submitting a request to the Registrar of Companies (ROC) along with necessary documentation such as a declaration stating that the DIN is no longer required and that the director has ceased to be associated with any company. The surrender of DIN is generally done when a director resigns or is removed from their position.",
+        "keywords": ["Surrender DIN", "Director Identification Number Surrender", "DIN Cancellation Process", "ROC DIN Surrender", "DIN Relinquishment", "Ceasing Director Identification"]
+      }
+      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><p>DIN is a unique identification number allotted to individuals intending to become directors of companies. It serves as an identifier for directors and is mandatory for certain transactions and filings with regulatory authorities. Directors may choose to surrender their DIN if they no longer wish to hold directorship positions in any company or if they are unable to fulfill their duties as directors due to personal or professional reasons.</p><p>Surrendering DIN is voluntary. Directors may choose to surrender their DIN if they no longer wish to continue as directors. However, if a director is disqualified or their DIN is deactivated by regulatory authorities, they may be required to surrender their DIN.</p><div class=\"list_container\"><p>Process for surrendering DIN?</p><ul><li>The director must submit a formal application for surrendering their DIN to the Ministry of Corporate Affairs (MCA) through the DIN portal. The application must include details such as the reason for surrender, current directorships held, and declaration of compliance with regulatory requirements. There is a nominal fee prescribed by the MCA for surrendering DIN. The fee may vary depending on the regulatory requirements and the jurisdiction. Once the surrender application is processed and accepted by the MCA, the DIN is deactivated, and the directorship positions held by the individual are terminated. The surrendered DIN is no longer valid for any future directorship appointments.</li><li>A surrendered DIN cannot be reactivated. If a director wishes to resume directorship positions after surrendering their DIN, they must apply for a new DIN and comply with all regulatory requirements for appointment as a director.</li></ul></div><p>If a director does not surrender their DIN after ceasing to hold directorship positions, they may face regulatory action, including penalties or disqualification, for non-compliance with regulatory requirements.</p></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content": null
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isGridPints": {
+        "state": false,
+        "isBG": true,
+        "head": "",
+        "sub_head": "",
+        "list":null
+      },
+      "isDocuments": {
+        "state": true,
+        "list": [
+            "Proof of Identity of applicant (Voters Identity Card / Passport/ Driving License/PAN Card).",
+            "Proof of Residence of applicant (electricity bill, telephone bill shall be attached and should be in the name of applicant only.",
+            "In case of Indian applicant, documents should not be older than 2 months from the date of filing of the eForm.",
+            "In case of foreign applicant, address proof should not be older than 1 year from the date of filing of the eForm.",
+            "Affidavit including declaration that retained DIN will be updated with all associated CIN/LLPIN, if user wants to retain any DIN"
+          ]
+          
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 4599,
+            "current_price": 2999,
+            "type": "Essential",
+            "list": ["Surrender of one DIN"]
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": true,
+        "faqs": {
+          "left": [
+            {
+                "question": "What is DIN surrender?",
+                "answer": "DIN surrender is the process through which a director voluntarily relinquishes their Director’s Identification Number (DIN) issued by the Ministry of Corporate Affairs (MCA)."
+              },
+              {
+                "question": "Why would a director surrender their DIN?",
+                "answer": "Directors may choose to surrender their DIN if they no longer wish to hold directorship positions in any company, or if they are unable to fulfill their duties as directors due to personal or professional reasons."
+              },
+              {
+                "question": "Is surrendering DIN mandatory?",
+                "answer": "No, surrendering DIN is voluntary. It is up to the director’s discretion whether they wish to surrender their DIN."
+              },
+              {
+                "question": "What is the procedure for surrendering DIN?",
+                "answer": "The director must submit an application for surrendering their DIN to the MCA through the DIN portal. The application should include details such as the reason for surrender and a declaration of compliance with regulatory requirements."
+              }
+          ],
+          "right": [
+            {
+                "question": "Are there any fees for surrendering DIN?",
+                "answer": "Yes, there is a nominal fee prescribed by the MCA for surrendering DIN. The fee may vary depending on the regulatory requirements and jurisdiction."
+              },
+              {
+                "question": "What happens after surrendering DIN?",
+                "answer": "Once the surrender application is processed and accepted by the MCA, the DIN is deactivated, and the directorship positions held by the individual are terminated. The surrendered DIN is no longer valid for any future directorship appointments."
+              },
+              {
+                "question": "Can a surrendered DIN be reactivated?",
+                "answer": "No, a surrendered DIN cannot be reactivated. If a director wishes to resume directorship positions after surrendering their DIN, they must apply for a new DIN and comply with all regulatory requirements for appointment as a director."
+              },
+              {
+                "question": "Are there any consequences of not surrendering DIN?",
+                "answer": "If a director does not surrender their DIN after ceasing to hold directorship positions, they may face regulatory action, including penalties or disqualification, for non-compliance with regulatory requirements."
+              }
+          ]
+        }
+      }
+    }
+  }

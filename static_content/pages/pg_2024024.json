@@ -1,0 +1,189 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To obtain a Director Identification Number (DIN), visit the Ministry of Corporate Affairs (MCA) website and fill out Form DIR-3. Provide personal details, proof of identity, and address. Submit the form online along with a digital signature. After verification, the DIN will be issued, which is required for individuals to serve as directors in Indian companies.",
+        "seo" : {
+            "title": "What is Director Identification Number (DIN)?",
+            "description": "Learn about the Director Identification Number (DIN), a unique identification number assigned to individuals appointed as directors of companies registered under the Companies Act, 2013 or earlier Acts. Discover all you need to know about DIN here.",
+            "keywords": [
+              "Director Identification Number",
+              "DIN application",
+              "how to get a DIN",
+              "DIN for directors",
+              "Companies Act DIN",
+              "DIN registration process",
+              "DIN requirements",
+              "DIN in India",
+              "director identification",
+              "unique director number"
+            ]
+          }
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>Key Points About DIN :</p><ul><li><span>What is DIN (Director Identification Number)? :</span> DIN is a unique identification number allotted by the Ministry of Corporate Affairs (MCA) to individuals who are appointed as directors of companies registered under the Companies Act, 2013 or earlier Acts.</li><li><span>Who Needs to Obtain DIN? :</span> Any individual who wishes to be appointed as a director of a company incorporated in India needs to obtain a DIN. This includes both Indian nationals and foreign nationals.</li><li><span>Application Process for DIN :</span> The application for DIN can be made online through the MCA portal (<a href=\"http://www.mca.gov.in\">www.mca.gov.in</a>). Applicants need to fill out the DIN application form and submit it electronically along with the required documents.</li><li><span>Documents Required for DIN:</span> The documents required for DIN application include proof of identity (such as PAN card, passport, or Aadhaar card) and proof of address (such as passport, voter ID, or utility bill).</li><li><span>Validity of DIN :</span> Once allotted, DIN remains valid for the lifetime of the individual unless surrendered or deactivated. It is not necessary to renew or update DIN regularly.</li><li><span>Role of DIN in Company Filings :</span> DIN is mandatory for directors to sign electronic filings and documents submitted to the Registrar of Companies (RoC), such as annual returns, financial statements, and incorporation documents.</li><li><span>Penalties for Non-Compliance :</span> Failure to obtain DIN before acting as a director of a company or providing false information in DIN application can lead to penalties and disqualification from being a director.</li><li><span>Modification or Surrender of DIN :</span> In case of any changes in the details provided in DIN application or if the director wishes to surrender the DIN, the individual can apply for modification or surrender of DIN through the MCA portal.</li><li><span>Verification of DIN :</span> The authenticity of DIN can be verified online through the MCA portal using the DIN search facility. This allows stakeholders to verify the details of directors associated with a company.</li><li><span>Importance of DIN :</span> DIN helps in maintaining a database of directors and tracking their involvement in various companies. It enhances transparency, accountability, and corporate governance in the management of companies.</li></ul></div><div class=\"list_container\"><p>Rules for obtaining DIN</p><ul><li>In the case of new companies, first Directors up to number of 3 can apply for a DIN number only through the SPICe plus Form.</li><li>In the case of already existing companies, the Directors can apply for a DIN number only through the DIR-3 Form.</li><li>In case of already existing companies, the applicant director must attach a signature of any existing company director wherein he wants to get added.</li><li>For E.g. Mr. Manoj wants to apply for DIN  wherein he wishes to be a director in ABC company. Here, Mr. Manoj will require a board resolution of “ABC’ company along with the digital signature of any of the existing director of ABC company.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""
+            },        
+        "isnCol": {
+            "state": false,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Importante of DIN.",
+            "sub_head": "Points to make your decision easy.",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Identification of Directors",
+                    "subhead": "DIN serves as a unique identifier for individuals acting as directors of companies. It helps in distinguishing between different directors and ensures accurate identification in corporate records and filings."
+                  },
+                  {
+                    "index": 2,
+                    "head": "Regulatory Compliance",
+                    "subhead": "DIN is a regulatory requirement mandated by the Ministry of Corporate Affairs (MCA). It ensures that all directors of registered companies are traceable, accountable, and subject to regulatory oversight."
+                  },
+                  {
+                    "index": 3,
+                    "head": "Prevention of Fraud",
+                    "subhead": "By linking directors to their respective DINs, the system helps in preventing identity fraud and impersonation. It adds an extra layer of security and authenticity to corporate transactions and filings."
+                  },
+                  {
+                    "index": 4,
+                    "head": "Enhanced Transparency",
+                    "subhead": "DIN promotes transparency in corporate governance by providing stakeholders, regulatory authorities, and the public with access to information about directors associated with a company. This transparency fosters trust and confidence in the corporate sector."
+                  },
+                  {
+                    "index": 5,
+                    "head": "Ease of Tracking Directorships",
+                    "subhead": "With DIN, it becomes easier to track the directorship history of individuals across multiple companies. This helps in identifying potential conflicts of interest, instances of overboarding, and other governance concerns."
+                  },
+                  {
+                    "index": 6,
+                    "head": "Streamlined Filing Process",
+                    "subhead": "DIN is necessary for signing and filing various documents and returns with the Registrar of Companies (RoC). It streamlines the filing process by ensuring that only authorized directors can sign off on corporate filings, thereby reducing the risk of fraudulent filings."
+                  },
+                  {
+                    "index": 7,
+                    "head": "Enforcement of Corporate Governance Standards",
+                    "subhead": "DIN reinforces corporate governance standards by holding directors accountable for their actions. It facilitates regulatory scrutiny and enforcement actions against directors who engage in misconduct, non-compliance, or breach of fiduciary duties."
+                  },
+                  {
+                    "index": 8,
+                    "head": "Global Recognition",
+                    "subhead": "DIN aligns with international best practices in corporate governance and contributes to India’s reputation as a responsible and well-regulated business environment. It enhances the country’s attractiveness to foreign investors and stakeholders."
+                  },
+                  {
+                    "index": 9,
+                    "head": "Legal Compliance",
+                    "subhead": "Obtaining a DIN is a legal requirement for individuals intending to act as directors of Indian companies. Non-compliance with DIN requirements can lead to penalties, disqualification, or other regulatory sanctions."
+                  },
+                  {
+                    "index": 10,
+                    "head": "Corporate Integrity",
+                    "subhead": "Overall, DIN promotes corporate integrity, accountability, and transparency, which are essential for fostering investor confidence, maintaining market stability, and sustaining long-term business growth."
+                  }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "One Passport Size photos",
+                "Self attested copy of Aadhar card",
+                "Self-attested copy of PAN",
+                "Self attested copy of Passport, in case of foreign nationals",
+                "Self-attested copy of address proof"                
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 1599,
+                  "current_price": 1499,
+                  "list" : [
+                    "New DIN Application"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 1999,
+                  "current_price": 1999,
+                  "list" : [
+                    "eXpress DIN Application (within 24 hours)" 
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 2999,
+                  "current_price": 2599,
+                  "list" : [
+                    "New DIN Application",
+                    "1 DSC Class III having 2 Years Validity"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is DIN (Director Identification Number)?",
+                        "answer": "DIN is a unique identification number allotted by the Ministry of Corporate Affairs (MCA) to individuals who are appointed as directors of companies registered under the Companies Act, 2013 or earlier Acts."
+                    },
+                    {
+                        "question": "Who needs to obtain DIN?",
+                        "answer": "Any individual who wishes to be appointed as a director of a company incorporated in India needs to obtain a DIN. This includes both Indian nationals and foreign nationals."
+                    },
+                    {
+                        "question": "How to apply for DIN?",
+                        "answer": "DIN can be obtained by filing Form DIR-3 electronically through the MCA portal (www.mca.gov.in) along with the required documents and fees. The application can be made either by the individual proposed to be appointed as a director or by the company on behalf of the individual."
+                    },
+                    {
+                        "question": "What documents are required for DIN application?",
+                        "answer": "The documents required for DIN application include proof of identity (such as PAN card, passport, or Aadhaar card) and proof of address (such as passport, voter ID, or utility bill) of the individual."
+                    },
+                    {
+                        "question": "Is DIN mandatory for all directors?",
+                        "answer": "Yes, DIN is mandatory for all directors of companies registered under the Companies Act, 2013 or earlier Acts. It is a unique identifier for directors and is required for signing and filing various documents with the Registrar of Companies (RoC)."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "What is the validity period of DIN?",
+                        "answer": "Once allotted, DIN remains valid for the lifetime of the individual unless surrendered or deactivated. It is not necessary to renew or update DIN regularly."
+                    },
+                    {
+                        "question": "Can DIN be surrendered or cancelled?",
+                        "answer": "Yes, DIN can be surrendered or cancelled by the individual director through the MCA portal in case of resignation or cessation of directorship. The company can also apply for the cancellation of DIN in certain cases."
+                    },
+                    {
+                        "question": "Is there a fee for obtaining DIN?",
+                        "answer": "Yes, a fee is applicable for obtaining DIN, which varies depending on whether the application is made online or offline and the mode of payment chosen by the applicant."
+                    },
+                    {
+                        "question": "What is the role of DIN in company filings?",
+                        "answer": "DIN is mandatory for directors to sign electronic filings and documents submitted to the Registrar of Companies (RoC), such as annual returns, financial statements, and incorporation documents."
+                    },
+                    {
+                        "question": "How can the authenticity of DIN be verified?",
+                        "answer": "The authenticity of DIN can be verified online through the MCA portal using the DIN search facility. This allows stakeholders to verify the details of directors associated with a company."
+                    }
+                ]
+            }
+    }
+  }
+}

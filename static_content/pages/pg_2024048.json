@@ -1,0 +1,160 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "Share transfer involves voluntarily transferring shares from one shareholder to another, requiring a share transfer deed, share certificates, and board approval. Share transmission occurs due to events like death or insolvency, transferring shares to legal heirs or representatives. This process requires submitting relevant documents, such as death certificates or probate, to the company for registration. Both ensure proper updating of the company's records and shareholder register.",
+      "seo": {
+        "title": "Share Transfer & Transmission: Key Processes Explained",
+        "description": "Share transfer refers to the process of transferring ownership of shares from one party to another, typically involving a sale or gift of shares. Transmission of shares, on the other hand, occurs when the shares of a deceased or incapacitated shareholder are transferred to their legal heir or nominee. Both processes require specific documentation and adherence to legal and regulatory requirements to ensure a smooth transition of share ownership.",
+        "keywords": ["Share Transfer", "Share Transmission", "Ownership Transfer", "Share Transfer Process", "Share Transmission Process", "Legal Heir Shares", "Nominee Share Transfer"]
+      }
+      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>Share Transfer :</p><ul><li>Share transfer refers to the process of transferring ownership of shares from one party (the transferor) to another (the transferee). This transfer can occur voluntarily, such as through sale or gift, or involuntarily, such as through inheritance or court order.</li><li>The transfer of shares typically involves the completion of a share transfer form, signed by both the transferor and transferee, and the issuance of a share certificate in the name of the new owner.</li><li>The company’s board of directors or authorized officers must approve the transfer of shares, ensuring compliance with the company’s articles of association and relevant laws and regulations.</li><li>Once approved, the transfer is recorded in the company’s register of members, and the new owner becomes the legal shareholder entitled to the rights and benefits associated with the shares.</li></ul></div><div class=\"list_container\"><p>Transmission of Shares :</p><ul><li>Transmission of shares refers to the transfer of ownership that occurs automatically upon the death or insolvency of a shareholder, without the need for a voluntary transfer process.</li><li>When a shareholder passes away or becomes insolvent, the ownership of their shares is transmitted to their legal heirs or representatives, as specified in their will or determined by law.</li><li>The legal heirs or representatives must provide evidence of the transmission, such as a death certificate or court order, to the company. Upon verification, the company updates its register of members to reflect the new ownership.</li><li>Unlike share transfers, which require approval from the company’s board of directors, transmission of shares is a legal process governed by the company’s articles of association and applicable laws.</li></ul></div><p>In summary, share transfer involves the voluntary transfer of ownership from one party to another, while transmission of shares involves the automatic transfer of ownership upon the death or insolvency of a shareholder. Both processes are important for maintaining accurate ownership records and ensuring the rights of shareholders are protected.</p></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content": {
+          "left_col": {
+            "head": "",
+            "list": [
+              {
+                "title": "",
+                "description": ""
+              }
+  
+            ]
+          }
+        }
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "isGridPints": {
+        "state": true,
+        "isBG": true,
+        "head": "Share Transfer & Transmission-Process Flow",
+        "sub_head": "",
+        "list": [
+            {
+                "index": 1,
+                "head": "Review of Shareholding",
+                "subhead": "Examine the current shareholding structure to identify the shares to be transferred or transmitted."
+              },
+              {
+                "index": 2,
+                "head": "Preparation of Forms",
+                "subhead": "Prepare the necessary forms and documentation required for the share transfer or transmission process."
+              },
+              {
+                "index": 3,
+                "head": "Payment of Stamp Duty",
+                "subhead": "Calculate and pay the required stamp duty based on the value of the shares being transferred."
+              },
+              {
+                "index": 4,
+                "head": "Preparation of Resolution",
+                "subhead": "Draft a resolution for approval by the board of directors to authorize the share transfer or transmission."
+              },
+              {
+                "index": 5,
+                "head": "Share Transfer Deed Executed",
+                "subhead": "Execute the share transfer deed, ensuring it is properly signed by the transferor and transferee."
+              }
+        ]
+      },
+      "isDocuments": {
+        "state": false,
+        "list": []
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 2499,
+            "current_price": 1999,
+            "type": "Essential",
+            "list": [
+                "Document preparation",
+                "Execution of form SH-4",
+                "Share transfer/transmission"
+              ]              
+          },
+          {
+            "original_price": 6499,
+            "current_price": 5999,
+            "type": "Enhanced",
+            "list": ["Share transfer from one person to another, wherein transferor or transferee is corporate"]
+          },
+          {
+            "original_price": 12999,
+            "current_price": 8999,
+            "type": "Ultimate",
+            "list": ["Share transfer from one person to another, wherein transferor or transferee is a foreign national or foreign company"]
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": true,
+        "faqs": {
+          "left": [
+            {
+                "question": "What is a share transfer?",
+                "answer": "A share transfer is the process of transferring ownership of shares from one party to another."
+              },
+              {
+                "question": "How is a share transfer initiated?",
+                "answer": "A share transfer is typically initiated by completing a share transfer form, signed by both the transferor (seller) and transferee (buyer)."
+              },
+              {
+                "question": "Is approval required for a share transfer?",
+                "answer": "Yes, the transfer of shares usually requires approval from the board of directors or authorized officers of the company."
+              },
+              {
+                "question": "What documents are required for a share transfer?",
+                "answer": "The main document required for a share transfer is the share transfer form, along with the share certificate(s) representing the shares being transferred."
+              },
+              {
+                "question": "Can shares be transferred for consideration other than money?",
+                "answer": "Yes, shares can be transferred for consideration other than money, such as in exchange for property, services, or other assets."
+              }
+          ],
+          "right": [
+            {
+                "question": "What is transmission of shares?",
+                "answer": "Transmission of shares refers to the automatic transfer of ownership that occurs upon the death or insolvency of a shareholder."
+              },
+              {
+                "question": "What happens to shares in case of the shareholder's death?",
+                "answer": "In the event of a shareholder’s death, the ownership of their shares is transmitted to their legal heirs or representatives."
+              },
+              {
+                "question": "Is approval required for transmission of shares?",
+                "answer": "Unlike share transfers, transmission of shares does not require approval from the company’s board of directors. It is a legal process governed by the company’s articles of association and applicable laws."
+              },
+              {
+                "question": "What documents are required for transmission of shares?",
+                "answer": "Documents required for transmission of shares may include a death certificate (in case of the shareholder’s death) or court order (in case of insolvency), along with any other relevant legal documents."
+              },
+              {
+                "question": "How are shares transmitted to legal heirs or representatives?",
+                "answer": "Upon verification of the legal documents, the company updates its register of members to reflect the new ownership of the shares by the legal heirs or representatives."
+              }
+          ]
+        }
+      }
+    }
+  }

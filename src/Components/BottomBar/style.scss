@@ -1,0 +1,233 @@
+.bottom_bar{
+ background: #faf8f8;
+    padding: 10px 0px;
+
+    .bottom_bar_wrapper{
+        z-index: 40;
+        max-width: 1524px;
+        margin: 0px auto;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        .head{
+            z-index: 40;
+            display: none;
+        }
+        .cards{
+            z-index: 40;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            gap: 44px;
+
+           
+            .card{
+                padding: 30px 12px;
+                position: relative;
+                
+                &::after{
+                    content:  "";
+                    position: absolute;
+                    right: 0;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    width: 2px;
+                    height: 60%;
+                    background-color: #6461612b;
+                }
+
+                &:last-child{
+                    &::after{
+                        display: none;
+                    }
+                }
+               
+                gap : 24px;
+
+                .icon{
+                    background-color: #ffebcb;
+                    padding: 8px;
+                    border-radius: 9px;
+                    img{
+                        max-width: 44px;
+                        width: 100%;
+                        height: auto;
+                    }
+                }
+
+                .text{
+                    gap: 4px;
+                    h6{
+                        font-size: 1.14rem;
+                        font-weight: 600;
+                        color: rgb(0, 0, 0);
+                    }
+
+                    p{
+                        font-size: 0.95rem;
+                        font-weight: 400;
+                        color: grey;
+                        line-height: normal;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/* Mobile devices (small) */
+@media (max-width: 480px) {
+    .bottom_bar{
+        background-color: #ffffff;
+        padding:20px 0px 40px 0px;
+        .bottom_bar_wrapper{
+            gap : 40px;
+            padding: 20px 12px 24px 12px;
+                .head{
+                    text-align: center;
+                    font-weight: 600;
+                    color: rgb(1, 1, 1);
+                    font-size: 1.3rem;
+                    display: inline-block;
+                }
+            .cards{
+                display: grid !important;
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: auto;
+                gap: 10px;
+            
+              
+                .card{
+                    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+                    
+                   background-color: #f3f3f34d;
+                   min-height: 190px;
+                    max-height: 190px;
+                    padding: 24px 14px 24px 14px;
+                    flex-direction: column;
+                    border: 1px solid rgba(42, 42, 42, 0.341);
+                     
+                &::after{
+                display: none;
+                }
+
+                 
+                    border-radius: 9px;
+                    align-items: flex-start;
+                    justify-content: flex-start;
+                    text-align: left;
+                    gap: 15px;
+                    .icon{
+                        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+                        padding: 8px;
+                        background-color: #FFCC5F;
+                        img{
+                            max-width: 24px;
+                            width: 100%;
+                            height: auto;
+                        }
+                    }
+
+                    .text{
+                        gap: 4px;
+                        h6{
+                            text-wrap: nowrap;
+                            font-size: 0.90rem;    
+                        }
+                        p{
+                            font-size: 0.75rem;
+                        }
+                    }
+                    
+                }
+            }   
+        }
+    }
+}
+
+/* Mobile devices (medium) */
+@media (min-width: 481px) and (max-width: 767px) {
+    .bottom_bar{
+        padding: 30px 0px 40px 0px;
+        .bottom_bar_wrapper{
+            gap : 40px;
+            padding: 24px 12px;
+                .head{
+                    text-align: center;
+                    font-weight: 600;
+                    color: white;
+                    font-size: 1.5rem;
+                    display: inline-block;
+                }
+            .cards{
+                display: grid;
+                gap: 14px;
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: 1fr 1fr;
+                .card{
+                    padding: 24px 11px 24px 15px;
+                    flex-direction: column;
+                    background-color: #e8bc5f14;
+                    border-radius: 9px;
+                    align-items: flex-start;
+                    justify-content: flex-start;
+                    text-align: left;
+                    gap: 15px;
+                    .icon{
+                        padding: 10px;
+                        img{
+                            max-width: 28px;
+                            width: 100%;
+                            height: auto;
+                        }
+                    }
+
+                    .text{
+                        gap: 4px;
+                        h6{
+                            text-wrap: nowrap;
+                            font-size: 1rem;    
+                        }
+                        p{
+                        text-wrap: nowrap;
+                            font-size: 0.85rem;
+                        }
+                    }
+                    
+                }
+            }   
+        }
+    }
+  
+}
+
+/* Tablets (portrait) */
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* Styles for small tablets */
+}
+
+/* Tablets (landscape) */
+@media (min-width: 1025px) and (max-width: 1279px) {
+    /* Styles for large tablets */
+}
+
+/* Laptops */
+@media (min-width: 1280px) and (max-width: 1366px) {
+    /* Styles for small laptops */
+}
+
+/* Medium desktops */
+@media (min-width: 1367px) and (max-width: 1440px) {
+    /* Styles for medium desktops */
+}
+
+/* Large desktops */
+@media (min-width: 1441px) and (max-width: 1920px) {
+    /* Styles for large desktops */
+}
+
+/* Extra large desktops */
+@media (min-width: 1921px) {
+    /* Styles for extra large desktops */
+}

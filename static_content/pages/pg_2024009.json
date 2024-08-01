@@ -1,0 +1,229 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/indian_sub.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To incorporate an Indian subsidiary, start by selecting a suitable company type (e.g., private or public limited). Obtain a Director Identification Number (DIN) and Digital Signature Certificate (DSC) for directors. Draft the Memorandum and Articles of Association, and file incorporation documents with the Registrar of Companies (ROC). After approval, the subsidiary will receive a Certificate of Incorporation, allowing it to operate legally in India under the parent company's name.",
+        "seo" : {
+            "title": "Complete Process to Incorporate an Indian Subsidiary",
+            "description": "Learn the complete process to incorporate a wholly owned Indian subsidiary. Registering a business in India is quick, online, and governed by a single central law. Discover the requirements, including a resident Indian director and an office space, and understand the benefits of 100% ownership and control for your parent company.",
+            "keywords": [
+              "incorporate Indian subsidiary",
+              "Indian subsidiary registration",
+              "how to start Indian subsidiary",
+              "wholly owned Indian subsidiary",
+              "business registration in India",
+              "Indian subsidiary process",
+              "setting up a subsidiary in India",
+              "India business laws",
+              "resident Indian director",
+              "parent company control"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">Registering an Indian subsidiary involves establishing a separate legal entity in India that is controlled or owned by a foreign company (referred to as the parent company).</p><div class=\"list_container\"><p class=\"section-title\">Here’s a step-by-step guide to registering an Indian subsidiary :</p><ul class=\"list\"><li>Determine the Business Structure: Decide on the most suitable business structure for the subsidiary in India. Common options include private limited company, limited liability partnership (LLP), or branch office.</li><li>Name Approval: Choose a unique name for the subsidiary and obtain approval from the Registrar of Companies (RoC) in India. The name should comply with the naming guidelines specified by the RoC.</li><li>Drafting of Documents: Prepare the necessary incorporation documents, including the Memorandum of Association (MOA) and Articles of Association (AOA) for a private limited company, or LLP agreement for an LLP.</li><li>Obtain Digital Signatures: Obtain digital signatures for the proposed directors of the subsidiary. Digital signatures are required for filing incorporation documents electronically with the RoC.</li><li>Filing of Incorporation Documents: File the incorporation documents, along with the application for registration, with the RoC in the state where the subsidiary will be located. The application should include details such as the company’s registered office address, directors’ details, share capital, and ownership structure.</li><li>Payment of Registration Fees: Pay the applicable registration fees to the RoC for processing the incorporation documents. The fees vary depending on the authorized share capital of the company.</li><li>Obtain Certificate of Incorporation: Once the RoC approves the incorporation documents and verifies compliance with all legal requirements, it will issue a Certificate of Incorporation. This document serves as proof of the subsidiary’s legal existence.</li><li>Apply for Permanent Account Number (PAN): Apply for a Permanent Account Number (PAN) from the Income Tax Department. PAN is a unique identification number assigned to the company for tax purposes.</li><li>Apply for Tax Deduction and Collection Account Number (TAN): If the subsidiary will engage in business activities that require deduction or collection of taxes at source, such as TDS (Tax Deducted at Source), apply for a Tax Deduction and Collection Account Number (TAN) from the Income Tax Department.</li><li>Open Bank Account: Open a bank account in the name of the subsidiary with a designated bank in India. The bank account will be required for conducting financial transactions and managing the company’s finances.</li><li>Compliance with Regulatory Requirements: Ensure compliance with all regulatory requirements applicable to the subsidiary, such as GST registration (Goods and Services Tax), compliance with labor laws, and obtaining any necessary licenses or permits for conducting business activities.</li><li>Appointment of Key Personnel: Appoint key personnel, such as directors, statutory auditors, and company secretary, as required by law. Ensure compliance with corporate governance norms and disclosure requirements.</li><li>Maintain Statutory Records: Maintain accurate statutory records and corporate documents, including minutes of meetings, registers of members, directors, and share transactions, as required by the Companies Act and other applicable laws.</li><li>Compliance with Transfer Pricing Regulations: If the subsidiary engages in transactions with the parent company or other related entities, ensure compliance with transfer pricing regulations to avoid tax implications.</li><li>Annual Filings and Compliance: Fulfill annual filing and compliance requirements, including filing annual financial statements, income tax returns, and other statutory reports with the authorities in India.</li></ul></div><div class=\"list_container\"><p class=\"section-title\">Minimum Requirement for Indian Subsidiary :</p><ul class=\"list\"><li>Minimum two directors are required for incorporation of the Company. At least one should be a resident of India.</li><li>No minimum capital required to form an Indian Subsidiary Company in India.</li><li>Indian Subsidiary Company must have a minimum of two shareholders. Shareholders can be either individuals or any entity or a combination of both.</li><li>The Parent Company must hold 50% of the total equity share capital.</li><li>Director Identification Number (DIN) for all Directors.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""    
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Here are some advantages Starting a company in India :",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+                {
+                    "title": "Access to a Large and Growing Market",
+                    "description": "India boasts a massive consumer base of over 1.3 billion people, offering immense market potential across various industries."
+                },
+                {
+                    "title": "Strategic Location",
+                    "description": "India’s strategic location in South Asia makes it an ideal hub for businesses looking to expand their presence in the region."
+                },
+                {
+                    "title": "Diverse Investment Opportunities",
+                    "description": "India offers diverse investment opportunities across sectors such as technology, manufacturing, healthcare, renewable energy, and infrastructure."
+                },
+                {
+                    "title": "Government Initiatives and Incentives",
+                    "description": "The Indian government has introduced various initiatives and incentives to attract foreign investment and promote entrepreneurship, such as Make in India, Startup India, and Digital India."
+                },
+                {
+                    "title": "Liberalized FDI Policy",
+                    "description": "India has liberalized its Foreign Direct Investment (FDI) policy across many sectors, allowing higher levels of foreign ownership and easing restrictions on investment."
+                },
+                {
+                    "title": "Skilled Workforce",
+                    "description": "India is home to a large pool of skilled and educated professionals across various fields, including engineering, information technology, finance, and management."
+                },
+                {
+                    "title": "Cost-Effective Operation",
+                    "description": "India offers cost-effective business operations compared to many Western countries, including lower labor costs, favorable exchange rates, and competitive real estate prices."
+                },
+                {
+                    "title": "Supportive Ecosystem for Startups",
+                    "description": "India has a vibrant startup ecosystem with incubators, accelerators, co-working spaces, and networking events supporting entrepreneurship and innovation."
+                },
+                {
+                    "title": "Cultural Diversity and Innovation",
+                    "description": "India’s rich cultural heritage and diversity foster creativity, innovation, and entrepreneurship, providing foreign entrepreneurs with fresh perspectives and market insights."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph of all the Directors and shareholders",
+                "PAN Card of all the Indian Directors and shareholders",
+                "Apostille ID Proof of all the Directors (Driving License/Passport/Voter ID)",
+                "Electricity Bill or any other utility bill (not older than 2 months) for the address proof of the Registered Office."
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "original_price": 30999,
+                "current_price": 29999,
+                "type": "Essential",
+                "list": [
+                    "E-PAN",
+                    "E-TAN",
+                    "Company Seal",
+                    "GST Registration",
+                    "Name Approval Application",
+                    "Drafting Of Memorandum",
+                    "Drafting Of Bye-Laws",
+                    "25 Copies of MOA",
+                    "25 Copies Of AOA",
+                    "10 Copies of Share Certificate",
+                    "Company Incorporation",
+                    "2 Digital Signature Certificates",
+                    "2 Director Identification Numbers",
+                    "Stamp duty on INR 1 Lakh Authorized Capital",
+                    "E-form commencement of business certificate (form - 20A)"
+                  ]
+                  
+              },
+              {
+                  "original_price": 55999,
+                "current_price": 54999,
+                "type": "Enhanced",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "Company Seal",
+                    "GST Registration",
+                    "Name Approval Application",
+                    "Drafting Of Memorandum",
+                    "Drafting Of Bye-Laws",
+                    "25 Copies of MOA",
+                    "25 Copies Of AOA",
+                    "10 Copies of Share Certificate",
+                    "Company Incorporation",
+                    "2 Digital Signature Certificates",
+                    "2 Director Identification Numbers",
+                    "Stamp duty on INR 1 Lakh Authorized Capital",
+                    "E-form commencement of business certificate (form - 20A)",
+                    "Filing of FC-GPR",
+                    "Issue of CA Certificate",
+                    "Issue of CS Certificate"
+                  ]
+                  
+              },
+              {
+                  "original_price": 80999,
+                "current_price": 76999,
+                "type": "Ultimate",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "Company Seal",
+                    "GST Registration",
+                    "Name Approval Application",
+                    "Drafting Of Memorandum",
+                    "Drafting Of Bye-Laws",
+                    "25 Copies of MOA",
+                    "25 Copies Of AOA",
+                    "10 Copies of Share Certificate",
+                    "Company Incorporation",
+                    "SSI/MSME Registration",
+                    "1 year subscription of Zohobooks",
+                    "E-form commencement of business certificate (form - 20A)",
+                    "Filing of FC-GPR",
+                    "Issue of CA Certificate",
+                    "Issue of CS Certificate",
+                    "Start Up Recognition",
+                    "2 Digital Signature Certificates",
+                    "2 Director Identification Numbers",
+                    "Stamp duty on INR 1 Lakh Authorized Capital"
+                  ]
+                  
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is an Indian subsidiary?",
+                        "answer": "An Indian subsidiary is a company incorporated in India that is controlled or owned by a foreign company (referred to as the parent company). It operates as a separate legal entity under Indian law while being owned or controlled by the parent company."
+                      },
+                      {
+                        "question": "What are the common types of business entities for a subsidiary in India?",
+                        "answer": "The common types of business entities for a subsidiary in India include private limited company, limited liability partnership (LLP), branch office, project office, and liaison office."
+                      },
+                      {
+                        "question": "What are the key steps involved in registering an Indian subsidiary?",
+                        "answer": "The key steps involved in registering an Indian subsidiary typically include choosing a business structure, obtaining approval for the company name, preparing incorporation documents, filing incorporation documents with the Registrar of Companies (RoC), obtaining a Certificate of Incorporation, and fulfilling post-incorporation compliance requirements."
+                      },
+                      {
+                        "question": "What is the minimum capital requirement for an Indian subsidiary?",
+                        "answer": "There is no minimum capital requirement for a private limited company or an LLP in India. However, the authorized capital should be appropriate for the intended business activities and may vary depending on factors such as industry norms, regulatory requirements, and funding considerations."
+                      },
+                      {
+                        "question": "Do I need a registered office address in India for the subsidiary?",
+                        "answer": "Yes, every company in India must have a registered office address within India. The registered office address will be used for official correspondence and must be accessible to the public during business hours."
+                      }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "Do I need to appoint local directors for the subsidiary?",
+                        "answer": "Yes, at least one director of the Indian subsidiary must be a resident of India. A resident director is an individual who has stayed in India for a total period of at least 182 days in the previous calendar year."
+                      },
+                      {
+                        "question": "What are the tax implications for an Indian subsidiary?",
+                        "answer": "The tax implications for an Indian subsidiary depend on various factors, including the business structure, nature of business activities, income earned, and applicable tax treaties. It’s advisable to consult with tax professionals to understand the tax implications and obligations."
+                      },
+                      {
+                        "question": "Are there any regulatory approvals required for specific industries or activities?",
+                        "answer": "Yes, certain industries or activities may require specific regulatory approvals or licenses from sectoral regulators or government authorities. Examples include foreign investment approvals, industry-specific licenses, environmental clearances, and intellectual property registrations."
+                      },
+                      {
+                        "question": "How long does it take to register an Indian subsidiary?",
+                        "answer": "The time taken to register an Indian subsidiary can vary depending on factors such as the chosen business structure, state of registration, completeness of documentation, and processing time at government authorities. In general, the process can take several weeks to a few months to complete."
+                      },
+                      {
+                        "question": "What are the compliance requirements after registering an Indian subsidiary?",
+                        "answer": "After registering an Indian subsidiary, there are ongoing compliance requirements, including filing annual returns, maintaining statutory registers, conducting board meetings, and complying with tax and regulatory requirements applicable to the business activities."
+                      }
+                ]
+            }
+        }
+    }
+}
+  

@@ -1,0 +1,420 @@
+{
+    "logo": "/assets/svg/new_dektop_logo.svg",
+    "mobile_logo": "/assets/svg/new_dektop_logo.svg",
+    "alt": "Sellersuccess.in",
+    "navigation": [
+        {
+            "isBold": true,
+            "id": "entrepreneur",
+            "icons": "/assets/svg/server-outline.svg",
+            "head": "Be an Entrepreneur",
+            "sub_list": [
+                {
+                    "id": "for-indian-entrepreneur",
+                    "subhead": "For Indian Entrepreneur",
+                    "sub_items": [
+                        {
+                            "item": "Private Limited Company",
+                            "title": "Private Limited Company: Essential Features and Benefits",
+                            "id": "2024004"
+                        },
+                        {
+                            "item": "Public Limited Company",
+                            "title": "How to Register a Public Limited Company in India",
+                            "id": "2024002"
+                        },
+                        {
+                            "item": "Limited Liability Partnership",
+                            "title": "What is a Limited Liability Partnership (LLP)?",
+                            "id": "2024003"
+                        },
+                        {
+                            "item": "Hindu Undivided Family",
+                            "title": "What is a Hindu Undivided Family (HUF)",
+                            "id": "2024006"
+                        },
+                        {
+                            "item": "Partnership Firm",
+                            "title": "How to Register a Partnership Firm A Step-by-Step Guide",
+                            "id": "2024007"
+                        },
+                        {
+                            "item": "Sole Proprietorship",
+                            "title": "Sole Proprietorship Registration Easy and Hassle-Free Process",
+                            "id": "2024001"
+                        },
+                        {
+                            "item": "One Person Company",
+                            "title": "What Is a One Person Company (OPC)",
+                            "id": "2024005"
+                        },
+                        {
+                            "item": "E-commerce",
+                            "title": "How to Start an E-Commerce Business A Comprehensive Guide",
+                            "id": "2024008"
+                        }
+                    ]
+                },
+                {
+                    "id": "for-foreign-entrepreneur",
+                    "subhead": "For Foreign Entrepreneur",
+                    "sub_items": [
+                        {
+                            "item": "Indian Subsidary",
+                            "title": "Complete Process to Incorporate an Indian Subsidiary",
+                            "id": "2024009"
+                        },
+                        {
+                            "item": "Company Registration by Foreigner",
+                            "title": "Company Registration for Foreigners in India A Simple Guide",
+                            "id": "2024010"
+                        }
+                    ]
+                },
+                {
+                    "id": "special-registration",
+                    "subhead": "Special Registrations",
+                    "sub_items": [
+                        {
+                            "item": "NPO (Non Profit Org.)",
+                            "title": "What is a Non-Profit Organization (NPO)",
+                            "id": "2024011"
+                        },
+                        {
+                            "item": "Nidhi Company",
+                            "title": "What is a Nidhi Company Understanding Its Role and Regulations",
+                            "id": "2024012"
+                        },
+                        {
+                            "item": "Producer Company",
+                            "title": "What is Producer Company Registration",
+                            "id": "2024013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isBold": true,
+            "icons": "/assets/svg/rocket-outline.svg",
+            "id": "registrations",
+            "head": "Registrations",
+            "sub_list": [
+                {
+                    "id": "tax-registrations",
+                    "subhead": "Tax Registrations",
+                    "sub_items": [
+                        {
+                            "item": "GST Registration",
+                            "title": "How to Register for a GST Number A Complete Guide",
+                            "id": "2024014"
+                        },  {
+                            "item": "GST refund",
+                            "title": "How to Apply for a GST Refund: A Comprehensive Guide",
+                            "id": "2024016"
+                        },
+                        {
+                            "item": "GST Modification",
+                            "title": "How to Modify Your GST Registration",
+                            "id": "2024015"
+                        },
+                        {
+                            "item": "GST Cancellation",
+                            "title": "How to Apply for GST Cancellation",
+                            "id": "2024017"
+                        },
+                        {
+                            "item": "PAN Card",
+                            "title": "How to Apply for a PAN Card",
+                            "id": "2024019"
+                        },
+                        {
+                            "item": "TAN Number",
+                            "title": "How to Apply for a TAN Number",
+                            "id": "2024020"
+                        }
+                    ]
+                },
+                {
+                    "id": "other-registration",
+                    "subhead": "Other Registrations",
+                    "sub_items": [
+                        {
+                            "item": "Digital Signature",
+                            "title": "Digital Signature Certificate Everything You Need to Know",
+                            "id": "2024021"
+                        },
+                        {
+                            "item": "EPF Registration",
+                            "title": "EPF (Employee Provident Fund) Registration",
+                            "id": "2024022"
+                        },
+                        {
+                            "item": "MSME Registration",
+                            "title": "How to Apply for MSME Registration",
+                            "id": "2024023"
+                        },
+                        {
+                            "item": "DIN Number",
+                            "title": "What is Director Identification Number",
+                            "id": "2024024"
+                        },
+                        {
+                            "item": "ESIC Registration",
+                            "title": "What is ESIC Registration",
+                            "id": "2024025"
+                        },
+                        {
+                            "item": "IEC Registration",
+                            "title": "How to Obtain an IEC Registration for Import and Export",
+                            "id": "2024026"
+                        },
+                        {
+                            "item": "Trademark registration",
+                            "title": "How to Apply for Trademark Registration A Comprehensive Overview",
+                            "id": "2024051"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isBold": true,
+            "icons": "/assets/svg/planet-outline.svg",
+            "id": "returns",
+            "head": "Returns",
+            "sub_list": [
+                {
+                    "id": "tax-returns",
+                    "subhead": "Tax Returns",
+                    "sub_items": [
+                        {
+                            "item": "GST Returns",
+                            "title": "GST Returns Everything You Need to Know",
+                            "id": "2024018"
+                        },
+                        {
+                            "item": "Income Tax Filing",
+                            "title": "Everything You Need to Know About Income Tax Filing",
+                            "id": "2024027"
+                        },
+                        {
+                            "item": "TDS Return",
+                            "title": "How to File a TDS Return",
+                            "id": "2024028"
+                        },
+                        {
+                            "item": "ESI Returns",
+                            "title": "What is an ESI Return Understanding Employee State Insurance Returns",
+                            "id": "2024029"
+                        },
+                        {
+                            "item": "PF Return",
+                            "title": "Understanding Provident Fund Return A Comprehensive Guide",
+                            "id": "2024030"
+                        }
+                    ]
+                },
+                {
+                    "id": "other-returns",
+                    "subhead": "Other Returns",
+                    "sub_items": [
+                        {
+                            "item": "Public Limited Filing",
+                            "title": "ROC Annual Filing Requirements for Public Limited Companies in India",
+                            "id": "2024035"
+                        },
+                        {
+                            "item": "OPC Annual Filing",
+                            "title": "Annual Filing for One Person Company",
+                            "id": "2024031"
+                        },
+                        {
+                            "item": "LLP Annual Filing",
+                            "title": "Complete Guide to Annual Filing for Limited Liability Partnerships",
+                            "id": "2024032"
+                        },
+                        {
+                            "item": "Private Limited Annual Filing",
+                            "title": "Understanding ROC Annual Filing for Private Limited Companies in India",
+                            "id": "2024033"
+                        },
+                        {
+                            "item": "NGOs, NPOs, and Section 8 Companies",
+                            "title": "ROC Annual Filing Requirements for NGOs, NPOs, and Section 8 Companies",
+                            "id": "2024034"
+                        },
+                        {
+                            "item": "Nidhi Company Annual Filing",
+                            "title": "Understanding Nidhi Company Annual Filing Requirements",
+                            "id": "2024036"
+                        },
+                        {
+                            "item": "Producer Companies Annual Filing",
+                            "title": "Annual Compliance Requirements for Producer Companies",
+                            "id": "2024037"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isBold": true,
+            "icons": "/assets/svg/flask-outline.svg",
+            "id": "compliances",
+            "head": "Compliances",
+            "sub_list": [
+                {
+                    "id": "change-service-1",
+                    "subhead": "Change Service",
+                    "sub_items": [
+                        {
+                            "item": "Appointment of Director",
+                            "title": "What is Appointment of Director",
+                            "id": "2024038"
+                        },
+                        {
+                            "item": "A Letter of Undertaking",
+                            "title": "What is a Letter of Undertaking under GST? Key Insights",
+                            "id": "2024050"
+                        },
+                        {
+                            "item": "LLP Designated Partner",
+                            "title": "Who is a Designated Partner under LLP",
+                            "id": "2024039"
+                        },
+                        {
+                            "item": "Change in DIN",
+                            "title": "How to Handle a Change in Director Identification Number",
+                            "id": "2024040"
+                        },
+                        {
+                            "item": "Appointment of Auditors",
+                            "title": "How to Appoint Auditors for Your Company",
+                            "id": "2024041"
+                        },
+                        {
+                            "item": "Company Name Change",
+                            "title": "All About Changing Your Company Name",
+                            "id": "2024042"
+                        },
+                        {
+                            "item": "Amendment to MOA",
+                            "title": "What is an Amendment to Memorandum of Association",
+                            "id": "2024043"
+                        },
+                        {
+                            "item": "Share Capital Change",
+                            "title": "Understanding Changes in Share Capital A Comprehensive Guide",
+                            "id": ""
+                        },
+                        {
+                            "item": "Surrender (DIN)",
+                            "title": "How to Surrender Director Identification Number (DIN)",
+                            "id": "2024047"
+                        }
+                    ]
+                },
+                {
+                    "id": "change-service-2",
+                    "subhead": "Change Service",
+                    "sub_items": [
+                        {
+                            "item": " Director's Removal/Resignation",
+                            "title": "What is the Process for Removal or Resignation of a Director",
+                            "id": "2024044"
+                        },
+                        {
+                            "item": "Add Partner in Partnership Firm",
+                            "title": "How to Add a Partner in Your Partnership Firm",
+                            "id": ""
+                        },
+                        {
+                            "item": "Increase authorized capital",
+                            "title": "How to Increase Authorized Capital for a Company",
+                            "id": "2024046"
+                        }
+                    ]
+                },
+                {
+                    "id": "change-service-3",
+                    "subhead": "Change Service",
+                    "sub_items": [
+                        {
+                            "item": "Change in LLP Agreement",
+                            "title": "How to Make Changes to Your LLP Agreement",
+                            "id": "2024045"
+                        },
+                        {
+                            "item": "LLP name change",
+                            "title": "What is LLP Name Change? Process and Requirements",
+                            "id": "2024049"
+                        },
+                        {
+                            "item": "Share Transfer & Transmission",
+                            "title": "Share Transfer & Transmission: Key Processes Explained",
+                            "id": "2024048"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isBold": true,
+            "icons": "/assets/svg/flask-outline.svg",
+            "id": "accounting_service",
+            "head": "Accountign & Payroll",
+            "sub_list": [
+                {
+                    "id": "accounting_service_",
+                    "subhead": "Accountign & Payroll",
+                    "sub_items": [
+                        {
+                            "item": "Virtual CFO services",
+                            "title": "Virtual CFO Service Strategic Financial Leadership for Your Business",
+                            "id": "2024055"
+                        },
+                        {
+                            "item": "Bookkeeping and accounting",
+                            "title": "Bookkeeping and Accounting Services in India",
+                            "id": "2024054"
+                        },
+                        {
+                            "item": "Payroll Setup",
+                            "title": "Payroll Setup & Processing Efficient Management of Employee Compensation",
+                            "id": "2024053"
+                        },
+                        {
+                            "item": "Accounts payable",
+                            "title": "Accounts Payable Services Streamlining Your Financial Operations",
+                            "id": "2024052"
+                        }
+                     
+                    ]
+                }
+            ]
+        }
+    ],
+    "cta": {
+        "primary": {
+            "text": "Blogs",
+            "icon": "/assets/svg/search.svg",
+            "target": "/blogs/"
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

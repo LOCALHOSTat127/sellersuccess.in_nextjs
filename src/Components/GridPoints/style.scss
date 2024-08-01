@@ -1,0 +1,171 @@
+
+.about_us{    
+    background-color: #F9F5F3;
+    border-radius: 9px;
+    font-size: 1rem;
+    .wrapper{
+        
+        max-width: 1424px;
+        margin: 120px auto 80px auto;
+        padding: 80px 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 80px;
+        .text_area{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap:18px;
+            h5{
+                font-weight: 700;
+                font-size: 1.8rem;
+                color: rgba(0, 0, 0, 0.83);
+            }
+            p{
+                font-size: 1.1rem;
+                text-align: center;
+                max-width: 70%;
+                line-height: normal;
+            }
+        }
+    
+        .points{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr;
+          
+            .point{
+
+                padding: 24px 24px;
+                display: flex;
+                color: rgb(49, 48, 48);
+                flex-direction: column;
+                gap: 22px;
+                justify-content: space-between;
+                align-items: flex-start;
+                position: relative;
+                &::before{
+                    content: "";
+                    position: absolute;
+                    right: 0;
+                    top: 0;
+                    width: 1px;
+                    height: 100%;
+                    background-color: #b5a3a357;
+                }
+                &::after{
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    width: 100%;
+                    height: 1px;
+                    background-color: #b5a3a357;
+                }
+    
+                &.nlh{
+                    &::after{
+                        display: none;
+                    }
+                }
+                &.nlv{
+                    &::before{
+                        display: none;
+                    }
+                }
+                .desc{
+                    color: black;
+                    max-width: 90%;
+                    text-align: justify;
+                    line-height: normal;
+                }
+                span{
+                    display: flex;
+                    align-items: center;
+                    gap: 12px;
+                    p{
+                        font-size: 1rem;
+                        font-weight: 600;
+                    }
+                }
+            }
+        }
+    }
+   
+}
+
+
+/* Mobile devices (small) */
+@media (max-width: 480px) {
+    
+.about_us{    
+    font-size: 0.95rem;
+    .wrapper{
+        margin: 10px auto 40px auto;
+        padding: 0px 0px;
+        gap: 40px;
+        .text_area{
+            gap:12px;
+            background-color: #FCE6B7;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 34px 20px;
+            h5{
+                text-align: left;
+                font-weight: 600;
+                font-size: 1.1rem;
+ 
+            }
+            p{
+                width: 100%;
+                max-width: 100%;
+                text-align: left;
+                font-size: 0.95rem;
+
+            }
+        }
+    
+        .points{
+            display: flex;
+            flex-direction: column;
+            .point{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                // background-color: red;
+                padding: 34px 18px;
+                border-bottom: 1px solid  #b5a3a357;;
+                &::before{
+                display: none;
+                }
+                &::after{
+                 display: none;
+                }
+    
+                &.nlh{
+                    &::after{
+                        display: none;
+                    }
+                }
+                &.nlv{
+                    &::before{
+                        display: none;
+                    }
+                }
+         
+                span{
+                    display: flex;
+                    align-items: center;
+                    gap: 12px;
+                    p{
+                        font-size: 1rem;
+                        font-weight: 600;
+                    }
+                }
+            }
+        }
+    }
+   
+}
+}

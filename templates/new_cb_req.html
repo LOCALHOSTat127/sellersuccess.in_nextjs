@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .email-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 8px 8px 0 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content h2 {
+            color: #333333;
+        }
+        .content p {
+            color: #555555;
+        }
+        .footer {
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            color: #777777;
+            border-top: 1px solid #dddddd;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="header">
+            <h1>New Callback Request</h1>
+        </div>
+        <div class="content">
+            <h2>Customer Details</h2>
+            <p><strong>Name:</strong> {{customerName}}</p>
+            <p><strong>Email:</strong> {{customerEmail}}</p>
+            <p><strong>Mobile Number:</strong> {{customerMobile}}</p>
+            <p><strong>Timestamp:</strong> {{timestamp}}</p>
+        </div>
+        <div class="footer">
+            <p>Company Name: Seller Success</p>
+            <p>Address: 123 Business Street, City, Country</p>
+        </div>
+    </div>
+</body>
+</html>

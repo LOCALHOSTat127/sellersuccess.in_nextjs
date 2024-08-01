@@ -1,0 +1,116 @@
+.static_page{
+    
+    .grid_wrapper{
+        display: grid;
+        grid-template-columns: 0.20fr 0.65fr 0.05fr;
+        grid-template-rows: 1fr;
+        max-width: 1724px;
+        margin: 20px auto;
+        gap: 20px;
+        .left_row{
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+            border-radius: 9px;
+            background-color: rgba(248, 248, 248, 0);
+        
+            padding: 20px;
+            &::before{
+                content: "";
+                position: absolute;
+                right: 0;
+                top: 0;
+                height: 100%;
+                
+                width: 1px;
+                background-color: rgb(234, 234, 234);
+            }
+            .text{
+                position: relative;
+                border-radius: 9px;
+                padding: 24px 18px;
+                background-color: rgb(240, 235, 235);
+            }
+
+            .sticky_card{
+                position: sticky;
+                top: 100px;
+                left: 0;
+                border-radius: 9px;
+            }
+
+        }
+
+        .center{
+            overflow-x: hidden;
+
+            .onMobile{
+                display: none;
+            }
+      
+        }
+
+
+        .fw_elements{
+            margin: 120px 0px;
+        }
+    
+       .right_row{
+        position: relative;
+        padding: 20px;
+
+        .controlls{
+            position: sticky;
+            top: 100px;
+            left: 0
+        }
+
+
+            &::before{
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                height: 100%;
+                
+                width: 1px;
+                background-color: rgb(234, 234, 234);
+            }
+       }
+
+    }
+   
+}
+
+
+
+
+
+@media (max-width: 480px) {
+
+    .static_page{
+        .grid_wrapper{
+            display: flex !important;
+            margin: 0px;
+            
+           width: 100%;
+            .left_row{
+                display: none;
+            }
+
+            .center{
+                padding: 0px;
+            }
+         
+            .right_row{
+                display: none;
+            }
+            .fw_elements{
+                margin: 0px 0px;
+            }
+    
+        }
+    }
+    
+}

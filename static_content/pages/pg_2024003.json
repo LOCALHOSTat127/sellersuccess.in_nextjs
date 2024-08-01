@@ -1,0 +1,228 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/llp.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "A Limited Liability Partnership (LLP) merges the benefits of partnerships and companies, offering limited liability protection while being easy to form and manage. Recent amendments simplify registration with online processes and automatic PAN/TAN issuance. An LLP needs at least two Designated Partners, one of whom must be a resident of India. It is a separate legal entity, offering flexibility in management and operation. LLPs are taxed as partnerships and have fewer compliance requirements compared to companies, making them popular among professionals and small businesses.",
+        "seo" : {
+            "title": "What is a Limited Liability Partnership (LLP)?",
+            "description": "Explore the concept of a Limited Liability Partnership (LLP). An LLP combines features of both traditional partnerships and companies, offering flexible management and limited liability for its partners. Learn how it differs from other business structures and its key advantages.",
+            "keywords": [
+              "Limited Liability Partnership",
+              "LLP",
+              "what is LLP",
+              "LLP features",
+              "benefits of LLP",
+              "LLP vs partnership",
+              "LLP vs company",
+              "LLP business structure",
+              "LLP advantages",
+              "LLP definition"
+            ]
+          } 
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">LLP Registration, a prime reason why it has evolved is that of its simplicity in formation and easy maintenance. It helps owners also to limit their liabilities. This is the biggest advantage of the Limited Liability Partnership over a traditional Partnership Firm.</p><p class=\"paragraph\">No partner is liable on account of unauthorized actions of other partners, thus individual partners are shielded from joint liability created by another partner’s misconduct. LLP form of organization is usually preferred by Professionals, Micro and Small businesses that are family owned or closely-held</p><p class=\"paragraph\">With the introduction of Limited Liability Partnership (Second Amendment) Rules, 2022, MCA has now made LLP registration procedure even more easier and transparent as now all the LLP forms will be web based forms. An LLP can now be incorporated with up to 5 instead of 2 Designated Partners (without DPIN). Also, with the LLP (2nd Amendment) Rules, 2022, LLPs shall be allotted their PAN and TAN along with the Certificate of Incorporation itself. Hence, no need of separate application for PAN and TAN. Procedure of LLP registration is not lengthy as you can file your incorporation form online. Online LLP registration procedure will save you a lot of time and energy. </p><p class=\"paragraph\">Every LLP is required to have at least two Designated Partners who shall be individuals and at least one of them shall be a Resident of India. The mutual rights and duties of partners shall be governed by the agreement between LLP and the partners. This Agreement would be known as “LLP Agreement”.</p><div class=\"list_container\"><p class=\"section-title\">Key Points to Remember :</p><ul class=\"list\"><li><span>Formation and Registration :</span> To form an LLP in India, a minimum of two partners is required. There is no upper limit on the number of partners. At least two designated partners must be individuals, and at least one of them must be a resident of India. The LLP must be registered with the Ministry of Corporate Affairs (MCA) through an online process.</li><li><span>Limited Liability :</span> One of the primary advantages of an LLP is that partners have limited liability, meaning their personal assets are protected from the debts and liabilities of the LLP. Each partner’s liability is limited to the extent of their agreed contribution to the LLP.</li><li><span>Separate Legal Entity :</span> An LLP is a separate legal entity distinct from its partners. It can own assets, enter into contracts, sue or be sued in its own name. The LLP continues to exist irrespective of changes in its partners.</li><li><span>Taxation :</span> LLPs are taxed as a partnership, with profits and losses flowing through to the partners and taxed at their individual income tax rates. LLPs are not subject to dividend distribution tax (DDT). </li><li><span>Compliance Requirements :</span> LLPs have fewer compliance requirements compared to companies. They are required to file an annual return and statement of accounts with the Registrar of Companies (ROC). Audit requirements depend on the LLP’s turnover and capital contribution.</li><li><span>Flexibility :</span> LLPs offer flexibility in management and operation. Partners can decide on the internal structure, decision-making processes, profit-sharing ratios, and other matters through the LLP Agreement.</li><li><span>Professional Services :</span> LLPs are commonly used by professionals such as lawyers, accountants, consultants, and architects to conduct their business. They provide the benefits of limited liability while allowing professionals to pool resources and expertise.</li><li><span>Conversion and Dissolution :</span> LLPs can be converted into a company or vice versa, subject to compliance with the applicable procedures. LLPs can also be dissolved voluntarily or by order of the National Company Law Tribunal (NCLT).</li><li><span>Audit and Accounting :</span> LLPs are required to maintain proper books of accounts and undergo an annual audit if their turnover exceeds prescribed limits. However, small LLPs may be exempt from audit requirements.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""    
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Compliance required for LLP",
+            "sub_head": "All you should know about necessary compliance",
+            "list": [
+                {
+                    "title": "GST Registration",
+                    "description": "Every LLP is required to get their GST registration. GST Registration Process is 100% online and there is no requirement of submission of physical documents to GST Department. GST registration must be obtained within 30 days of business incorporation, otherwise, the LLP will not be able to issue proper GST related invoices."
+                },
+                {
+                    "title": "GST Return",
+                    "description": "Once a Limited Liability Partnership gets registered under GST It becomes necessary to file GST returns for LLPs. As filing of GST returns is mandatory for all the registered Taxpayers including LLPs. GST returns can be filed monthly, quarterly or yearly depending upon the types of GST returns form you are filing."
+                },
+                {
+                    "title": "Accounting",
+                    "description": "Every LLP shall maintain and keep the accounting records which sufficient to show and explain the transaction of an LLP and which discloses with reasonable accuracy the financial position of the LLP. The books of account are required to be kept and maintained at the registered office of the LLP for the period of 8 years."
+                },
+                {
+                    "title": "ROC annual filing",
+                    "description": "LLPs are required to file ROC Form 8 before 30th October every year. Form 8 contains details of the Statement of Accounts and solvency. Also, LLPs are required to file ROC Form 11 before 30th May every year. Form 11 contains details of all the Designated Partners like whether there are any changes in the management of the LLP."
+                },
+                {
+                    "title": "Audit under IT ACT",
+                    "description": "Every Limited Liability Partnership whose turnover exceeds INR 2 Cr. In case of a business or INR 50 Lakh in case of a profession, is required to get its books of accounts tax audited under section 44AB of the Income-tax Act. Such tax audit under section 44AB will have to be completed and filed by 30th September."
+                },
+                {
+                    "title": "IT Returns",
+                    "description": "Every Limited Liability Partnership has to file the Income Tax Returns every year, irrespective of its transactions. It must be filed by LLP on or before 31st July (if not covered under audit) or 30th September (if covered under audit). Income tax returns for Limited Liability Partnership have to be filed under ITR 5."
+                },
+                {
+                    "title": "MAT Audit for LLPs",
+                    "description": "It is mandatory for the LLPs to get their accounts audited under MAT i.e. Minimum Alternate Tax. A report in form 29b is to be issued by a Practicing Chartered Accountant which certifies that MAT has been computed according to Income Tax Act, 1961. The book profit of a company is the accounting profit arrived at after making the specified additions and deductions."
+                },
+                {
+                    "title": "TM Registration",
+                    "description": "For an LLPs, Trademarks are necessary not mandatory though. The protection of the LLP’s name is limited to the extent that another LLP will not be registered with the same or a closely-resembling name. If you hold a unique brand name it is always advised to get a trademark registered as it is necessary to get protection under different classes of Trademark."
+                },
+                {
+                    "title": "Form 3 CEB for LLP",
+                    "description": "For LLPs which have entered into any international transactions with associated enterprises or have undertaken specified Domestic Transactions, need to file Form 3CEB. This form should be certified by a practicing Chartered Accountant. Limited Liability Partnerships which are required to file this Form can do their tax filing by the 30th of November."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Advantages of LLP",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+              {
+                "index": 1,
+                "head": "No Minimum Capital",
+                "subhead": "No minimum capital is required for LLP Formation. No minimum capital contribution required from partners. A Limited Liability Partnership can be registered even with Rs. 1000 as total capital contribution."
+              },
+              {
+                "index": 2,
+                "head": "LLP Audit",
+                "subhead": "In the case of LLP, no mandatory Audit is required. The audit is required only when the turnover of the company exceeds Rs 40 lakhs and where the contribution exceeds Rs 25 lakhs."
+              },
+              {
+                "index": 3,
+                "head": "Easy Transfer",
+                "subhead": "Interest in Limited Liability Partnership can easily be transferred by introducing new Designated Partner in LLP and it will not affect its existence As it is a separate legal entity."
+              },
+              {
+                "index": 4,
+                "head": "Separate Legal Entity",
+                "subhead": "LLP enjoys the benefit of Separate Legal Identity in the eyes of law which clearly states that assets and liabilities of the business are not the assets and liabilities of the Partners."
+              },
+              {
+                "index": 5,
+                "head": "LLP Tax Benefits",
+                "subhead": "It is also exempted from various taxes such as dividend distribution tax and minimum alternative tax. The rate of tax on LLP is less than as compared to the company."
+              },
+              {
+                "index": 6,
+                "head": "Multiple Relationship",
+                "subhead": "A person can be a partner, employee or creditor of an Limited Liability Partnership. There may be different contracts with the same person in different capacity."
+              }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph of all the Partners",
+                "PAN Card of all the Partners",
+                "ID Proof of all the Partners" ,
+                "(Driving License/Passport/Voter ID)",
+                "Electricity Bill or any other utility bill" 
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "original_price": 7000,
+                "current_price": 6399,
+                "type": "Essential",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "LLP Agreement",
+                    "Name Approval Application",
+                    "2 Digital Signature Certificates",
+                    "2 Director Identification Numbers",
+                    "LLP Incorporation Certificate"
+                ]
+              },
+              {
+                  "original_price": 15999,
+                "current_price": 14199,
+                "type": "Enhanced",
+                "list": [
+                        "PAN",
+                        "TAN",
+                        "LLP Agreement",
+                        "GST Registration",
+                        "SSI/MSME Registration",
+                        "1 Name Approval Application",
+                        "LLP Incorporation Certificate",
+                        "2 Digital Signature Certificates",
+                        "2 Director Identification Numbers",
+                        "Trademark (1 application 1 class) (start ups, proprietorship & small business)"
+                ]
+              },
+              {
+                  "original_price": 24999,
+                "current_price": 21999,
+                "type": "Ultimate",
+                "list": [
+                    "PAN",
+                    "TAN",
+                    "LLP Agreement",
+                    "GST Registration",
+                    "SSI/MSME Registration",
+                    "1 Name Approval Application",
+                    "LLP Form 8 (Statement of account and solvency)",
+                    "LLP Form 11 (Annual Return)",
+                    "DIR 3 eKYC for two Designated Partners",
+                    "Accounting and Book Keeping (up to 50 transactions)",
+                    "1 Year TDS Filing upto 500 entries",
+                    "1st Income Tax filing for non audit assessee",
+                    "1st Annual Filing upto turnover of Rs. 40 Lakhs",
+                    "LLP Incorporation Certificate",
+                    "2 Digital Signature Certificates",
+                    "2 Director Identification Numbers",
+                    "Trademark (1 application 1 class) (start ups, proprietorship & small business)"
+                ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "Can an existing partnership firm be converted to LLP?",
+                        "answer": "Yes, an existing partnership firm can be converted into LLP by complying with the Provisions of the LLP Act."
+                    },
+                    {
+                        "question": "I wish to start my business but I am confused between Private Limited Company and LLP, what should I select?",
+                        "answer": "Pvt. Ltd. Co. and LLP have a lot of similarities yet they both are different in many of its characteristics and structures. When you wish to start your business, there are many factors that one needs to think upon before selecting any business structures. However, before selecting any business structure, you may refer LLP vs Pvt Ltd- A comparison between two important forms of organisation in India."
+                    },
+                    {
+                        "question": "Can an existing company be converted to LLP?",
+                        "answer": "Yes, any existing private company or existing unlisted public company can be converted into LLP by complying with the Provisions of the LLP Act."
+                    },
+                    {
+                        "question": "Can LLP give any other address (besides its registered office) for the purpose of receiving communication from Registrar?",
+                        "answer": "LLP shall have an option to declare one more address within the jurisdiction of same ROC (other than the registered office) for getting statutory notices/letters etc. from Registrar."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "How can a person become a partner of an LLP?",
+                        "answer": "Persons, who subscribed to the “Incorporation Document” at the time of incorporation of LLP, shall be partners of LLP. Subsequent to incorporation, new partners can be admitted to the LLP as per conditions and requirements of LLP Agreement."
+                    },
+                    {
+                        "question": "Whether any Annual Return would be required to be filed by an LLP?",
+                        "answer": "Every LLP would be required to file Annual Return with ROC. A duly authenticated Annual Return in e- Form-11, is to be filed with the Registrar, together with the prescribed fee, within a period of 60 days from the closure of every financial year."
+                    },
+                    {
+                        "question": "How can I apply for reserving LLP Name?",
+                        "answer": "File LLP Form No. 1 (Application for reservation or change of name) by logging on to the LLP portal along with the fee prescribed and attaching the digital signature of the designated partner proposing to incorporate a LLP."
+                    },
+                    {
+                        "question": "Which Cities do you provide your services?",
+                        "answer": "Ebizfiling.com provides Limited Liability Partnership Registration all across India. You can obtain LLP Company Registration in Ahmedabad, Mumbai, Pune, Bangalore, Chennai, Delhi, Kolkata, Kanpur, Nagpur, Jaipur or any other cities easily with us."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

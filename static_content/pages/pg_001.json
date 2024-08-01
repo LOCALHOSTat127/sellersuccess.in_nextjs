@@ -1,0 +1,99 @@
+{
+  "mata_info": {
+    "read_time": "6 minutes reading",
+    "date_publish": "5 May 2024",
+    "page_img": "/assets/Images/gst.png",
+    "auther": "Sahil Joshi",
+    "quick_summary": "",
+    "seo": null
+  },
+  "content": "",
+  "settings": {
+    "isTwoCol": {
+      "state": false,
+      "content": {
+        "left_col": {
+          "head": "",
+          "list": [
+            {
+              "title": "",
+              "description": ""
+            }
+
+          ]
+        }
+      }
+    },
+    "isnCol": {
+      "state": true,
+      "head": "",
+      "sub_head": "",
+      "list": [
+        {
+          "title": "",
+          "description": ""
+        }
+      ]
+    },
+    "isGridPints": {
+      "state": false,
+      "isBG": true,
+      "head": "",
+      "sub_head": "",
+      "list": [
+        {
+          "index": 1,
+          "head": "",
+          "subhead": ""
+        }
+      ]
+    },
+    "isDocuments": {
+      "state": false,
+      "list": []
+    },
+    "isPricing": {
+      "state": true,
+      "isMultiState": false,
+      "head": "Affordable Pricing for everybody.",
+      "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+      "packs": [
+        {
+          "original_price": null,
+          "current_price": null,
+          "type": "Essential",
+          "list": []
+        },
+        {
+          "original_price": null,
+          "current_price": null,
+          "type": "Enhanced",
+          "list": []
+        },
+        {
+          "original_price": null,
+          "current_price": null,
+          "type": "Ultimate",
+          "list": []
+        }
+      ]
+    },
+    "isFAQ": {
+      "state": true,
+      "faqs": {
+        "left": [
+          {
+            "question": "",
+            "answer": ""
+          }
+        ],
+        "right": [
+          {
+            "question": "",
+            "answer": ""
+          }
+        ]
+      }
+    }
+  }
+}

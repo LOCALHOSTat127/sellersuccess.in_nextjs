@@ -1,0 +1,193 @@
+
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "For ROC annual filing of Public Limited Companies in India, visit the Ministry of Corporate Affairs (MCA) portal. File the annual return using Form MGT-7 and financial statements through Form AOC-4. Ensure the forms include detailed financial reports, shareholder information, and director details. Public Limited Companies must also comply with additional disclosure requirements. Submit the forms within the deadlines to maintain compliance and avoid penalties.",
+        "seo" : {
+          "title": "ROC Annual Filing Requirements for Public Limited Companies in India",
+          "description": "Discover the ROC annual filing requirements for Public Limited Companies in India. This process involves the mandatory submission of financial statements and annual returns to the Registrar of Companies (ROC). Learn about the deadlines, documentation, and compliance obligations to ensure your Public Limited Company meets regulatory standards.",
+          "keywords": [
+            "ROC annual filing for Public Limited Companies",
+            "Public Limited Company compliance",
+            "Annual returns filing ROC",
+            "Financial statements submission ROC",
+            "ROC filing requirements India",
+            "Public Limited Company regulations",
+            "Companies Act 2013 ROC filing",
+            "Annual filing deadlines",
+            "ROC documentation for Public Limited Companies",
+            "Public Limited Company annual return"
+          ]
+        }
+        
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>Annual Return of the Public Limited Company :</p><ul><li>The Public Limited Companies are undoubtedly required to make the largest number of compliances every year, as compared to those by all other types of companies.</li><li>Every Public Limited Company in India mandatorily required to file annual filling every year as per the Companies Act, 2013.</li><li>The Public Limited Company needs to file the Balance Sheet, P&L Account and other documents with MCA.</li><li>The Annual Return is totally different from the income tax department and it’s governed by Ministry of Corporate Affairs.</li></ul></div><div class=\"list_container\"><p>Advantages of Public Limited Company Annual Filing :</p><ul><li>Proper compliance according to company law is the obligation of every company, it creates transparency. The regular compliance increases the credibility of the company.</li><li>The Annual Compliance helps in marinating active status.</li><li>Regular annual compliance results in assuring the clients that the company is regularly reviewing its operation. So, they can trust the company regarding their operations.</li><li>Annual compliance gives a competitive edge in the market. It can be used in advertising the business & assuring the investors or customers about the company’s business.</li><li>Annual compliance by the companies ensures that the data collected for annual compliance is correct.</li><li>Many times small businesses end up with heavy penalties as they do not comply with annual compliances. So, regular annual compliances result in avoiding heavy penalties.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""  
+        },
+        "isnCol": {
+            "state": true,
+            "head": " Major Annual Compliance PLC",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+                {
+                    "title": "Form MGT-7",
+                    "description": "Annual Return for Public Limited Company detailing latest information about directors and shareholders."
+                  },
+                  {
+                    "title": "Form AOC-4",
+                    "description": "Financial Statements in Form AOC-4 including Balance Sheet, Profit and Loss Account, Directors’ Report, Cash Flow Statement, Auditor’s Report, and Consolidated Financial Statement."
+                  },
+                  {
+                    "title": "Form ADT-1",
+                    "description": "Appointment of auditor by the Board of Directors within 30 days from Date of Incorporation, filed in ADT-1."
+                  },
+                  {
+                    "title": "Form MGT-8",
+                    "description": "Certification by Company Secretary in Practice for Public Company with paid-up share capital of 10 Crore or more or turnover of Rs. 50 crore or more."
+                  },
+                  {
+                    "title": "Form DIR-3 KYC",
+                    "description": "Mandatory KYC for all directors with ROC; verification via OTP required for previously submitted forms or new directors."
+                  },
+                  {
+                    "title": "Form DPT-3",
+                    "description": "Return of Deposit filed before Registrar of Companies in FORM DPT-3."
+                  },
+                  {
+                    "title": "Form MBP-1",
+                    "description": "Disclosure of interest by directors in any company, firm, or other AOI (including shareholding interest) in first board meeting, filed in Form MBP-1."
+                  },
+                  {
+                    "title": "Form MR-3",
+                    "description": "Secretarial Audit Report required for listed public companies or unlisted public companies with paid-up share capital of 50 Crores or more or turnover of 250 Crores or more, filed in Form MR-3."
+                  },
+                  {
+                    "title": "Form MGT-14",
+                    "description": "Adoption of Financials and Director’s Report filed in Form MGT-14."
+                  },
+                  {
+                    "title": "Form MGT-15",
+                    "description": "Exclusive report on Annual General Meeting (AGM) of the company filed in Form MGT-15."
+                  },
+                  {
+                    "title": "Income Tax Returns",
+                    "description": "Annual filing of Income Tax Returns required for every Public Limited Company."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": false,
+            "list": [
+                "Balance sheet",
+                "Consolidated financial statements",
+                "Directors report",
+                "P&L Account",
+                "Details of the Members",
+                "Details of Directors and Secretarial Certificate (if applicable) & other necessary documents"
+            ]
+        },
+
+        "isPricing": {
+          "state": true,
+          "isMultiState" :false,
+          "head" : "Affordable Pricing for everybody.",
+          "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 7499,
+                  "current_price": 6999,
+                  "list" : [
+                    "Annual Filings for Company having turnover upto Rs. 50 Lakhs",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Professional certification on MGT-7"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 40599,
+                  "current_price": 37999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 5 Lakhs, turnover upto Rs. 50 Lakhs and upto 100 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 50 Lakhs",
+                    "3 DIR-3 KYC",
+                    "Professional certification on MGT-7 & AOC 4"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 49999,
+                  "current_price": 47999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 5 Lakhs, turnover upto Rs. 100 Lakhs and upto 300 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 100 Lakhs",
+                    "3 DIR-3 KYC",
+                    "Professional certification on MGT-7 & AOC 4"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is the Annual Return of the Public Limited Company?",
+                        "answer": "The annual return is filed every year along with the Balance Sheet, Profit & Loss Account, and other documents. It is different from the income tax department and is governed by the Ministry of Corporate Affairs."
+                    },
+                    {
+                        "question": "Who signs the Annual Return?",
+                        "answer": "The Annual Return must be signed by two directors of the company."
+                    },
+                    {
+                        "question": "Are the Government fees for Company return filing included in ROC filing fees?",
+                        "answer": "Yes, SellerSuccess’s packages for ROC filing fees are inclusive of the government fees for company return filings."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "What are the Audit requirements under Companies Act, 2013?",
+                        "answer": "Audit under the Companies Act, 2013 is mandatory regardless of the capital or turnover of the company. Every company is required to have its financial statements audited by a qualified auditor."
+                    },
+                    {
+                        "question": "Who files the Annual Return?",
+                        "answer": "The Annual return can be submitted by any of its directors but it shall be duly signed by both the directors of the COMPANY and by the Manager or Company Secretary. In situations where there is no Manager or Company Secretary, the signature of both directors is compulsory."
+                    },
+                    {
+                        "question": "What do you mean by Financial Statement?",
+                        "answer": "All companies registered with the Ministry of Corporate Affairs (MCA) are required to file a 'Balance Sheet and Profit & Loss Statement with Directors’ Report and Auditors’ Report' in the appropriate format of the company. This filing should include a declaration on the state of solvency of the company, and it is the responsibility of the directors to ensure its accuracy and compliance."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

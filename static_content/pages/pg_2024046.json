@@ -1,0 +1,69 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "To increase authorized capital, hold a board meeting to approve the increase and pass a special resolution in a general meeting. File Form SH-7 with the Ministry of Corporate Affairs (MCA) to notify the Registrar of Companies (ROC) about the increase. Update the company’s Memorandum of Association (MOA) to reflect the new authorized capital. Ensure compliance with all legal requirements to avoid penalties and maintain accurate records.",
+      "seo":{
+        "title": "How to Increase Authorized Capital for a Company",
+        "description": "Increasing the authorized capital of a company involves the process of raising the maximum amount of share capital that the company is allowed to issue. This process typically requires a board resolution, approval from shareholders, and filing the necessary forms with the Registrar of Companies (ROC). The increase in authorized capital is often undertaken to facilitate future growth, issue new shares, or meet business expansion requirements.",
+        "keywords": ["Increase Authorized Capital", "Authorized Capital Raise", "Company Capital Increase", "ROC Filing for Capital Increase", "Share Capital Increase Process", "Company Growth and Capital"]
+      }
+      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><p>In relation to a company, Authorized Capital is the amount mentioned in the capital clause of the Memorandum of Association of the company. The authorized capital of a Company determines the number of shares a Company can issue to its shareholders. To the extent of the amount specified in a capital clause, the company can raise capital. If the company wants more capital then the capital clause has to be amended by the members by passing a special resolution at a general meeting. An increase in the authorized capital might as well be required for issuing new shares and/or infusing more capital into the Company.</p></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content":null
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isGridPints": {
+        "state": false,
+        "isBG": true,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isDocuments": {
+        "state": false,
+        "list": []
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 3999,
+            "current_price": 3499,
+            "type": "Essential",
+            "list": ["Increase in authorised capital of upto Rs.10 lakhs."]
+          },
+          {
+            "original_price": 5499,
+            "current_price": 4499,
+            "type": "Enhanced",
+            "list": ["Increase in authorised capital of upto Rs.25 lakhs."]
+          },
+          {
+            "original_price": 6499,
+            "current_price": 5499,
+            "type": "Ultimate",
+            "list": ["Increase in authorised capital of upto Rs.100 lakhs."]
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": false,
+        "faqs": null
+      }
+    }
+  }

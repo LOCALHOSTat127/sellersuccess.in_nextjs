@@ -1,0 +1,160 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "For ROC annual filing of a Private Limited Company, visit the Ministry of Corporate Affairs (MCA) portal. File the annual return (Form MGT-7) and financial statements (Form AOC-4) within the deadlines. Include details such as company financials, shareholder information, and compliance status. Submit the forms online and ensure all required documents are accurately uploaded. Timely filing is crucial to comply with regulatory requirements and avoid penalties.",
+        "seo" : {
+            "title": "Understanding ROC Annual Filing for Private Limited Companies in India",
+            "description": "Learn about the ROC annual filing requirements for Private Limited Companies in India. According to the Companies Act 2013, these companies must file annual returns with the Registrar of Companies (ROC) every year. This includes holding an Annual General Meeting (AGM) within 6 months of the financial year-end and filing annual accounts. For new companies, the first AGM should be held within 18 months of incorporation or 9 months from the financial year-end, whichever is earlier. The financial year runs from April 1st to March 31st.",
+            "keywords": [
+              "ROC annual filing",
+              "Private Limited Company ROC requirements",
+              "Annual General Meeting ROC",
+              "Private Limited Company annual return",
+              "Companies Act 2013 ROC filing",
+              "ROC filing deadlines",
+              "Annual accounts filing",
+              "AGM requirements",
+              "Private Limited Company compliance",
+              "ROC filing for new companies"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">Annual return consists of information and documents that include the Balance Sheet of the Company, Profit & Loss Account, Compliance Certificate, Registered Office Address, Register of Member, Shares and Debentures details, Debt details and information about the Management of the Company. The annual return would also disclose the shareholding structure of the Company, changes in Directorship and details of transfers of securities.</p><div class=\"list_container\"><p>Usually, a company is required to file three forms with ROC: :</p><ul><li><span>ROC Form MGT 7 :</span> which contains details of shareholding structure, change in directorship and details of the transfer of shares during the year if any. Due date for ROC Form MGT 7 would be 28th November that is 60 days from the conclusion of AGM.</li><li><span>ROC Form AOC4 :</span> which contains details and annexure relating to Balance Sheet of the Company, Profit & Loss Account, Compliance Certificate, Registered Office Address, Register of Member, Shares and Debentures details, Debt details and information about the Management of the Company. The due date for ROC Form AOC 4 would be 29th October i.e. 30 days from the conclusion of the AGM.</li><li><span>ROC Form ADT 1: :</span> is filed for auditor appointment. The due date for ROC Form ADT 1 would be 14th October i.e within 15 days from the conclusion of AGM.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Penalties for Non compliance in company return filing :</p><p>Non-filing of Annual returns entail hefty penalties. These are over and above normal fees charged by MCA and there is no way to reduce the penalties. </p></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""  
+        },
+        "isnCol": {
+            "state": true,
+            "head": "All about Company Annual Filing for Private Limited Company",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+                {
+                    "title": "Accounting for Private Limited Companies",
+                    "description": "Accounting is essential for compliance with company regulations such as statutory audit, annual filing, and income tax return filing. Ebizfiling offers services to prepare the balance sheet and profit and loss account for the year, ensuring compliance with these requirements."
+                  },
+                  {
+                    "title": "Statutory Audit for Private Limited Companies",
+                    "description": "Every Private Limited Company must annually audit their books of accounts by a practicing Chartered Accountant. Ebizfiling facilitates this process through associated CA firms, ensuring compliance with audit requirements."
+                  },
+                  {
+                    "title": "Annual Filing Forms for Private Limited Companies",
+                    "description": "Private Limited Companies are mandated to file three forms annually: AOC-4 for submission of financial statements (balance sheet, P&L account), MGT-7 for annual return, and ADT-1 for auditor's appointment report to ROC."
+                  },
+                  {
+                    "title": "MAT Audit for Private Limited Companies",
+                    "description": "Private Limited Companies are required to undergo MAT (Minimum Alternate Tax) audit. A report in Form 29B, issued by a Practicing CA, certifies compliance with MAT provisions under the Income Tax Act, 1961."
+                  },
+                  {
+                    "title": "Income Tax Audit for Private Limited Companies",
+                    "description": "Under Section 44AB of the Income Tax Act 1961, all types of companies, including Private Limited Companies, must undergo tax audits. Ebizfiling's associated CA firm provides tax audit services to ensure compliance."
+                  },
+                  {
+                    "title": "Income Tax Return (ITR) Filing for Private Limited Companies",
+                    "description": "All companies registered in India, including Private Limited Companies, must file income tax returns annually by September 30th. Ebizfiling assists in filing ITRs, incorporating advance tax payments, TDS, or TCS for accurate tax compliance."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": false,
+            "list": []
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 4599,
+                  "current_price": 3999,
+                  "list" : [
+                    "Authorized Capital of Rs 1 Lakhs, turnover upto Rs. 20 Lakhs",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing" 
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 17599,
+                  "current_price": 16299,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 1 Lakhs, turnover upto Rs. 20 Lakhs and upto 100 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 20 Lakhs",
+                    "2 DIR-3 KYC"  
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 29999,
+                  "current_price": 28599,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Authorized Capital of Rs 5 Lakhs, turnover upto Rs. 100 Lakhs and upto 300 accounting transactions",
+                    "One Year Income Tax filing upto turnover of Rs. 100 Lakhs",
+                    "2 DIR-3 KYC"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is the Annual Return Filing of COMPANY?",
+                        "answer": "All Companies are under obligation to maintain annual accounts that reflect genuine and authentic information about their state and affairs. Even if a company does not conduct business, it must comply with the statutory requirement of filing annual returns, profit and loss statements, balance sheets, and income tax returns every year. The fee for these filings depends on the capital of the company."
+                    },
+                    {
+                        "question": "Are the Government fees for Company return filing included in ROC filing fees?",
+                        "answer": "Yes, Ebizfiling’s packages for ROC filing fees are inclusive of the government fees for company return filings."
+                    },
+                    {
+                        "question": "Is Annual Return needed to be filed by a COMPANY?",
+                        "answer": "Yes, every company needs to file an annual return. Once the prescribed fees are paid to the Registrar, the annual return becomes available for public inspection."
+                    },
+                    {
+                        "question": "What are the Audit requirements under Companies Act, 2013?",
+                        "answer": "Under the Companies Act, 2013, it is mandatory for every company to undergo an audit, irrespective of its capital or turnover."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "Who files the Annual Return?",
+                        "answer": "The annual return can be submitted by any of the directors of the COMPANY, but it must be duly signed by both the directors and by the Manager or Company Secretary. If there is no Manager or Company Secretary, the signature of both directors is mandatory."
+                    },
+                    {
+                        "question": "What do you mean by Financial Statement?",
+                        "answer": "All companies registered with the Ministry of Corporate Affairs (MCA) are required to file a 'Balance Sheet and Profit & Loss Statement' along with Directors' Report and Auditors' Report in the prescribed format. These statements should reflect the true state of solvency of the company and are prepared by the directors."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

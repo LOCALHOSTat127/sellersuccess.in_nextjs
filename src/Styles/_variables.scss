@@ -1,0 +1,49 @@
+$secondary_ff : ' "Newsreader", serif';
+$primary_ff : '"Poppins", sans-serif';
+
+$clr_yel_prim : #FFCC5F;
+$clr_yel_second : #EBA819;
+$transparent_bg_mild : #929292;
+$transparent_bg_storng : #B2B2B2;
+$strok_grey : #FFFFFF;
+$txt_grey : #B7B7B7;
+
+
+
+
+
+// flex-box
+.flex{
+    display: flex;
+
+    &.fdc{
+        flex-direction: column;
+    }
+    &.fdr{
+        flex-direction: row;
+    }
+    &.aic{
+        align-items: center;
+    }
+    &.aifs{
+        align-items: flex-start;
+    }
+    &.aife{
+        align-items: flex-end;
+    }
+    &.jcc{
+        justify-content: center;
+    }
+    &.jcfs{
+        justify-content: flex-start;
+    }
+    &.jcfe{
+        justify-content: flex-end;
+    }
+    &.jcsb{
+        justify-content: space-between;
+    }
+    &.jcsa{
+        justify-content: space-around;
+    }
+}

@@ -1,0 +1,18 @@
+/* Mobile devices (small) */
+@media (max-width: 480px){
+    
+    .platforms_{
+       
+        overflow-x: scroll;
+    }
+
+    .share_link{
+        .link{
+            font-size: 14px;
+        }
+
+        #COPYBTN{
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To register for an Import Export Code (IEC), visit the DGFT (Directorate General of Foreign Trade) website. Fill out the online application form, providing details such as business name, PAN, and bank account information. Upload required documents like the PAN card, business registration certificate, and a canceled cheque. Submit the application, and upon verification, you will receive the IEC, enabling you to conduct international trade.",
+        "seo" : {
+            "title": "How to Obtain an IEC Registration for Import and Export",
+            "description": "Discover the process to apply for IEC (Import Export Code) registration, a 10-digit unique identification number issued by the Directorate General of Foreign Trade (DGFT), Government of India. IEC is essential for businesses and individuals involved in import and export activities in India. Find out everything you need to know about securing your IEC.",
+            "keywords": [
+              "apply for IEC registration",
+              "Import Export Code application",
+              "how to get IEC number",
+              "IEC registration process",
+              "DGFT IEC",
+              "Import Export Code India",
+              "IEC requirements",
+              "business import export registration",
+              "IEC application guide",
+              "IEC registration details"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">Purpose of IEC</p><p>IEC is required for businesses or individuals engaged in import and export activities in India. It serves as a primary identification number for tracking foreign trade transactions and facilitating customs clearance.</p></div><div class=\"para_with_head\"><p class=\"head\">Who Needs to Obtain IEC?</p><p>Any person or entity engaged in importing or exporting goods or services from India is required to obtain IEC. This includes individuals, firms, companies, LLPs, trusts, and any other legal entity.</p></div><div class=\"list_container\"><p>Types of IEC: :</p><ul><li><span>IEC for Exporters (Non-Permanent/Regular) :</span> Issued to entities engaged in exporting goods or services from India.</li><li><span>IEC for Importers (Permanent) :</span> Issued to entities engaged in importing goods or services into India.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Application Procedure for IEC</p><p>The application for IEC can be made online through the DGFT’s official website (<a href=\"https://dgft.gov.in/\">https://dgft.gov.in/</a>). Applicants need to fill out the IEC application form and submit the required documents, including identity proof, address proof, and bank details.</p></div><div class=\"para_with_head\"><p class=\"head\">Documents Required for IEC Application</p><p>The documents required for IEC application may vary based on the type of entity applying. Common documents include PAN card, Aadhaar card, passport-sized photographs, bank certificate or canceled cheque, and address proof of the business premises.</p></div><div class=\"para_with_head\"><p class=\"head\">Validity of IEC</p><p>IEC once obtained is valid for the lifetime of the entity and does not require renewal. However, any changes in the details provided in the IEC need to be updated promptly with the DGFT.</p></div><div class=\"list_container\"><p>Benefits of IEC :</p><ul><li>IEC facilitates international trade by providing a unique identification number for import and export transactions.</li><li>It is mandatory for availing various benefits under government schemes and incentives related to foreign trade.</li><li>IEC enables businesses to expand their market reach by engaging in international trade without any restrictions.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Online Verification of IEC</p><p>IEC details can be verified online through the DGFT’s website using the IEC number. This allows businesses to verify the authenticity of IEC provided by other entities for trade transactions.</p></div><div class=\"para_with_head\"><p class=\"head\">Use of IEC</p><p>IEC is used for various purposes, including customs clearance, filing shipping bills or bill of entries, opening letters of credit, availing export incentives, and complying with foreign trade regulations.</p></div><div class=\"para_with_head\"><p class=\"head\">Consequences of Not Obtaining IEC</p><p>Failure to obtain IEC may result in restrictions or penalties imposed by customs authorities on import and export transactions. It may also limit access to certain government incentives or benefits related to foreign trade.</p></div><div class=\"list_container\"><p>When will there be requirement of IE code? :</p><ul><li>When an importer has to clear his shipments from the customs then it’s needed by the customs authorities.</li><li>When an importer sends money abroad through banks then it’s needed by the bank.</li><li>When an exporter has to send his shipments then it’s needed by the customs port.</li><li>When an exporter receives money in foreign currency directly into his bank account then submission of IEC is required by the bank.</li><li>One doesn’t need to be a registered entity to apply for import export code; you can apply even as an individual. IEC Certificate is also known as Export License, Import License, IE Code, IEC code, EXIM License. All have the same meaning.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""      
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Benifits of IEC",
+            "sub_head": "IEC (Import Export Code) registration is a ten-digit code essential for businesses or individuals engaged in importing or exporting goods and services from India.",
+            "list": [
+                {
+                    "title": "Facilitates International Trade",
+                    "description": "IEC registration enables businesses to engage in international trade by allowing them to import or export goods and services from India. It is a mandatory requirement for businesses looking to expand their presence in the global market."
+                },
+                {
+                    "title": "Legal Requirement",
+                    "description": "IEC registration is a legal requirement under the Foreign Trade Policy of India. Without an IEC, businesses cannot undertake import or export activities, and shipments may get held up at customs."
+                },
+                {
+                    "title": "No Filing of Returns",
+                    "description": "Unlike other registrations, IEC registration does not require businesses to file any returns. Once obtained, it remains valid for a lifetime unless surrendered or cancelled."
+                },
+                {
+                    "title": "Easy Processing of Import-Export Transactions",
+                    "description": "Having an IEC simplifies the processing of import-export transactions. It streamlines the documentation process and helps in obtaining various benefits provided by the government for exporters or importers."
+                },
+                {
+                    "title": "Avail Government Benefits",
+                    "description": "Businesses with an IEC can avail themselves of several benefits provided by the government, such as export incentives, subsidies, or other financial assistance schemes. These benefits aim to promote exports and enhance competitiveness in international markets."
+                },
+                {
+                    "title": "Expansion of Business",
+                    "description": "IEC registration opens up opportunities for businesses to explore new markets and expand their customer base globally. It allows businesses to establish partnerships with international suppliers, buyers, or distributors, thereby increasing their business prospects."
+                },
+                {
+                    "title": "No Need for PAN",
+                    "description": "Unlike some other registrations, IEC does not require the submission of PAN (Permanent Account Number) details. This makes it easier for businesses to obtain IEC, especially if they do not have PAN."
+                },
+                {
+                    "title": "Online Application Process",
+                    "description": "The process of obtaining IEC is relatively simple and can be done online through the DGFT (Directorate General of Foreign Trade) portal. This saves time and effort for businesses, as they can complete the registration process from the comfort of their office or home."
+                },
+                {
+                    "title": "Enhanced Credibility",
+                    "description": "Having an IEC enhances the credibility of businesses in the eyes of international partners, suppliers, or customers. It demonstrates that the business is legally authorized to engage in import-export activities and is compliant with government regulations."
+                },
+                {
+                    "title": "Access to Export Incentives",
+                    "description": "Businesses with an IEC can access various export incentives provided by the government, such as duty drawback, GST refunds, or export promotion schemes. These incentives help in reducing the cost of exports and improving profitability."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph of applicant",
+                "Self-attested PAN Card of all directors/ partners/proprietor",
+                "Residential Address Proof of all directors/ partners/proprietor",
+                "Entity Pan Card (if any)",
+                "Cancelled Cheque Or Banker Certificate for IEC"             
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 3599,
+                  "current_price": 3299,
+                  "list" : [
+                    "Import Export Code"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 4999,
+                  "current_price": 4299,
+                  "list" : [
+                    "Import Export Code",
+                    "Digital Signature Class 3 Individual having 2 Years Validity"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 7499,
+                  "current_price": 6099,
+                  "list" : [
+                    "Import Export Code",
+                    "GST Registration",
+                    "Digital Signature Class 3 Individual having 2 Years Validity"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is IEC (Import Export Code) registration?",
+                        "answer": "IEC registration is a 10-digit code issued by the Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry, Government of India. It is mandatory for businesses or individuals engaged in importing or exporting goods and services from India."
+                    },
+                    {
+                        "question": "Who needs to obtain IEC registration?",
+                        "answer": "Any person or entity engaged in import or export activities, including individuals, sole proprietorships, partnerships, LLPs, companies, or corporations, needs to obtain IEC registration."
+                    },
+                    {
+                        "question": "Is IEC registration mandatory for all exporters and importers?",
+                        "answer": "Yes, IEC registration is mandatory for all businesses or individuals involved in importing or exporting goods and services from India, except for certain categories of importers or exporters exempted by the DGFT."
+                    },
+                    {
+                        "question": "What are the benefits of obtaining IEC registration?",
+                        "answer": "Benefits of IEC registration include facilitating international trade, legal compliance, availing government benefits, easy processing of import-export transactions, access to export incentives, and enhancing the credibility of businesses in the global market."
+                    },
+                    {
+                        "question": "How to apply for IEC registration?",
+                        "answer": "IEC registration can be applied for online through the DGFT’s e-commerce portal (https://www.dgft.gov.in/) by filling out the IEC application form (ANF 2A) and submitting the required documents and fees electronically."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "What documents are required for IEC registration?",
+                        "answer": "Documents required for IEC registration include PAN card, identity proof (such as Aadhaar card, passport), address proof (such as Aadhaar card, passport, utility bill), bank certificate or cancelled cheque, and other supporting documents as specified by the DGFT."
+                    },
+                    {
+                        "question": "Is there a fee for IEC registration?",
+                        "answer": "Yes, a fee is applicable for IEC registration. The fee varies based on the category of the applicant (individual or entity) and mode of application (online or offline). It can be paid electronically through the DGFT portal."
+                    },
+                    {
+                        "question": "How long does it take to obtain IEC after applying?",
+                        "answer": "IEC is typically issued within 1 to 2 working days from the date of submission of the application, provided all the required details and documents are in order."
+                    },
+                    {
+                        "question": "Is there a validity period for IEC registration?",
+                        "answer": "No, IEC registration does not have a validity period and remains valid for a lifetime unless surrendered or cancelled by the applicant."
+                    },
+                    {
+                        "question": "Can IEC registration be modified or cancelled?",
+                        "answer": "Yes, IEC registration can be modified or cancelled by submitting a request to the DGFT along with the required documents and fees. Modifications may include changes in business details, address, authorized signatories, or additional places of business."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

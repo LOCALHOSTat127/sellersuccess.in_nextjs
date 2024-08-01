@@ -1,0 +1,175 @@
+{
+    "mata_info": {
+        "read_time": "6 minutes reading",
+        "date_publish": "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary": "To file a TDS (Tax Deducted at Source) return, visit the TDS Reconciliation Analysis and Correction Enabling System (TRACES) or NSDL website. Choose the relevant TDS return form (like 24Q for salary or 26Q for other payments). Fill in details such as deductor and deductee information, and submit the return along with any required payment. After submission, download the acknowledgment receipt and ensure timely filing to avoid penalties.",
+        "seo": {
+            "title": "How to File a TDS Return: A Step-by-Step Guide",
+            "description": "Learn how to file a TDS (Tax Deducted at Source) return with our step-by-step guide. A TDS return is a statement detailing tax deducted at source by the deductor during a specific period, including information on the deductor’s and deductee’s PAN, the amount of TDS deducted, the nature of payment, and other relevant details.",
+            "keywords": [
+                "file TDS return",
+                "TDS return filing process",
+                "how to submit TDS return",
+                "TDS return guide",
+                "tax deducted at source return",
+                "TDS return details",
+                "TDS return form",
+                "TDS filing online",
+                "TDS return requirements",
+                "TDS compliance"
+            ]
+        }
+    },
+    "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">Pre-requisites of TDS Return Filing</p><p>The first requirement for filing a TDS Return is to obtain a valid TAN (Tax Deduction Account Number) and PAN (Permanent Account Number). You need to assess if you are required to deduct TDS on which payments.</p><p>Transaction details and Payment details.</p><p>Usually, all types of payments such as Salaries, Interest, Professional Fees, Payment to Contractors, Rent of Machinery, Rent of Building etc are covered under liable payments.</p><p>There are prescribed rates for every type of TDS payments under the Income Tax Act, 1961.</p></div><div class=\"para_with_head\"><p class=\"head\">TDS rate chart for FY 2023-24</p><p>So if you are a deductor and have made payments to resident Indians with regards to any of the above, you should file Form 24Q (TDS on salary payments) and Form 26Q (TDS on payments other than salaries) on a quarterly basis. If you have made any payments to non-residents, you are required to file Form 27Q on a quarterly basis. Form 16A and Form 16 (TDS Certificates) can only be generated if you have correctly filed your TDS Returns.</p></div><div class=\"list_container\"><p>Key Points About TDS</p><ul><li><span>Who needs to file TDS Return?</span> Any person or entity who deducts tax at source as per the provisions of the Income Tax Act, 1961 is required to file TDS returns. This includes employers, banks, contractors, professionals, etc.</li><li><span>Types of TDS Returns</span> There are different types of TDS returns prescribed under the Income Tax Act, such as Form 24Q for salary payments, Form 26Q for non-salary payments, Form 27Q for TDS on payments to non-residents, and Form 27EQ for TDS on payments other than salaries.</li><li><span>Frequency of Filing</span> The frequency of filing TDS returns depends on the type of deduction and the nature of the deductor. Typically, TDS returns are required to be filed quarterly.</li><li><span>Components of TDS Return</span> TDS return contains details of TDS deducted, TDS deposited, challan details, PAN of deductor and deductee, and other relevant information.</li><li><span>Filing Process</span> TDS returns are filed electronically through the Income Tax Department’s e-filing portal (<a href=\"https://www.incometaxindiaefiling.gov.in/\">https://www.incometaxindiaefiling.gov.in/</a>). Deductors need to register on the portal, prepare the return offline using the relevant forms, and upload it online.</li><li><span>Due Dates</span> Different types of TDS returns have different due dates for filing. For example, TDS returns for the April-June quarter are typically due on July 31st.</li><li><span>Late Filing Penalty</span> Late filing of TDS returns attracts penalties and late fees. The penalty for late filing of TDS returns is Rs. 200 per day of delay, subject to a maximum of the TDS amount.</li><li><span>Revision of TDS Return</span> Deductors can revise TDS returns if there are any errors or omissions in the original return filed. However, there are limitations on the number of times a return can be revised.</li><li><span>TDS Certificates</span> After filing TDS returns, deductors are required to issue TDS certificates (Form 16/16A/16B/16C) to the deductees, providing details of tax deducted and deposited.</li><li><span>Audit and Assessment</span> The Income Tax Department may conduct audits or assessments to verify the accuracy and completeness of TDS returns filed by deductors.</li><li><span>Penalties for Non-Compliance</span> Non-compliance with TDS return filing requirements may lead to penalties, fines, interest, and other legal consequences as per the provisions of the Income Tax Act.</li></ul></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""
+        },
+        "isnCol": {
+            "state": true,
+            "head": "TDS Returns filing-Mandatory norms",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+                {
+                    "title": "Quarterly Returns",
+                    "description": "Due dates of quarterly TDS return filing are as follows (Due Dates for all quarters extended till 31.03.2021):\n- April-June – 31st July\n- July-September – 31st October\n- October-December – 31st January\n- January-March – 31st May"
+                },
+                {
+                    "title": "Return Forms",
+                    "description": "Form 26Q is the TDS return form for Non-Salary TDS. Form 24Q is used to provide details of Salary TDS, while Form 27Q is used for details of Non-resident payments."
+                },
+                {
+                    "title": "Late Filing",
+                    "description": "Late filing of TDS Return attracts late fees of Rs. 200/- per day of default. It is advisable to file returns on time to avoid these mandatory late fees."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "Steps to File TDS Return",
+            "sub_head": "",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Return preparation",
+                    "subhead": "We will need to receive TAN, Challans, and Deductee details from you. These will be processed by us and returns 24Q, 26Q, and 27Q will be prepared by us."
+                },
+                {
+                    "index": 2,
+                    "head": "Filing of Returns",
+                    "subhead": "These returns will be filed online. Once filed, acknowledgment receipts will be generated for individual returns. These will be shared with you along with filed returns."
+                },
+                {
+                    "index": 3,
+                    "head": "Form 16 & 16A",
+                    "subhead": "Form 16 will be generated on a yearly basis if you have opted for January to March TDS filing package. Form 16A will be generated and shared with you on a quarterly basis."
+                }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Your TAN",
+                "Challans of TDS payment",
+                "Details of deduction"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState": false,
+            "head": "Affordable Pricing for everybody.",
+            "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+                {
+                    "type": "Essential",
+                    "original_price": 1299,
+                    "current_price": 999,
+                    "list": [
+                        "One TDS Return upto 20 entries"
+                    ]
+                },
+                {
+                    "type": "Enhanced",
+                    "original_price": 6499,
+                    "current_price": 5999,
+                    "list": [
+                        "TDS Returns for 1st Quarter",
+                        "TDS Returns for 2nd Quarter",
+                        "TDS Returns for 3rd Quarter",
+                        "TDS Returns for 4th Quarter",
+                        "Form 24Q, 26Q and 27Q (as applicable) upto 500 entries for 1 Year",
+                        "Form 16A on a quarterly basis",
+                        "Form 16 on an annual basis for upto 5 employees"
+                    ]
+                },
+                {
+                    "type": "Ultimate",
+                    "original_price": 10099,
+                    "current_price": 8999,
+                    "list": [
+                        "TDS Returns for 1st Quarter",
+                        "TDS Returns for 2nd Quarter",
+                        "TDS Returns for 3rd Quarter",
+                        "TDS Returns for 4th Quarter",
+                        "Form 24Q, 26Q and 27Q (as applicable) upto 1000 entries for 1 Year",
+                        "Form 16A on a quarterly basis",
+                        "Form 16 on an annual basis for upto 10 employees"
+                    ]
+                }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "Who is required to file TDS Returns?",
+                        "answer": "Any person or entity who is responsible for deducting tax at source as per the provisions of the Income Tax Act, 1961 is required to file TDS returns. This includes employers, banks, contractors, professionals, etc."
+                    },
+                    {
+                        "question": "What is the Frequency of TDS Return Filing?",
+                        "answer": "TDS returns are generally required to be filed quarterly. However, for government deductors, TDS on non-salary payments is required to be filed monthly."
+                    },
+                    {
+                        "question": "What are the Different Types of TDS Returns?",
+                        "answer": "There are different types of TDS returns prescribed under the Income Tax Act, such as Form 24Q for salary payments, Form 26Q for non-salary payments, Form 27Q for TDS on payments to non-residents, and Form 27EQ for TDS on payments other than salaries."
+                    },
+                    {
+                        "question": "What are the Due Dates for Filing TDS Returns?",
+                        "answer": "The due dates for filing TDS returns vary depending on the quarter to which they relate. Generally, TDS returns for a particular quarter are due by the 31st of the month following the end of the quarter."
+                    },
+                    {
+                        "question": "Is it Mandatory to File TDS Returns Online?",
+                        "answer": "Yes, it is mandatory to file TDS returns online through the Income Tax Department’s e-filing portal (https://www.incometaxindiaefiling.gov.in/). Manual filing of TDS returns is not allowed."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "What are the Consequences of Late Filing of TDS Returns?",
+                        "answer": "Late filing of TDS returns attracts penalties and late fees. The penalty for late filing of TDS returns is Rs. 200 per day of delay, subject to a maximum of the TDS amount."
+                    },
+                    {
+                        "question": "Can TDS Returns be Revised?",
+                        "answer": "Yes, TDS returns can be revised if there are any errors or omissions in the original return filed. However, there are limitations on the number of times a return can be revised."
+                    },
+                    {
+                        "question": "Is it Mandatory to Issue TDS Certificates to Deductees?",
+                        "answer": "Yes, it is mandatory for deductors to issue TDS certificates (Form 16/16A/16B/16C) to the deductees, providing details of tax deducted and deposited."
+                    },
+                    {
+                        "question": "Are TDS Returns Subject to Audit and Assessment?",
+                        "answer": "Yes, the Income Tax Department may conduct audits or assessments to verify the accuracy and completeness of TDS returns filed by deductors."
+                    },
+                    {
+                        "question": "What are the Penalties for Non-Compliance with TDS Return Filing Requirements?",
+                        "answer": "Non-compliance with TDS return filing requirements may lead to penalties, fines, interest, and other legal consequences as per the provisions of the Income Tax Act."
+                    }
+                ]
+            }
+        }
+    }
+}

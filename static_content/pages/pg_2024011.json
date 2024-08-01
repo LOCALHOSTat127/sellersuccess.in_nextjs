@@ -1,0 +1,197 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/ngo.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "A Non-Profit Organization (NPO) is an entity that operates without the intention of generating profit for its owners or shareholders. Instead, it uses any surplus funds to further its mission or charitable goals, such as supporting social causes, education, or health. NPOs often seek donations and grants and must adhere to specific regulations and reporting requirements to maintain their tax-exempt status and ensure transparency and accountability.",
+        "seo" : {
+            "title": "What is a Non-Profit Organization (NPO)?",
+            "description": "Learn about Non-Profit Organizations (NPOs) and their purpose. An NPO/NGO can be established to promote causes like sports, education, and research. The term 'non-profit' signifies that while the organization can generate income, it must use it to further its mission rather than distributing profits to its promoters.",
+            "keywords": [
+              "Non-Profit Organization",
+              "NPO",
+              "NGO",
+              "what is NPO",
+              "non-profit meaning",
+              "NPO purpose",
+              "NGO benefits",
+              "establishing a non-profit",
+              "NPO mission",
+              "non-profit income usage"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">What is Non-Profit Organization (NPO)?</p><p class=\"paragraph\">A Non-Profit Organization means a trust, company, or other association of persons<ul><li>established for a public purpose and</li><li>The income and property of which are not distributive to its members or office bearers except as reasonable compensation for services rendered.</li></ul></p></div><div class=\"list_container\"><p class=\"section-title\">In India, NGO is a term for all non-profit organizations including Trust, Society and Section 8 Company:</p><ul class=\"list\"><li><span>Trust:</span> In Charitable Trust at least two people are required, there is no limit of maximum members</li><li><span>Society:</span> In society, the minimum seven members are required to be the members</li><li><span>Section 8 Company:</span> A non-profit Company can be registered under section 8 of the Companies Act with the Registrar of Companies.</li><li>Other names for such not-for-profit organizations are “Sangathan”, “Sangh”, “Sangam”. Income tax exemption is available for all non-profit NGOs.</li></ul></div><div class=\"list_container\"><p class=\"section-title\">Benefits of registering an NPO:</p><ul class=\"list\"><li>Improves the credibility of the sector because NPOs can account to a public office.</li><li>Brings organizations into a formal system.</li><li>Helps the sector to get organized.</li><li>Helps in finding ways of getting benefits like tax exemptions and funding opportunities.</li><li>Donations made by individuals to the nonprofit corporation may be tax-deductible.</li></ul></div><p class=\"paragraph\">It means that the Company can earn profits but the promoters cannot be benefited out of those profits.</p></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""      
+        },
+        "isnCol": {
+            "state": false,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Key Features of Non Profit Organization",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+              {
+                "index": 1,
+                "head": "Characteristic",
+                "subhead": "It operates for welfare of general public, for promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of environment or any such similar object."
+              },
+              {
+                "index": 2,
+                "head": "Exemptions",
+                "subhead": "An Non Profit Organization enjoys several exemptions such as no minimum capital, tax deduction to donors as well as to NPOs, exemptions from suffices such as Private Limited or Limited etc."
+              },
+              {
+                "index": 3,
+                "head": "Profits",
+                "subhead": "Like a private limited company, a Section 8 Company will have incomes, expenses, profits or losses. But in this form of company, profits can be used only for the charitable or not-for-profit purposes mentioned its MOA."
+              }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph of all the Directors",
+                "PAN Card of all the Directors",
+                "ID Proof of all the Directors (Driving License/Passport/Voter ID)",
+                "Electricity Bill or any other utility bill for the address proof of the Registered Office"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+                {
+                    "original_price": 15999,
+                    "current_price": 13999,
+                    "type" : "Essential",
+                    "list" : [
+                        "2 Digital Signature Certificates",
+                        "2 Director Identification Numbers",
+                        "Name Approval",
+                        "Stamp duty on INR 1 Lakh Authorized Capital",
+                        "Company Incorporation using SPICe+",
+                        "Copy of e-MOA & e-AOA",
+                        "e-PAN",
+                        "e-TAN",
+                        "ESIC Registration through SPICe Plus",
+                        "PF Registration through SPICe Plus",
+                        "Bank Account opening (feature) through SPICe Plus",
+                        "Section 8 License"
+                    ]
+                },
+                {
+                    "type" : "Enhanced",
+                    "original_price": 26999,
+                    "current_price": 23999,
+                    "list" : [
+                        "Digital Signature Certificates",
+                        "Director Identification Numbers",
+                        "Section 8 Licence",
+                        "Name Approval",
+                        "Stamp duty on INR 1 Lakh Authorized Capital",
+                        "Company Incorporation using SPICe+",
+                        "Copy of e-MOA & e-AOA",
+                        "e-PAN",
+                        "e-TAN",
+                        "ESIC Registration through SPICe Plus",
+                        "PF Registration through SPICe Plus",
+                        "Bank Account opening (feature) through SPICe Plus",
+                        "Section 8 License",
+                        "Trademark Application (1 Application 1 Class Other than Small Enterprise)"
+                    ]
+                },
+                {
+                    "type" : "Ultimate",
+                    "original_price": 49999,
+                    "current_price": 38999,
+                    "list" : [
+                        "2 Digital Signature Certificates",
+                        "2 Director Identification Numbers",
+                        "Section 8 Licence",
+                        "Name Approval",
+                        "Stamp duty on INR 1 Lakh Authorized Capital",
+                        "Company Incorporation using SPICe+",
+                        "Copy of e-MOA & e-AOA",
+                        "e-PAN",
+                        "e-TAN",
+                        "ESIC Registration through SPICe Plus",
+                        "PF Registration through SPICe Plus",
+                        "Bank Account opening (feature) through SPICe Plus",
+                        "Trademark Application (1 Application 1 Class Other than Small Enterprise)",
+                        "1st Income Tax filing up to turnover of Rs. 20 Lakhs",
+                        "1 Year TDS Filing up to 500 entries",
+                        "1st Annual Filing up to turnover of Rs. 20 Lakhs",
+                        "25 Copies of MOA",
+                        "25 Copies of AOA",
+                        "10 Copies of Share Certificate",
+                        "Company Seal",
+                        "Section 8 License",
+                        "1st Annual Filing up to turnover of Rs. 20 Lakhs",
+                        "Form ADT 1 (Auditor Appointment in AGM)",
+                        "Form AOC -4 (Form for filing financial statement and other documents with the Registrar)",
+                        "Form MGT -7 (Form for filing annual return by a company)",
+                        "2 DIR 3 e-KYC of 2 Directors",
+                        "Accounting and Book Keeping (up to 50 transactions)"
+                    ]
+                }
+
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is Sec. 8 Company? (Earlier Known as Section 25 Company)",
+                        "answer": "A non-profit organization in India can be registered as a Trust or as a Society under the Registrar of Societies as a private limited non-profit company under Section 8 of the Companies Act, 2013. Earlier, this Section 8 was popularly known as Section 25 of the old Companies Act, 1956."
+                    },
+                    {
+                        "question": "How many people are required to form a section 8 Company?",
+                        "answer": "A minimum of two people is required to register a section 8 company in India."
+                    },
+                    {
+                        "question": "For what objectives Section 8 Company can be incorporated?",
+                        "answer": "Section 8 Company can be incorporated to promote commerce, art, science, research, sports, social welfare, education, charity, religion, and protection of the environment or any such object. The condition is that such a Company should use its profits (if any) for promoting its objects and should not pay any dividends to its members."
+                    },
+                    {
+                        "question": "How much capital is required for Section 8 Company?",
+                        "answer": "As per Companies Act, 2013, there is no such restriction regarding capital to incorporate a company. This limit can be increased at any stage of the business in future as the business grows."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "For incorporation of Section 8 Company, do I have to be present in person?",
+                        "answer": "The entire procedure is completely online and you don’t have to be present in person. All you need to provide is scan copy of required documents to us and our team will do the rest."
+                    },
+                    {
+                        "question": "How much time does the section 8 company registration take?",
+                        "answer": "The complete process can be completed within 15 days. However, this largely depends on the Ministry’s approvals."
+                    },
+                    {
+                        "question": "Can NRIs or Foreign Nationals be Directors in a Section 8 Company?",
+                        "answer": "Yes, an NRI or Foreign National can be a Director in a Section 8 Company with a valid Director Identification Number. However, at least one Director on the Board of Directors must be resident in India."
+                    },
+                    {
+                        "question": "What are the benefits associated with the Section 8 Company?",
+                        "answer": "There are many privileges and advantages under the Company Law for Section 8 companies:\n\n• Forming a Section 8 company is an easy process.\n• Minimum paid-up capital is not required.\n• Stamp duty registration is exempted."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

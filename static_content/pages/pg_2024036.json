@@ -1,0 +1,176 @@
+
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "For Nidhi Company annual filing, visit the Ministry of Corporate Affairs (MCA) portal. File Form MGT-7 for the annual return and Form AOC-4 for financial statements. Include details such as financial performance, shareholder information, and compliance with Nidhi Company regulations. Ensure all forms are submitted on time to comply with legal requirements and avoid any penalties.",
+        "seo" : {
+            "title": "Understanding Nidhi Company Annual Filing Requirements in India",
+            "description": "A Nidhi Company, derived from the Hindi word for 'fund' or 'finance,' is established to promote savings and manage funds among its members. It operates by receiving deposits and providing loans exclusively to its members. This guide covers the essential annual filing requirements for Nidhi Companies in India, ensuring compliance with regulatory standards and proper management of financial operations.",
+            "keywords": [
+              "Nidhi Company annual filing",
+              "Nidhi Company compliance requirements",
+              "Nidhi Company financial management",
+              "Annual filing for Nidhi Companies",
+              "Nidhi Company regulations India",
+              "Nidhi Company deposit and loan management",
+              "Nidhi Company filing requirements",
+              "Nidhi Company annual compliance",
+              "Nidhi Company financial operations",
+              "Regulatory standards Nidhi Company"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">Though there are no separate registrations to be done under RBI for a Nidhi company, RBI has the power to issue directives to them.</p><div class=\"list_container\"><p>However, Nidhi company needs to fulfill the minimum requirements for the registration, which are as follows:</p><ul><li>A minimum of 7 members</li><li>Minimum 3 directors</li><li>All such companies must apply “Nidhi Limited” after its name.</li><li>Every Nidhi company must ensure within a period of one year from the commencement that it has not less than 200 members.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Nidhi Company Annual FIling:</p><p>Nidhi Company is required to file  returns twice a year and yearly returns once with ROC every year. Apart from this Nidhi Company is also required to file its Financial Statements in Form AOC 4 and Annual Return in form MGT 7 annually with ROC.</p></div><div class=\"list_container\"><p>Following are the forms required to be filed by Nidhi company every year with ROC :</p><ul><li>Form NDH 1</li><li>Form NDH 3</li><li>MCA Form MGT 7</li><li>MCA Form AOC 4</li></ul></div><p class=\"paragraph\">Every Nidhi Company is required to comply with provisions of Companies Act, 2013 and Nidhi Rules, 2014. In a way every Nidhi Company is a Public Limited Company. Hence it requires to follow all the provisions applicable to Public Limited Company unless exempted from compliance of specific section with or without any modification.</p></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""  
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Annual filing of Nidhi Company",
+            "sub_head": "",
+            "list": [
+                {
+                    "title": "Form NDH-3",
+                    "description": "Half-yearly compliance for Nidhi Company detailing number of members admitted and ceased, member details, loans, etc. Filed with ROC within 30 days from the close of each half-year."
+                  },
+                  {
+                    "title": "Form NDH-1",
+                    "description": "Statutory compliance for Nidhi Company summarizing details of members, loans, deposits, reserves, etc., for the full financial year. Filed with ROC within 90 days from the closure of the financial year."
+                  },
+                  {
+                    "title": "Form AOC-4",
+                    "description": "Financial Statements for Nidhi Company including Notice calling General Meeting, Directors Report, Auditors Report, and Balance Sheet. Filed with ROC within 30 days from the date of Annual General Meeting."
+                  },
+                  {
+                    "title": "Form MGT-7",
+                    "description": "Annual Return for Nidhi Company along with List of members. Filed with ROC within 60 days from the date of Annual General Meeting."
+                  },
+                  {
+                    "title": "Form MGT-14",
+                    "description": "Report to ROC for Nidhi Company detailing resolutions passed for Disclosure of Directors interest, Approval of Financial Statements, and Directors Report. Filed in Form MGT-14."
+                  },
+                  {
+                    "title": "Form ITR-6",
+                    "description": "Income Tax Return for Nidhi Company filed in Form ITR-6 within 6 months from the closure of the financial year. Due date for filing is 30th September every year."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Bank Statement for the financial year",
+                "Details of the members",
+                "Details of the cash transactions if any",
+                "Details of loans and deposits by the members",
+                "Details regarding reserves if any"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 7499,
+                  "current_price": 6999,
+                  "list" : [
+                    "Annual Filings for Company (Capital of Rs 5 Lakhs)",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Form NDH 1 filing",
+                    "2 Form NDH 3 filing",
+                    "Professional certification on MGT-7 & AOC-4"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 24999,
+                  "current_price": 23999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Form NDH 1 filing",
+                    "2 Form NDH 3 filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 5 Lakhs",
+                    "One Year Income Tax filing upto turnover of Rs. 20 Lakhs",
+                    "3 DIR-3 KYC for 3 Directors",
+                    "Professional certification on MGT-7 & AOC-4"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 34999,
+                  "current_price": 33999,
+                  "list" : [
+                    "Accounting and Book-keeping",
+                    "Financial Statement Preparation",
+                    "Drafting Notice and Director's Report",
+                    "AOC 4 Filing",
+                    "MGT 7 Filing",
+                    "ADT 1 Filing",
+                    "Form NDH 1 filing",
+                    "2 Form NDH 3 filing",
+                    "Annual Filings for Company having Authorized Capital of Rs 5 Lakhs",
+                    "One Year Income Tax filing upto turnover of Rs. 100 Lakhs",
+                    "3 DIR-3 KYC for 3 Directors",
+                    "Professional certification on MGT-7 & AOC-4"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is the Annual Return for Producer Company?",
+                        "answer": "An Annual Return for a Producer Company includes details such as the company’s share capital, indebtedness, directors, shareholders, changes in directorships, and corporate governance disclosures."
+                    },
+                    {
+                        "question": "Who signs the Annual Return?",
+                        "answer": "The Annual Return must be signed by two directors of the company."
+                    },
+                    {
+                        "question": "Are the Government fees for Company return filing included in ROC filing fees?",
+                        "answer": "Yes, SellerSuccess's packages for ROC filing fees are inclusive of the government fees for company return filings."
+                    },
+                    {
+                        "question": "Does a Non-Working Producer Company required to comply with the Annual Compliance, even if the Producer Company is not working?",
+                        "answer": "Yes, irrespective of whether the Producer Company is working or non-working, it is required to file all necessary Annual Compliance forms with the Registrar of Companies (ROC)."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "Does a Producer Company require to hold Board Meetings? How many in a year?",
+                        "answer": "Yes, a Producer Company is required to hold a minimum of 4 Board Meetings in a year with a gap of not more than 3 months between two meetings."
+                    },
+                    {
+                        "question": "What do you mean by Financial Statement?",
+                        "answer": "All companies registered with the Ministry of Corporate Affairs (MCA) are required to file a 'Balance Sheet and Profit & Loss Statement' along with a Directors’ Report and Auditors’ Report. These financial statements should be in the appropriate format of the company and include a declaration on the state of solvency of the company. This filing is done by the directors."
+                    }
+                ]
+            }
+        }
+    }
+  }

@@ -1,0 +1,207 @@
+
+.faqs_section {
+    font-size: 1rem;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+
+    &.onMobile{
+        display: none;
+    }
+
+    .wrapper{
+        padding: 0px;
+        margin: 0px auto;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 34px;
+
+        .text_area {
+            z-index: 5;
+            display: flex;  
+            flex-direction: column;
+            gap: 18px;
+    
+            h6 {
+                font-weight: 600;
+                font-size: 1.6rem;
+                color: rgba(0, 0, 0, 0.805);
+            }
+    
+            p {
+                font-size: 1rem;
+                line-height: normal;
+                color: rgba(6, 6, 6, 0.678);
+            }
+        }
+    
+        .faqs {
+          
+            z-index: 5;
+            padding: 12px;
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(1, 1fr); /* Adjust according to GRID_CONFIG.col */
+            gap: 34px; /* Adjust according to GRID_CONFIG.gap */
+    
+            .faqs_list_outer{
+                display: flex;
+                flex-direction: column;
+                gap: 24px;
+            }
+    
+            .faq {
+                position: relative;
+                padding: 24px;
+                display: flex;
+                flex-direction: column;
+                cursor: pointer;
+                gap: 24px;
+                border-bottom: 1px solid rgba(128, 128, 128, 0.308);
+                
+                transition: background-color 0.3s ease;
+    
+                .overlay {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-color: transparent;
+                }
+    
+                .faq_q {
+                    display: flex;
+                    align-items: flex-start;
+                    justify-content: space-between;
+    
+                    h2 {
+                        color: rgba(25, 25, 25, 0.873);
+                        font-weight: 600;
+                        font-size: 1.2rem;
+                        line-height: normal;
+                        max-width: 90%;
+                    }
+                }
+    
+                .openFaq {
+                    transition: transform 0.2s ease-in-out;
+                }
+    
+                .answer {
+                  
+                    display: none;
+             
+                    line-height: normal;
+                    font-weight: 300;
+                    font-size: 0.95rem;
+                    transition: all 0.3s ease-in-out;
+                }
+    
+                &.active {
+                    background-color: #f4f4f49b;
+    
+                    .openFaq {
+                        transform: rotate(135deg);
+                    }
+    
+                    .answer {
+                        font-size: 1.1rem;
+                        font-weight: 400;
+                        display: block;
+                        color: rgb(21, 21, 21);
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    .faqs_section {
+        font-size: 0.95rem;
+        padding: 0px 20px 0px 20px;
+        position: relative;
+        margin: 40px 0px;
+    
+        &.onDesktop{
+            display: none;
+        }
+        &.onMobile{
+            display: block;
+        }
+    
+        .wrapper{
+
+            gap: 34px;
+    
+            .text_area {
+                padding: 0px 4px;
+                gap: 8px;
+        
+                h6 {
+    
+                    font-size: 1.4rem;
+       
+                }
+        
+                p {
+                    font-size: 0.95rem;
+          
+            
+                }
+            }
+        
+            .faqs {
+              
+ 
+                padding: 4px 8px;
+      
+                display: grid;
+                grid-template-columns: repeat(1, 1fr); /* Adjust according to GRID_CONFIG.col */
+                gap: 34px; /* Adjust according to GRID_CONFIG.gap */
+        
+                .faqs_list_outer{
+    
+                    gap: 24px;
+                }
+        
+                .faq {
+     
+                    padding: 10px 4px;
+ 
+                    gap: 24px;
+  
+                    
+                    .faq_q {
+
+        
+                        h2 {
+
+                            font-size: 1rem;
+                 
+                        }
+                        
+                    }
+                    &.active {
+                            
+                        
+                        .answer {
+                          
+                        
+                            width: 100%;;
+                            font-size: 1rem;
+                            text-align: justify;
+                        }
+                    }
+               
+        
+                 
+                }
+            }
+        }
+    }
+}

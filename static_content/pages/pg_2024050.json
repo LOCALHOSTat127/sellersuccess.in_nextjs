@@ -1,0 +1,118 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "A Letter of Undertaking (LUT) under GST allows exporters to ship goods or services without paying IGST on exports. It serves as a declaration that the exporter will fulfill the export obligations and comply with GST laws. To obtain an LUT, file an application online through the GST portal, providing details of the business and its export activities. The LUT is valid for one financial year and helps facilitate smoother export operations by exempting IGST payments.",
+      "seo": {
+        "title": "What is a Letter of Undertaking under GST? Key Insights",
+        "description": "A Letter of Undertaking (LUT) under GST is a declaration made by a registered taxpayer to the authorities that they will export goods or services without paying Integrated Goods and Services Tax (IGST). The LUT is an essential document for exporters to claim a refund of the input tax credit on exported goods or services. This declaration ensures that the exported goods or services are free from tax and comply with GST regulations.",
+        "keywords": ["Letter of Undertaking", "LUT GST", "Export under GST", "IGST Exemption", "GST Refund", "Export Documentation"]
+      }      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>Under GST, there are two options being provided to exporters of goods or services or both for effecting such supplies :</p><ul><li>Submit an LUT or Bond (as applicable) to Commissioner of GST. In this case, there is no need to pay tax on exports and assessee can claim refund of GST paid on its inward supplies.</li><li>Pay IGST on exports and then after claim refund for the same.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Lettet of Undertaking (LUT):</p><p>All registered taxpayers who export the goods or services will now have to furnish Letter of Undertaking (LUT) in GST RFD-11 form on the common portal of GSTN in order to make exports without payment of IGST. Letter of the undertaking has to be filed /submitted online before exporting the goods/services.</p><p>Hence, If you are engaged in Import Export business, then it would always be a great option to file an LUT for getting exemption from paying GST.</p></div><div class=\"list_container\"><p>Benefits of filing LUT:</p><ul><li>Once you submit the LUT, it is valid for one whole year.</li><li>There would be no additional compliance.</li><li>IGST will not have to be paid on exports for a year.</li></ul></div><div class=\"para_with_head\"><p class=\"head\">Due date and validity of LUT:</p><p>A fresh LUT should be filed for each new financial year. One LUT will be valid for one financial year. That means if you have filed an LUT for FY 2019-20, it would expire on 31st March, 2020. So for FY 2020-21, a Fresh LUT needs to be filed.</p></div><div class=\"para_with_head\"><p class=\"head\">Extension in time limit of requirement for filing of LUT:</p><p>For the Financial Year 2020-21, the CBIC has extended the time limit for filing the LUT under GST from 31st March, 2020 to 30th June 2020. and the taxpayer can continue to make the supply without payment of tax under LUT provided that the FORM GST RFD-11 for 2020-21 is furnished on or before 30.06.2020. Taxpayers may quote the reference no of the LUT for the year 2019-20 in the relevant documents.</p></div></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content": {
+          "left_col": {
+            "head": "",
+            "list": [
+              {
+                "title": "",
+                "description": ""
+              }
+  
+            ]
+          }
+        }
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "isGridPints": {
+        "state": false,
+        "isBG": true,
+        "head": "",
+        "sub_head": "",
+        "list": [
+          {
+            "index": 1,
+            "head": "",
+            "subhead": ""
+          }
+        ]
+      },
+      "isDocuments": {
+        "state": true,
+        "list": [
+            "PAN and ID of the signatory and off witnesses duly signed.",
+            "Export bill/invoice",
+            "Self-declaration that the conditions of the Letter of Undertaking shall be accepted unless there is specific permission granted.",
+            "A self-declaration by the exporter to the effect that he has not been prosecuted",
+            "Copy of GST registration certificate",
+            "Copy of IEC code (not applicable in case of services)",
+            "Copies of VAT return for all quarters or GSTR 3 of all three months. In case of services, service tax return would do",
+            "Request letter for acceptance of RFD 11. The request letter should be on letter head and signed by the proprietor/director/partner of any authorised person",
+            "Letter of authorization."
+          ]
+          
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 1999,
+            "current_price": 1499,
+            "type": "Essential",
+            "list": ["Filing of One Letter of Undertaking with GST authorities"]
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": true,
+        "faqs": {
+          "left": [
+            {
+                "question": "Who should file LUT?",
+                "answer": "All the goods and service exporters should file the LUT."
+              },
+              {
+                "question": "Is an LUT filed once valid for a lifetime?",
+                "answer": "No, a fresh LUT should be filed for each new financial year."
+              },
+              {
+                "question": "Who has to sign the LUT application?",
+                "answer": "Any of the Authorized Signatory needs to sign and file the verification with DSC/EVC."
+              },
+              {
+                "question": "How would I know that the process of furnishing LUT has been completed?",
+                "answer": "After successful filing, the system will generate ARN and acknowledgement. You will be informed about successful filing via SMS and Email, and you can also download the acknowledgement as a PDF."
+              }
+          ],
+          "right": [
+            {
+                "question": "Is it mandatory to record the manually approved LUT in online records?",
+                "answer": "It is not mandatory, but if you want to record the manually approved LUT to be available in online records, then you can furnish it with the online application."
+              },
+              {
+                "question": "What are the consequences of non-filing of LUT?",
+                "answer": "If LUT is not filed, all exports will be treated as domestic sales and IGST will have to be paid on the same."
+              }
+          ]
+        }
+      }
+    }
+  }

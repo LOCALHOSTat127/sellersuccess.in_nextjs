@@ -1,0 +1,166 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To file an ESI (Employees' State Insurance) return, visit the ESIC portal and log in to your employer account. Select the appropriate return form based on the period. Fill in details such as employee contributions, wages, and employer contributions. Submit the form online, pay any dues, and download the acknowledgment for your records. Ensure timely submission to comply with ESI regulations and avoid penalties.",
+        "seo" :{
+            "title": "What is an ESI Return? Understanding Employee State Insurance Returns",
+            "description": "Discover what an ESI (Employee State Insurance) return is and its significance. ESI is a self-financing social security scheme and health insurance plan for Indian workers, providing medical and disablement benefits. Governed by the ESI Act, 1948, and managed by the Employees’ State Insurance Corporation (ESIC), the return must comply with the regulations set by the Act.",
+            "keywords": [
+              "ESI return",
+              "Employee State Insurance return",
+              "how to file ESI return",
+              "ESI compliance",
+              "Employee State Insurance scheme",
+              "ESI Act 1948",
+              "ESIC return details",
+              "ESI health insurance",
+              "ESI benefits",
+              "ESI filing requirements"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><p class=\"paragraph\">Under the ESI scheme, both employers and employees contribute a percentage of the employee’s salary to the ESI fund. These contributions are collected by the ESIC and used to provide various benefits to insured individuals. The ESI scheme covers employees working in factories, businesses, and establishments with 10 or more employees (20 or more in some states) where the monthly wage of each employee is up to Rs. 21,000.</p><p class=\"paragraph\">The benefits provided by the ESI scheme include medical care for insured employees and their families, cash benefits during periods of certified sickness, maternity benefits for female employees, disablement benefits for employment-related injuries or illnesses, dependent benefits in case of the death of an insured employee, funeral expenses, and vocational rehabilitation services.</p><p class=\"paragraph\">Overall, the Employee State Insurance (ESI) scheme plays a crucial role in ensuring the social security and well-being of employees and their families in India by providing them with access to healthcare services and financial assistance during times of need.</p><div class=\"para_with_head\"><p class=\"head\">Applicability of ESI:</p><p>The ESIC is applicable on all the establishments having 10 or more workers and is beneficial to all the employees earning Rs.15, 000/- or less per month as wages, employer must contribute 3.25 percent and employee must contributes 0.75 percent towards ESI.</p></div><div class=\"para_with_head\"><p class=\"head\">Due date for filing ESI Return:</p><p>The due date for ESI return filing is 15th of subsequent month.</p></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Comprehensive Range of Benefits",
+            "sub_head": "Here are the main benefits covered under the ESI scheme",
+            "list": [
+                {
+                    "title": "Medical Benefits",
+                    "description": "The primary benefit provided by ESI is medical care for insured employees and their families. This includes outpatient, inpatient, specialist consultations, diagnostic tests, and medicines. Medical care is provided through a network of ESI dispensaries, hospitals, and tie-up hospitals."
+                  },
+                  {
+                    "title": "Sickness Benefit",
+                    "description": "Insured employees are entitled to receive cash benefits during periods of certified sickness. This benefit is payable for a maximum of 91 days in a year at a rate of 70% of the daily wages."
+                  },
+                  {
+                    "title": "Maternity Benefit",
+                    "description": "Female insured employees are entitled to maternity benefits, including paid leave for a certain period before and after childbirth. Maternity benefit is payable for 26 weeks, which includes 8 weeks of prenatal leave and 18 weeks of postnatal leave. The rate of benefit is 100% of the average daily wages."
+                  },
+                  {
+                    "title": "Disablement Benefit",
+                    "description": "If an insured employee suffers from a permanent disability due to an employment injury, disablement benefits are provided. The amount of disablement benefit depends on the extent of disability and is determined based on a schedule of injuries."
+                  },
+                  {
+                    "title": "Dependent Benefits",
+                    "description": "In case of the death of an insured employee due to employment-related injury or illness, dependent benefits are provided to the surviving dependents. Dependent benefits include a monthly pension to the widow(er) and/or children of the deceased employee."
+                  },
+                  {
+                    "title": "Funeral Expenses",
+                    "description": "ESI also covers funeral expenses in the unfortunate event of the insured employee’s death. This helps the family cope with the expenses related to the funeral."
+                  },
+                  {
+                    "title": "Vocational Rehabilitation",
+                    "description": "In cases where an insured employee suffers from a disability due to an employment injury, vocational rehabilitation services may be provided to help the individual reintegrate into the workforce."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "Photograph, Adhaar card and PAN card of all the Directors/Subscribers",
+                "ID Proof of the Directors /Subscribers (Driving License/Passport/Voter ID)",
+               "Address proof of Directors /Subscribers ",
+                "Business Address proof"        
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 1299,
+                  "current_price": 999,
+                  "list" : [
+                    "1 ESI Return upto 10 employees"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 10999,
+                  "current_price": 8999,
+                  "list" : [
+                    "One Year ESI Returns upto 20 employees"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 14599,
+                  "current_price": 13999,
+                  "list" : [
+                    "One Year ESI Returns upto 50 employees"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is ESI?",
+                        "answer": "Employee State Insurance (ESI) is a social security and health insurance scheme in India, administered by the Employees’ State Insurance Corporation (ESIC), aimed at providing medical and cash benefits to employees and their dependents."
+                    },
+                    {
+                        "question": "Who is eligible for ESI benefits?",
+                        "answer": "Employees earning wages of Rs. 15,000 or less per month working in establishments with 10 or more employees are eligible for ESI benefits."
+                    },
+                    {
+                        "question": "What are the benefits provided under ESI?",
+                        "answer": "ESI provides benefits such as medical care for employees and their families, cash benefits during periods of sickness, maternity benefits, disablement benefits due to employment-related injuries, dependent benefits, funeral expenses, and vocational rehabilitation services."
+                    },
+                    {
+                        "question": "What are the contribution rates for employers and employees?",
+                        "answer": "Employers contribute 3.25% of the employee’s wages, while employees contribute 0.75% of their wages towards ESI."
+                    },
+                    {
+                        "question": "Is ESI mandatory for all employees?",
+                        "answer": "ESI is mandatory for employees covered under the scheme. However, certain categories of employees, such as those covered under other social security schemes, are exempt."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "How are ESI contributions paid?",
+                        "answer": "ESI contributions are deducted from the employee’s wages by the employer and deposited with the ESIC."
+                    },
+                    {
+                        "question": "Can employees opt-out of ESI?",
+                        "answer": "No, employees covered under ESI cannot opt-out of the scheme. It is mandatory for both employers and eligible employees to contribute to ESI."
+                    },
+                    {
+                        "question": "What are the consequences of non-compliance with ESI regulations?",
+                        "answer": "Non-compliance with ESI regulations can lead to penalties, fines, and legal consequences for employers."
+                    },
+                    {
+                        "question": "How can employers register for ESI?",
+                        "answer": "Employers can register their establishments with the ESIC online through the ESIC portal or by visiting the nearest ESIC office."
+                    },
+                    {
+                        "question": "Where can I get more information about ESI?",
+                        "answer": "More information about ESI can be obtained from the official website of the Employees’ State Insurance Corporation (ESIC) or by contacting the local ESIC office."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

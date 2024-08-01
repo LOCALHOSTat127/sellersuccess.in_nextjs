@@ -1,0 +1,192 @@
+.grid_ {
+    background-color: #F9F5F3;
+    width: 100%;
+    font-size: 1rem;
+  
+    .wrapper {
+      padding: 80px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      max-width: 1324px;
+      margin: 150px auto 80px auto;
+  
+      .text_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        margin-bottom: 80px;
+  
+        h5 {
+          font-weight: 700;
+          font-size: 1.8rem;
+          color: rgba(0, 0, 0, 0.83);
+          text-transform: capitalize;
+        }
+  
+        p {
+          font-size: 1.2rem;
+          max-width: 60%;
+          &::first-letter {
+            text-transform: capitalize;
+          }
+          text-transform: lowercase;
+          line-height: normal;
+        }
+      }
+  
+      .grid_area {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 44px;
+        row-gap: 54px;
+  
+        .card_ {
+          background-color: rgb(255, 255, 255);
+          box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+          border-radius: 9px;
+          padding: 24px 30px;
+          position: relative;
+          transition: all 250ms ease-in-out;
+          cursor: pointer;
+  
+          &:hover {
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+          }
+  
+          .card_number {
+            position: absolute;
+            left: 0;
+            top: 0;
+            background-color: #000000c8;
+            border-radius: 9px 0 9px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            padding: 2px;
+  
+            img {
+              width: 22px;
+              height: 22px;
+            }
+          }
+  
+          .content {
+            padding-top: 40px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+  
+            h6 {
+              font-weight: 600;
+              text-transform: capitalize;
+              color: rgba(0, 0, 0, 0.83);
+              font-size: 1.1rem;
+            }
+  
+            p {
+              color: #5d5d5d;
+              text-align: justify;
+              font-weight: 400;
+              line-height: normal;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  /* Mobile devices (small) */
+  @media (max-width: 480px) {
+    .grid_ {
+      background-color: #f9f5f300;
+      font-size: 0.95rem;
+  
+      .wrapper {
+        margin: 60px 0 40px 0;
+        padding: 20px 0;
+        gap: 0;
+  
+        .text_section {
+          margin-bottom: 60px;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: center;
+          padding: 0 24px;
+  
+          h5 {
+            font-size: 1.2rem;
+            text-transform: capitalize;
+            text-align: left;
+          }
+  
+          p {
+            max-width: 100%;
+            text-align: left;
+            &::first-letter {
+              text-transform: capitalize;
+            }
+            text-transform: lowercase;
+            font-size: 1rem;
+          }
+        }
+  
+        .grid_area {
+          margin: 0 18px;
+          display: flex;
+          padding: 10px;
+          overflow-x: scroll;
+          scroll-snap-type: x mandatory;
+          -webkit-overflow-scrolling: touch;
+          gap: 14px;
+  
+          .card_ {
+            background-color: rgb(255, 255, 255);
+            min-width: 300px;
+            max-width: 300px;
+       
+            border-radius: 9px;
+            padding: 18px;
+            
+            &:hover {
+              box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+            }
+  
+            .card_number {
+              border-radius: 9px 0 9px 0;
+              width: 34px;
+              height: 34px;
+              padding: 2px;
+  
+              img {
+                width: 20px;
+                height: 20px;
+              }
+            }
+  
+            .content {
+           
+              padding: 36px 2px 10px;
+              gap: 12px;
+  
+              h6 {
+                font-size: 1rem;
+              }
+  
+              p {
+            
+                font-size: 0.95rem;
+                font-weight: 400;
+                line-height: normal;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

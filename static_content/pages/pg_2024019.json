@@ -1,0 +1,202 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To apply for a PAN card, visit the official PAN card application portal and fill out the form online. Provide required details such as personal information, proof of identity, and proof of address. Submit the form and documents, then pay the processing fee. After verification, you will receive a PAN card, which is essential for financial transactions and tax purposes.",
+        "seo" : {
+            "title": "How to Apply for a PAN Card: A Complete Guide",
+            "description": "Learn how to apply for a PAN card, a unique 10-character alphanumeric identifier issued by the Income Tax Department of India. PAN is essential for tracking financial transactions and ensuring tax compliance. Discover the application process and key details you need to know about obtaining your PAN card.",
+            "keywords": [
+              "apply for PAN card",
+              "PAN card application",
+              "how to get a PAN card",
+              "Permanent Account Number",
+              "PAN card process",
+              "Income Tax Department PAN",
+              "PAN card requirements",
+              "tax identification number",
+              "PAN card details",
+              "PAN card guide"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">Purpose of PAN</p><p>PAN is primarily used for tracking financial transactions and ensuring tax compliance by individuals and entities. It is mandatory for various financial transactions such as filing income tax returns, opening bank accounts, investing in securities, buying or selling immovable properties, and conducting high-value transactions.</p></div><div class=\"para_with_head\"><p class=\"head\">Format of PAN</p><p>PAN is a 10-character alphanumeric code in the format: ABCDE1234F. The first five characters are letters (A-Z), followed by four numerals (0-9), and ending with a letter (A-Z). The fourth character of PAN indicates the type of holder (individual, company, etc.).</p></div><div class=\"para_with_head\"><p class=\"head\">Application for PAN:</p><p>Individuals and entities can apply for PAN through the NSDL (National Securities Depository Limited) or UTIITSL (UTI Infrastructure Technology and Services Limited) websites or authorized PAN service centers. The application can be made online or offline by submitting the required documents and payment of the prescribed fees.</p></div><div class=\"para_with_head\"><p class=\"head\">Documents Required for PAN Application:</p><p>For individuals: Proof of identity (Aadhaar card, passport, voter ID, etc.), proof of address (Aadhaar card, passport, utility bill, etc.), and proof of date of birth (birth certificate, passport, etc.).For entities: Proof of identity and address of the entity, proof of date of incorporation/formation, and identity/address proofs of the authorized signatories.</p></div><div class=\"para_with_head\"><p class=\"head\">Processing and Issuance of PAN:</p><p>Once the PAN application is submitted along with the required documents and fees, it is processed by NSDL or UTIITSL. Upon verification of the details provided, a unique PAN is generated and sent to the applicant’s address through post/mail.</p></div><div class=\"para_with_head\"><p class=\"head\">Importance of PAN:</p><p>PAN is essential for various financial transactions and serves as a proof of identity for individuals and entities. It helps the government track taxable transactions, prevent tax evasion, and ensure compliance with tax laws.</p></div><div class=\"para_with_head\"><p class=\"head\">Update and Correction of PAN Data:</p><p>In case of any changes or corrections required in PAN data (such as name, address, date of birth, etc.), individuals and entities can apply for PAN correction/update through the NSDL or UTIITSL portals by submitting the necessary documents and fees.</p></div><div class=\"para_with_head\"><p class=\"head\">Validity of PAN:</p><p>PAN once allotted is valid for a lifetime and remains unchanged even in case of change of address, name, or other details. However, individuals and entities are required to update their PAN data whenever there are changes or corrections required.</p></div><div class=\"para_with_head\"><p class=\"head\">Verification of PAN:</p><p>PAN details can be verified online through the Income Tax Department’s PAN verification portal (<a href=\"https://www1.incometaxindiaefiling.gov.in/e-FilingGS/Services/VerifyYourPanDeatils.html\" target=\"_blank\">https://www1.incometaxindiaefiling.gov.in/e-FilingGS/Services/VerifyYourPanDeatils.html</a>) by entering the PAN number and captcha code.</p></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Features of Permanent Account Number",
+            "sub_head": "Points to make your decision easy",
+            "list": [
+                {
+                    "title": "Identity",
+                    "description": "PAN is a nationally accepted proof of identity in India. It is unique to each holder and links all financial transactions made by an individual or entity."
+                },
+                {
+                    "title": "Use of PAN",
+                    "description": "PAN is required for bank account opening and is mandatory in various financial transactions. It must be quoted in your income tax return."
+                },
+                {
+                    "title": "Benefits to NRI",
+                    "description": "NRIs need PAN to claim benefits of non-deduction or lower-deduction in India. PAN is also required for purchasing or selling property in India."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "Top 10 Benefits of Having a PAN Card",
+            "sub_head": "",
+            "list": [
+                {
+                    "index": 1,
+                    "head": "Identification Proof",
+                    "subhead": "A PAN card serves as a valid proof of identity for individuals and entities across India. It is widely accepted by government and private institutions."
+                  },
+                  {
+                    "index": 2,
+                    "head": "Filing Income Tax Returns",
+                    "subhead": "A PAN is mandatory for filing income tax returns, making it essential for taxpayers to comply with tax regulations and avoid penalties."
+                  },
+                  {
+                    "index": 3,
+                    "head": "Opening a Bank Account",
+                    "subhead": "Banks require a PAN card to open a savings or current account, ensuring that the account holder’s financial transactions are tracked by the tax authorities."
+                  },
+                  {
+                    "index": 4,
+                    "head": "Large Cash Transactions",
+                    "subhead": "PAN is required for high-value cash transactions such as deposits above ₹50,000 in a single day, helping to prevent money laundering and fraud."
+                  },
+                  {
+                    "index": 5,
+                    "head": "Applying for Loans",
+                    "subhead": "Financial institutions require a PAN card when processing loan applications, ensuring transparency and accountability in the lending process."
+                  },
+                  {
+                    "index": 6,
+                    "head": "Buying and Selling Property",
+                    "subhead": "For real estate transactions above ₹5 lakh, a PAN card is mandatory, helping to maintain records of large financial deals and curb black money."
+                  },
+                  {
+                    "index": 7,
+                    "head": "Investments",
+                    "subhead": "PAN is required for investing in securities, mutual funds, and opening a demat account. It ensures that investments are linked to an individual’s financial profile."
+                  },
+                  {
+                    "index": 8,
+                    "head": "Foreign Travel",
+                    "subhead": "When purchasing foreign currency or paying for travel expenses above ₹50,000, a PAN card is necessary, aiding in tracking foreign transactions."
+                  },
+                  {
+                    "index": 9,
+                    "head": "Vehicle Purchase",
+                    "subhead": "PAN is needed for purchasing vehicles worth more than ₹5 lakh, ensuring transparency in high-value transactions."
+                  },
+                  {
+                    "index": 10,
+                    "head": "Insurance Premiums",
+                    "subhead": "For paying life insurance premiums exceeding ₹50,000 in a financial year, a PAN card is required, facilitating the monitoring of significant financial commitments."
+                  }
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+               "Self-Attested Address Proof (Electricity Bill/Latest Bank Statement/Mobile Bill) (not older than 2 months)",
+               "Self-attested ID Proof (Driving License/Passport/Voter ID/Adhar Card)"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 799,
+                  "current_price": 499,
+                  "list" : [
+                    "PAN Application"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 1999,
+                  "current_price": 1499,
+                  "list" : [    
+                    "PAN Application",
+                    "TAN Application"
+                  ] 
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 2499,
+                  "current_price": 1799,
+                  "list" : [
+                    "PAN Application",
+                    "TAN Application",
+                    "1st income tax filing for non-assessee"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is PAN?",
+                        "answer": "PAN stands for Permanent Account Number. It is a unique 10-character alphanumeric identifier issued by the Income Tax Department of India to individuals, companies, firms, and other entities for tax-related purposes and financial transactions."
+                    },
+                    {
+                        "question": "Why is PAN required?",
+                        "answer": "PAN is required for various financial transactions and tax-related purposes such as filing income tax returns, opening bank accounts, investing in securities, purchasing or selling immovable properties, and conducting high-value transactions."
+                    },
+                    {
+                        "question": "Who needs to obtain PAN?",
+                        "answer": "Any individual or entity engaged in taxable transactions or financial activities in India, including residents, non-residents, companies, firms, trusts, and associations, needs to obtain PAN if their turnover or transactions exceed the prescribed threshold limits."
+                    },
+                    {
+                        "question": "How can I apply for PAN?",
+                        "answer": "You can apply for PAN online through the NSDL (National Securities Depository Limited) or UTIITSL (UTI Infrastructure Technology and Services Limited) websites or authorized PAN service centers by filling out the PAN application form, submitting required documents, and paying the prescribed fees."
+                    },
+                    {
+                        "question": "What documents are required for PAN application?",
+                        "answer": "Documents required for PAN application include proof of identity (such as Aadhaar card, passport, voter ID), proof of address (Aadhaar card, passport, utility bill), proof of date of birth (birth certificate, passport), and photographs of the applicant."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "Is there any fee for PAN application?",
+                        "answer": "Yes, there is a prescribed fee for PAN application, which varies based on the mode of application (online or offline) and the communication address (within India or outside India). The fee can be paid online or through demand draft."
+                    },
+                    {
+                        "question": "How long does it take to get PAN after applying?",
+                        "answer": "PAN is typically allotted within 15-20 working days from the date of submission of the PAN application, provided all the documents and information provided are in order. The PAN card is sent to the applicant’s address through post/mail."
+                    },
+                    {
+                        "question": "Can I verify PAN details online?",
+                        "answer": "Yes, you can verify PAN details online through the Income Tax Department’s PAN verification portal by entering the PAN number and captcha code. This allows individuals and entities to verify the authenticity of PAN numbers provided by others for financial transactions or official purposes."
+                    },
+                    {
+                        "question": "Is PAN linked to Aadhaar?",
+                        "answer": "Yes, linking PAN with Aadhaar is mandatory as per the provisions of the Income Tax Act, 1961. It helps eliminate duplicate PANs and enables the government to track financial transactions more effectively."
+                    },
+                    {
+                        "question": "What is the validity of PAN?",
+                        "answer": "PAN once allotted is valid for the lifetime of the holder and remains unchanged even in case of changes in personal details such as name, address, or other particulars."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

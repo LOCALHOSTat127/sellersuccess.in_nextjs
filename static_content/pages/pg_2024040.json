@@ -1,0 +1,107 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "To change a Director Identification Number (DIN), the current DIN must be deactivated and a new DIN obtained. Begin by filing Form DIR-3 with the Ministry of Corporate Affairs (MCA) for a new DIN. After obtaining the new DIN, update company records by filing Form DIR-12 to reflect the change. Ensure all forms are submitted accurately to comply with regulatory requirements and avoid penalties.",
+      "seo": {
+        "title": "How to Handle a Change in Director Identification Number (DIN)",
+        "description": "A Director Identification Number (DIN) is a unique identification number allotted to individuals who are appointed as directors of companies. If there is a need to change or update the DIN due to errors, changes in personal details, or other reasons, the process involves submitting a request to the Ministry of Corporate Affairs (MCA) through the prescribed forms. The process ensures that the DIN details remain accurate and up-to-date in the official records.",
+        "keywords": ["Change in Director Identification Number", "DIN", "Director Identification Number", "MCA", "DIN Update Process", "DIN Correction", "Director Details"]
+      }      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><p>Director Identification Number (DIN) is a mandatory requirement for all existing and new directors of a company. A DIN is issued in accordance with the directions provided by the amendment to the Companies Act. It is an 8-digit Unique Identification Number allotted to all directors by Ministry of Corporate Affairs. It has lifetime validity.</p></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content": null
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isGridPints": {
+        "state": false,
+        "isBG": true,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isDocuments": {
+        "state": false,
+        "list": []
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 1899,
+            "current_price": 1499,
+            "type": "Essential",
+            "list": ["Changes in DIN"]
+          },
+          {
+            "original_price": 3499,
+            "current_price": 2999,
+            "type": "Enhanced",
+            "list": ["Changes in DIN","Digital Signature Class 2 Individual having 2 Years Validity"]
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": true,
+        "faqs": {
+          "left": [
+            {
+                "question": "What is a Director Identification Number (DIN)?",
+                "answer": "A Director Identification Number (DIN) is a unique identification number assigned to individuals appointed as directors of a company. It is mandatory for all directors in India."
+            },
+            {
+                "question": "Why would a Director need to change their DIN?",
+                "answer": "A DIN may need to be changed due to issues such as errors in the original DIN application, changes in personal details, or if the DIN was allocated incorrectly."
+            },
+            {
+                "question": "How can a Director apply to change their DIN?",
+                "answer": "To change a DIN, the director must file an application with the Ministry of Corporate Affairs (MCA) through the DIR-3 form, detailing the reasons for the change and providing the necessary documents."
+            },
+            {
+                "question": "What documents are required to change a DIN?",
+                "answer": "The documents required to change a DIN include a valid identity proof, address proof, and a declaration from the director explaining the need for the change."
+            },
+            {
+                "question": "Is there a fee associated with changing a DIN?",
+                "answer": "Yes, there is a nominal fee for processing the DIN change application. The exact fee can be checked on the MCA website or with the relevant authority."
+            }
+          ],
+          "right": [
+            {
+                "question": "How long does it take to process a DIN change application?",
+                "answer": "The processing time for a DIN change application typically ranges from 15 to 30 days, depending on the completeness of the application and the workload of the MCA."
+            },
+            {
+                "question": "What happens if the DIN change application is rejected?",
+                "answer": "If the DIN change application is rejected, the director will be notified with the reasons for rejection. They may need to address the issues and resubmit the application."
+            },
+            {
+                "question": "Can a DIN change be made online?",
+                "answer": "Yes, DIN changes can be processed online through the MCA portal by submitting the DIR-3 form and other required documents electronically."
+            },
+            {
+                "question": "Will the change in DIN affect the director’s previous company records?",
+                "answer": "No, changing the DIN will not affect the director’s previous company records. The new DIN will be updated across all company records, and the old DIN will be deactivated."
+            },
+            {
+                "question": "Can a DIN be changed if the director has multiple DINs?",
+                "answer": "Yes, if a director has multiple DINs, they may need to consolidate them into one by following the prescribed procedure, which involves surrendering the additional DINs and ensuring only one DIN remains active."
+            }
+          ]
+        }
+      }
+    }
+  }

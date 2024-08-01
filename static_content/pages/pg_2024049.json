@@ -1,0 +1,156 @@
+{
+    "mata_info": {
+      "read_time": "6 minutes reading",
+      "date_publish": "5 May 2024",
+      "page_img": "/assets/Images/gst.png",
+      "auther": "Sahil Joshi",
+      "quick_summary": "An LLP name change involves altering the registered name of a Limited Liability Partnership. To effect this change, pass a resolution to approve the new name, amend the LLP Agreement, and file Form 5 with the Ministry of Corporate Affairs (MCA). The new name must be unique and comply with naming guidelines. Once approved, update the LLP’s records and notify all relevant stakeholders of the change",
+      "seo": {
+        "title": "What is LLP Name Change? Process and Requirements",
+        "description": "LLP (Limited Liability Partnership) name change refers to the process of officially changing the name of an existing LLP. This procedure involves submitting a name change application to the Registrar of Companies (ROC), updating the LLP agreement, and ensuring that the new name complies with regulatory requirements. The name change process helps in rebranding or aligning the LLP’s name with its business objectives or legal requirements.",
+        "keywords": ["LLP Name Change", "Change LLP Name", "LLP Rebranding", "Registrar of Companies", "LLP Agreement Update", "Legal Name Change"]
+      }
+      
+    },
+    "content":"<section class=\"dynamic_html_fluyed\"><p>During the course of business, LLP may required to change name to depict the new activities adopted by LLP or to reflect the new brand developed in the market. In both the cases, LLP can change name subject to provision of LLP regulations and LLP Agreement.</p><p>Any LLP which is legally registered as per the Limited Liability Partnership Act, 2008 is allowed to change its name at any given time during its working after gaining approval from the appropriate authorities higher up.</p><div class=\"list_container\"><p>Reasons for LLP name change:</p><ul><li>Mergers and amalgamation</li><li>Shift in business activity</li><li>New brand development</li></ul></div><div class=\"para_with_head\"><p class=\"head\">LLP Name Availability:</p><p>Before commencing the change name process, decide a name and verify the name availability. If the name is available, then an application for Reservation of Unique Name can be made on the MCA portal to reserve the name for a period of 3 months.</p></div><div class=\"list_container\"><p>Following sections of LLP Act 2008, deals with the change of name:</p><ul><li>Section 17 of the LLP Act suggests that where the Central Government is satisfied that an LLP has been registered under a name which is identical with or too nearly resembles the name of any other LLP or body corporate or other name as to be likely to be mistaken for it, the Central Government may direct to change its name.</li><li>In such case the LLP shall comply with the direction within 3 months after the date of the notification or such longer period as the Central Government may allow.</li><li>Any LLP which fails to comply with a direction shall be punishable with fine which shall not be less than Rs. 10,000 but which may extend to Rs. 5 Lacs.</li><li>Further, the designated partner of such LLP shall be punishable with fine which shall not be less than Rs. 10,000 but which may extend to Rs. 1 Lac.</li></ul></div><div class=\"list_container\"><p>Suo moto basis (Section 19 of LLP Act, 2008)</p><ul><li>The process related to the change in name of LLP is covered under Section 19 of the LLP Act, 2008 and the LLP agreement filed with the MCA.</li><li>Hence, before starting the process for changing the LLP name, one should verify the LLP agreement to ensure whether or not some process related to alteration of the name is present.</li><li>Most of the LLP agreements will not have any restriction on changing the name of an LLP.</li><li>However, consent from all partners is mandatory to change the name of LLP.</li></ul></div><p>For any reason, if you wish to change your LLP name, there’s a defined procedure to be followed. In case any of the procedure is not followed, Name Change cannot be given effect to, by ROC.</p></section>",
+    "settings": {
+      "isTwoCol": {
+        "state": false,
+        "content": {
+          "left_col": {
+            "head": "",
+            "list": [
+              {
+                "title": "",
+                "description": ""
+              }
+  
+            ]
+          }
+        }
+      },
+      "isnCol": {
+        "state": false,
+        "head": "",
+        "sub_head": "",
+        "list": null
+      },
+      "isGridPints": {
+        "state": true,
+        "isBG": true,
+        "head": "Effects of a change in LLP Name",
+        "sub_head": "",
+        "list": [
+            {
+                "index": 1,
+                "head": "Filing Notice of Change of Name",
+                "subhead": "The notice of change of name must be filed with the registrar within 30 days from the date of the name change."
+              },
+              {
+                "index": 2,
+                "head": "Impact on Rights and Obligations",
+                "subhead": "Changing the LLP name does not affect any rights or obligations of the LLP."
+              },
+              {
+                "index": 3,
+                "head": "Continuation of Legal Proceedings",
+                "subhead": "Any legal proceedings that were commenced or continued by or against the LLP in its old name will proceed in its new name."
+              },
+              {
+                "index": 4,
+                "head": "Constitution and Entity",
+                "subhead": "The change of name does not affect the constitution or entity of the LLP; it does not create a new company."
+              },
+              {
+                "index": 5,
+                "head": "Execution of Decrees",
+                "subhead": "A decree obtained by the LLP in its former name can be executed under the new name after obtaining a certificate for the altered name."
+              },
+              {
+                "index": 6,
+                "head": "Issuance of Fresh Certificate of Incorporation",
+                "subhead": "The Registrar of Companies will issue a fresh certificate of incorporation after the change of LLP name has been filed and approved."
+              },
+              {
+                "index": 7,
+                "head": "Update of Related Documents",
+                "subhead": "Post name change, the LLP agreement, PAN card, TAN number, and GST registration must also be updated to reflect the new name."
+              }
+        ]
+      },
+      "isDocuments": {
+        "state": true,
+        "list": [
+            "Board resolution stating that the Board wants a name change",
+            "Authorization allowing the partner to file Form 1",
+            "Certified Copy of LLP Agreement",
+            "Trademark Certificate of the name if it has been registered",
+            "Attested copy of consent letters from the rest of the partners",
+            "NOC if the name is already under the Trademark register"
+          ]
+          
+      },
+      "isPricing": {
+        "state": true,
+        "isMultiState": false,
+        "head": "Affordable Pricing for everybody.",
+        "subhead": "You won’t get the services at this unbeatable price range anywhere in India.",
+        "packs": [
+          {
+            "original_price": 4599,
+            "current_price": 4299,
+            "type": "Essential",
+            "list": [
+                "Modification in PAN Card",
+                "Modification in TAN",
+                "Document preparation",
+                "1 Name Approval application with ministry under LLP RUN",
+                "Revised Certificate of Incorporation with new name",
+                "Revision of LLP Agreement",
+                "Filing of New LLP Agreement with ministry"
+              ]
+              
+          },
+          {
+            "original_price": 9999,
+            "current_price": 8299,
+            "type": "Enhanced",
+            "list": [
+                "Document preparation",
+                "Modification in PAN",
+                "Modification in TAN",
+                "Modification in GST",
+                "Modification in MSME",
+                "1 Name Approval application with ministry under LLP RUN",
+                "Revised Certificate of Incorporation with new name",
+                "Revision of LLP Agreement (stamp duty and notary not included)",
+                "Filing of New LLP Agreement with ministry"
+              ]
+              
+          }
+        ]
+      },
+      "isFAQ": {
+        "state": true,
+        "faqs": {
+          "left": [
+            {
+                "question": "Is there a need to execute the supplementary agreement for name change after issuance of fresh certificate of incorporation?",
+                "answer": "Yes, you have to execute the supplementary agreement."
+              },
+              {
+                "question": "How can I change the name for my Limited Liability Partnership (LLP)?",
+                "answer": "LLP can change its name by filling the following forms: a. Form 1 (Application for reservation or change of name) is required to be filled for name approval. b. After the name gets approved, the applicant is required to file Form 5 (Notice for change of name) to intimate the registrar about the name change of LLP."
+              },
+              {
+                "question": "What e-forms do I need to file for name change?",
+                "answer": "E-form Fillip, E-form LLP-5 after the name gets approved by the registrar, and E-form LLP-3 after issuance of fresh certificate of incorporation."
+              }
+          ],
+          "right": [
+        
+          ]
+        }
+      }
+    }
+  }

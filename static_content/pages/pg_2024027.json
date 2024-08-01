@@ -1,0 +1,242 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To file income tax returns, visit the Income Tax Department’s e-filing portal. Register or log in using your PAN. Choose the appropriate ITR form based on your income sources. Fill out the form with income details, deductions, and taxes paid. Verify and submit the form online. You may also need to e-verify using an OTP, Aadhaar, or other methods. Once processed, you’ll receive an acknowledgment of your return.",
+        "seo" : {
+            "title": "Everything You Need to Know About Income Tax Filing",
+            "description": "Understand the essentials of income tax filing with our comprehensive guide. An income tax return is a form submitted to tax authorities that outlines a taxpayer’s income, expenses, and other relevant financial details for a specific tax year. Find answers to frequently asked questions (FAQs) about income tax returns here.",
+            "keywords": [
+              "income tax filing",
+              "how to file income tax return",
+              "income tax return guide",
+              "tax return process",
+              "income tax FAQs",
+              "filing income tax online",
+              "income tax declaration",
+              "tax filing tips",
+              "income tax details",
+              "tax return submission"
+            ]
+          }
+          
+    },
+     "content":"<section class=\"dynamic_html_fluyed\"><div class=\"para_with_head\"><p class=\"head\">What is an Income Tax Return (ITR)?</p><p>An Income Tax Return (ITR) is a form filed by individuals, businesses, or other entities with the tax authorities, declaring their income, deductions, and taxes payable for a particular financial year.</p></div><div class=\"para_with_head\"><p class=\"head\">Who needs to file an Income Tax Return?</p><p>Individuals, including salaried employees, self-employed professionals, business owners, freelancers, and entities such as companies, partnerships, and trusts, whose income exceeds the basic exemption limit specified by the tax laws, are required to file an income tax return.</p></div><div class=\"para_with_head\"><p class=\"head\">What are the different types of Income Tax Returns?</p><p>The Income Tax Department prescribes different types of ITR forms based on the nature and source of income, residential status, and other factors. These include ITR-1 (Sahaj), ITR-2, ITR-3, ITR-4 (Sugam), ITR-5, ITR-6, and ITR-7.</p></div><div class=\"para_with_head\"><p class=\"head\">When is the due date for filing an Income Tax Return?</p><p>The due date for filing income tax returns varies depending on the taxpayer’s category, source of income, and other factors. For individuals and businesses, the usual due date is July 31st of the assessment year (AY) for which the return is being filed. However, this deadline may be extended by the tax authorities in certain cases.</p></div><div class=\"para_with_head\"><p class=\"head\">What are the consequences of not filing an Income Tax Return?</p><p>Failure to file an income tax return within the specified due date may attract penalties, fines, interest, and other legal consequences. It may also lead to a loss of certain tax benefits, denial of refunds, and difficulties in obtaining loans or financial approvals.</p></div><div class=\"para_with_head\"><p class=\"head\">How can I file an Income Tax Return?</p><p>Income tax returns can be filed online through the Income Tax Department’s e-filing portal (<a href=\"https://www.incometaxindiaefiling.gov.in/\">https://www.incometaxindiaefiling.gov.in/</a>) or offline by submitting a physical copy of the return at the designated tax office. Online filing is the preferred method and offers convenience, accuracy, and faster processing.</p></div><div class=\"para_with_head\"><p class=\"head\">What documents are required for filing an Income Tax Return?</p><p>Documents required for filing an income tax return include PAN card, Aadhaar card, Form 16/16A (for salaried employees), bank statements, investment statements, property documents, and other relevant financial records and proofs.</p></div><div class=\"para_with_head\"><p class=\"head\">What is the process for verifying an Income Tax Return?</p><p>After filing the income tax return online, taxpayers need to verify it using one of the verification methods provided by the Income Tax Department, such as Aadhaar OTP, Electronic Verification Code (EVC), or sending a physical signed copy of ITR-V to the Centralized Processing Centre (CPC) in Bangalore.</p></div><div class=\"para_with_head\"><p class=\"head\">Can I revise my Income Tax Return after filing?</p><p>Yes, taxpayers can revise their income tax returns within a specified time limit if they discover any errors or omissions in the original return filed. However, there are limitations on the number of times a return can be revised.</p></div><div class=\"table_container\"><div class=\"tab_head\"><h2>Due Dates for ITR Filing for FY 2022-23</h2></div><table><thead><tr><th>No</th><th>Category Taxpayer</th><th>Due Date</th></tr></thead><tbody><tr><td>1</td><td>Business (Not requiring Audit including LLPs and firms)</td><td>31/07/2023</td></tr><tr><td>2</td><td>Association of Persons (AOP)</td><td>31/07/2023 (not covered under Audit cases)</td></tr><tr><td>3</td><td>Body of Individuals (BOI)</td><td>31/07/2023 (not covered under Audit cases)</td></tr><tr><td>4</td><td>Individual</td><td>31/07/2023</td></tr><tr><td>5</td><td>Businesses (Requiring Audit including Private Limited Companies, OPC, LLPs and firms)</td><td>31/10/2023</td></tr><tr><td>6</td><td>The due date of furnishing Income Tax Return for FY 2021-22 (TP Cases)</td><td>31/11/2023</td></tr></tbody></table></div><div class=\"table_container\"><div class=\"tab_head\"><h2>Due Date for furnishing of Audit Report</h2><p>The due date for furnishing an audit report can vary depending on the specific requirements and regulations applicable to the organization.</p></div><table><thead><tr><th>No</th><th>Category Taxpayer</th><th>Due Date</th></tr></thead><tbody><tr><td>1</td><td>Audit Report for the Previous Year 2021-22</td><td>30/09/2023</td></tr><tr><td>2</td><td>Audit Report for Transfer Pricing cases</td><td>31/09/2023 (with ITR Filing/on or before the date of AGM)</td></tr><tr><td>3</td><td>Belated / Revised Income Tax Return for FY 2021-22</td><td>30/11/2023</td></tr></tbody></table></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": true,
+            "content": {
+              "left_col": {
+                "head": "Benefits",
+                "list": [
+                    {
+                        "title": "Legal Compliance",
+                        "description": "Filing income tax returns ensures compliance with tax laws, avoiding legal penalties or scrutiny from tax authorities."
+                      },
+                      {
+                        "title": "Claiming Refunds",
+                        "description": "Taxpayers can claim refunds for excess taxes paid during the financial year, which helps in managing cash flow effectively."
+                      },
+                      {
+                        "title": "Financial Discipline",
+                        "description": "Filing taxes regularly promotes financial discipline by keeping track of income, expenses, and investments."
+                      },
+                      {
+                        "title": "Building Financial History",
+                        "description": "Regular filing helps in building a credible financial history, which is crucial for loan approvals and financial transactions."
+                      },
+                      {
+                        "title": "Avoiding Interest and Penalties",
+                        "description": "Timely filing helps in avoiding interest on unpaid taxes and penalties for late filing or non-compliance."
+                      }
+                  ]
+              },
+              "right_col": {
+                "head": "Consequences of Non-Filing",
+                "list": [
+                    {
+                        "title": "Penalties",
+                        "description": "Non-filing or late filing attracts penalties under the Income Tax Act, which can be substantial depending on the delay and amount of tax due."
+                      },
+                      {
+                        "title": "Interest on Outstanding Tax",
+                        "description": "Delayed filing leads to interest charges on the outstanding tax amount, increasing the financial burden over time."
+                      },
+                      {
+                        "title": "Loss of Refunds",
+                        "description": "Failure to file within the due date may lead to loss of refunds or delays in receiving them, affecting cash flow planning."
+                      },
+                      {
+                        "title": "Legal Action",
+                        "description": "Persistent non-compliance can lead to legal actions such as tax notices, scrutiny assessments, and even prosecution in extreme cases."
+                      },
+                      {
+                        "title": "Restrictions on Financial Transactions",
+                        "description": "Non-filing or non-payment of taxes can restrict certain financial transactions and impact creditworthiness for loans or investments."
+                      }
+                  ]
+              }
+            }        
+        },
+        "isnCol": { 
+            "state": true,
+            "head": "Why you should file income tax return",
+            "sub_head": "Filing your income tax return is not just a legal obligation but also offers several benefits and advantages. Here are some reasons why you should file your income tax return",
+            "list": [
+                {
+                    "title": "Compliance with the Law",
+                    "description": "Filing income tax returns is mandatory under the Income Tax Act, 1961, for individuals and entities meeting certain income thresholds. Complying with this legal requirement helps you avoid penalties, fines, and legal consequences."
+                },
+                {
+                    "title": "Claiming Tax Refunds",
+                    "description": "By filing your income tax return, you can claim any excess tax paid during the financial year through deductions, TDS (Tax Deducted at Source), or advance tax payments. This could result in a tax refund, putting money back into your pocket."
+                },
+                {
+                    "title": "Record of Income",
+                    "description": "Income tax returns serve as a documented record of your income, investments, expenses, and tax payments for a particular financial year. It provides proof of your financial transactions and income sources, which can be useful for various purposes such as obtaining loans or visas."
+                },
+                {
+                    "title": "Fulfilling Financial Requirements",
+                    "description": "Many financial institutions, including banks and lenders, require income tax returns as proof of income while processing loan applications, credit card approvals, or mortgage approvals. Filing your returns on time can facilitate smoother transactions and approvals."
+                },
+                {
+                    "title": "Availing Tax Deductions and Benefits",
+                    "description": "Filing income tax returns allows you to claim various tax deductions, exemptions, and benefits available under the Income Tax Act, such as deductions under Section 80C for investments in tax-saving instruments like PPF, ELSS, insurance premiums, etc. Filing returns helps you optimize your tax liability by taking advantage of these benefits."
+                },
+                {
+                    "title": "Building Financial History",
+                    "description": "Regularly filing income tax returns helps you build a financial history and establish credibility with tax authorities and financial institutions. This can be beneficial for future financial planning, investments, and business opportunities."
+                },
+                {
+                    "title": "Avoiding Legal Issues",
+                    "description": "Non-compliance with income tax filing requirements can lead to legal issues, penalties, and scrutiny from tax authorities. Filing your returns diligently helps you stay on the right side of the law and avoid unnecessary hassles and liabilities."
+                },
+                {
+                    "title": "Contributing to Nation-Building",
+                    "description": "By paying taxes and filing income tax returns, you contribute to the nation’s development and welfare. Taxes collected by the government are utilized for public services, infrastructure development, healthcare, education, defense, and various welfare schemes benefiting society as a whole."
+                }
+            ]
+        },
+        "isGridPints": {
+            "state": true,
+            "isBG": true,
+            "head": "ITR Compliance for Enteties",
+            "sub_head": "ITR Complinces for Private Limited company, OPC & LLP",
+            "list": [
+              {
+                "index": 1,
+                "head": "ITR compliance for Pvt Ltd Co.",
+                "subhead": "It is mandatory for every Private Limited company (other than the companies claiming exemption under section 11) to file the return of income irrespective of amount of income or loss in Form ITR 6 Also, Companies are required to file Form ITR 7."
+              },
+              {
+                "index": 2,
+                "head": "ITR Compliance for OPC",
+                "subhead": "In the case of One Person Company, one person is required to file the return of income irrespective of whatever the amount of income or loss made by One Person Company in Form ITR 6 Also, One Person Companies are required to file ITR in Form ITR 7 in the duly time."
+              },
+              {
+                "index": 3,
+                "head": "ITR compliance for an LLP",
+                "subhead": "It is mandatory for every Limited Liability Partnership (LLP) to file the return of income irrespective of amount of income or loss in Form ITR 5. The due date for ITR filing for Limited Liability Partnership (Audited / Non audited) for FY 2019-20 is 30th November, 2020."
+              }
+              
+            ]
+        },
+        "isDocuments": {
+            "state": true,
+            "list": [
+                "PAN",
+                "Form 16",
+                "Details of other Source of Income, if any",
+                "Donation receipts, if any",
+                "Bank Statement",
+                "Financial Documents (For Business Only)",
+                "Audit Report, if applicable (For Business Only)"
+            ]
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 1499,
+                  "current_price": 1199,
+                  "list" : [
+                    "Income Tax filing of 1 year of Salaried Individual"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 2499,
+                  "current_price": 1999,
+                  "list" : [
+                   "Income Tax filing of 1 year for non- audit assessee"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 4999,
+                  "current_price": 3499,
+                  "list" : [
+                    "Income Tax filing of 1 year for audit assessee upto a turnover of Rs. 2 Cr"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is an Income Tax Return (ITR)?",
+                        "answer": "An Income Tax Return (ITR) is a form used to declare one’s income, deductions, exemptions, and tax liabilities to the Income Tax Department of India."
+                    },
+                    {
+                        "question": "Who Needs to File Income Tax Returns?",
+                        "answer": "Individuals and entities meeting certain income thresholds, including salaried individuals, self-employed professionals, businesses, and companies, are required to file income tax returns."
+                    },
+                    {
+                        "question": "What is the Due Date for Filing Income Tax Returns?",
+                        "answer": "The due date for filing income tax returns for individuals and entities varies depending on their category and income source. Typically, the due date for most individuals is July 31st of the assessment year."
+                    },
+                    {
+                        "question": "How Can I File my Income Tax Return?",
+                        "answer": "Income tax returns can be filed online through the Income Tax Department’s e-filing portal (www.incometaxindiaefiling.gov.in). Taxpayers can choose from various ITR forms based on their income sources and file their returns electronically."
+                    },
+                    {
+                        "question": "Which ITR Form Should I Use?",
+                        "answer": "The appropriate ITR form depends on the taxpayer’s income sources, residential status, and other factors. There are different ITR forms available for different categories of taxpayers, such as ITR-1 for salaried individuals, ITR-2 for individuals with income from multiple sources, and so on."
+                    }
+                   
+                ],
+                "right": [
+                    {
+                        "question": "What Documents Do I Need to File my Income Tax Return?",
+                        "answer": "Taxpayers need various documents and information to file their income tax returns, including Form 16 (for salaried individuals), bank statements, investment proofs, rent receipts, and other relevant documents related to income, deductions, and tax payments."
+                    },
+                    {
+                        "question": "What Happens if I Miss the Deadline for Filing Income Tax Returns?",
+                        "answer": "Missing the deadline for filing income tax returns may attract penalties and late fees. However, taxpayers can still file their returns belatedly within the specified time frame, albeit with certain consequences."
+                    },
+                    {
+                        "question": "What if I Make a Mistake in my Income Tax Return?",
+                        "answer": "If taxpayers discover any errors or omissions in their filed returns, they can rectify them by filing a revised return within a specified time period. However, there are limitations on the number of times a return can be revised."
+                    },
+                    {
+                        "question": "What Happens After I File my Income Tax Return?",
+                        "answer": "After filing their income tax returns, taxpayers receive an acknowledgment (ITR-V) from the Income Tax Department. This acknowledgment serves as proof of filing and needs to be verified and submitted to complete the filing process."
+                    },
+                    {
+                        "question": "Can I Check the Status of my Income Tax Return?",
+                        "answer": "Yes, taxpayers can check the status of their filed income tax returns online through the Income Tax Department’s e-filing portal using their PAN (Permanent Account Number) and acknowledgment number."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  

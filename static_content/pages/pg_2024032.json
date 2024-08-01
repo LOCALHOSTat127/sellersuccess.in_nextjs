@@ -1,0 +1,144 @@
+{
+    "mata_info": {
+        "read_time" : "6 minutes reading",
+        "date_publish" : "5 May 2024",
+        "page_img": "/assets/Images/gst.png",
+        "auther": "Sahil Joshi",
+        "quick_summary" : "To complete annual filing for a Limited Liability Partnership (LLP), visit the Ministry of Corporate Affairs (MCA) portal. File the annual return (Form 11) and financial statements (Form 8) within the due dates. Provide details on the LLP’s financials, partners, and compliance status. Submit the forms online, ensuring all required documents are included. Timely filing is essential to maintain compliance and avoid penalties.",
+        "seo" :{
+            "title": "Complete Guide to Annual Filing for Limited Liability Partnerships (LLPs)",
+            "description": "Learn about the annual filing requirements for Limited Liability Partnerships (LLPs) in India. LLPs must adhere to specific annual filing compliances to remain compliant with regulatory authorities. This comprehensive guide covers all aspects of LLP annual filing, including necessary forms and deadlines.",
+            "keywords": [
+              "LLP annual filing",
+              "Limited Liability Partnership compliance",
+              "LLP annual return",
+              "LLP filing requirements",
+              "LLP regulatory compliance",
+              "annual filing for LLPs",
+              "LLP filing forms",
+              "LLP annual accounts",
+              "LLP compliance guide",
+              "LLP tax filings"
+            ]
+          }
+          
+    },
+     "content": "<section class=\"dynamic_html_fluyed\"><div class=\"list_container\"><p>LLP Annual Filing Forms :</p><ul><li><span>Form 11 :</span> Form 11 is a statement of annual return. Every LLP is required to file Annual Return in Form 11 to the Registrar within 60 days from the closure of financial year i.e. Annual Returns have to be filed on or before 30th May every year.</li><li><span>Form 8 :</span> Form 8 is a statement of accounts. Every LLP is required to prepare and close its accounts until the 31st March every year. Form 8 is to be filed by at least two Designated Partners with the Registrar within 30 days after completion of six months of Financial Year i.e. 30th October every year.</li></ul></div><p class=\"paragraph\">Late filing of such forms entail penalties of Rs. 100/- per day of default. </p><div class=\"table_container\"><div class=\"tab_head\"><h2 class>LLP Annual Filing Compliance Calendar for your quick reference</h2></div><table><thead><tr><th>Form Type</th><th>Described</th><th>Due date</th></tr></thead><tbody><tr><td>Form-8</td><td>Filing of Statement of Accounts</td><td>30th October</td></tr><tr><td>Form-11</td><td>Filing of Annual Returns</td><td>30th May</td></tr><tr><td>ITR -5</td><td>Income tax return</td><td>31st July</td></tr><tr><td>Audit</td><td>Tax Audit (only if applicable)</td><td>30th September</td></tr></tbody></table></div></section>",
+    "settings": {
+        "isTwoCol": {
+            "state": false,
+            "content": ""     
+        },
+        "isnCol": {
+            "state": true,
+            "head": "Major LLP Annual Filing Compliances",
+            "sub_head": "",
+            "list": [
+                {
+                    "title": "Form 8 for LLPs",
+                    "description": "Form 8 is an annual filing requirement for LLPs where they provide a snapshot of their financial position, including assets, liabilities, and solvency, to the Registrar of Companies (ROC). It must be filed within 30 days from the end of six months of the financial year, along with a copy of the Statement of Account & Solvency. Non-compliance may lead to penalties and legal consequences."
+                  },
+                  {
+                    "title": "Form 11 for LLPs",
+                    "description": "LLP Form 11, also known as the Annual Return, is a filing requirement providing information about the LLP’s partners, registered office address, capital contribution, and other relevant details as of the closure of the financial year. LLPs must file Form 11 annually with the Registrar of Companies (ROC) by the 30th of May each year. Non-compliance may lead to penalties and legal consequences."
+                  },
+                  {
+                    "title": "Income Tax Return (ITR) for LLPs",
+                    "description": "The Income Tax Return (ITR) filing for LLPs involves reporting their income, deductions, and taxes to the Income Tax Department annually by the specified due date, usually the 31st of July. Non-compliance may lead to penalties and legal consequences."
+                  },
+                  {
+                    "title": "Accounting for LLPs",
+                    "description": "Accounting for LLPs includes maintaining accurate records of financial transactions, income, expenses, assets, and liabilities. LLPs prepare financial statements like the Balance Sheet, Profit and Loss Account, and Cash Flow Statement following generally accepted accounting principles (GAAP). Auditors may be appointed to audit these statements for accuracy and compliance."
+                  },
+                  {
+                    "title": "Audit under IT Act for LLPs",
+                    "description": "LLPs with annual turnover exceeding Rs. 1 crore or total income exceeding Rs. 50 lakh in a financial year are required to undergo a tax audit under Section 44AB of the Income Tax Act."
+                  },
+                  {
+                    "title": "AMT Audit for LLPs",
+                    "description": "If Alternate Minimum Tax (AMT) provisions apply to an LLP, it must obtain a report in Form 29C issued by a Practising CA. This report certifies that AMT and adjustable total income have been computed in accordance with the provisions of the Income Tax Act."
+                  }
+            ]
+        },
+        "isGridPints": {
+            "state": false,
+            "isBG": true,
+            "head": "",
+            "sub_head": "",
+            "list": []
+        },
+        "isDocuments": {
+            "state": false,
+            "list": []
+        },
+        "isPricing": {
+            "state": true,
+            "isMultiState" :false,
+            "head" : "Affordable Pricing for everybody.",
+            "subhead" : "You won’t get the services at this unbeatable price range anywhere in India.",
+            "packs": [
+              {
+                  "type" : "Essential",
+                  "original_price": 1699,
+                  "current_price": 1499,
+                  "list" : [
+                    "Form 11 or Form 8 Filing"
+                  ]
+              },
+              {
+                  "type" : "Enhanced",
+                  "original_price": 2999,
+                  "current_price": 2499,
+                  "list" : [
+                    "Form 11 Filing",
+                    "Form 8 Filing"
+                  ]
+              },
+              {
+                  "type" : "Ultimate",
+                  "original_price": 4599,
+                  "current_price": 3999,
+                  "list" : [
+                    "1 Income Tax Return",
+                    "Form 11 Filing",
+                    "Form 8 Filing"
+                  ]
+              }
+            ]
+        },
+        "isFAQ": {
+            "state": true,
+            "faqs": {
+                "left": [
+                    {
+                        "question": "What is LLP Annual Filing?",
+                        "answer": "LLP Annual Filing refers to the process of submitting various documents and forms to the regulatory authorities, such as the Registrar of Companies (ROC), on an annual basis. These filings provide information about the LLP’s financial position, compliance status, and other relevant details."
+                    },
+                    {
+                        "question": "Which documents are included in LLP Annual Filing?",
+                        "answer": "The documents included in LLP Annual Filing typically include:\n- Form 11 (Annual Return): Providing details about the LLP’s partners, registered office address, capital contribution, etc.\n- Form 8 (Statement of Account & Solvency): Submitting financial statements and solvency statement of the LLP."
+                    },
+                    {
+                        "question": "When is the deadline for LLP Annual Filing?",
+                        "answer": "LLP Annual Filing must be completed within the prescribed timelines, usually within 30 days from the end of six months of the financial year. Form 11 (Annual Return) is due by the 30th of May, while Form 8 (Statement of Account & Solvency) is due by the 30th of October each year."
+                    }
+                ],
+                "right": [
+                    {
+                        "question": "Are there any penalties for late LLP Annual Filing?",
+                        "answer": "Yes, late filing of LLP Annual Returns may attract penalties and fines. It’s essential to adhere to the prescribed timelines to avoid penalties and maintain compliance with regulatory requirements."
+                    },
+                    {
+                        "question": "Can LLP Annual Filing be outsourced to third-party professionals?",
+                        "answer": "Yes, LLPs often engage third-party professionals, such as Chartered Accountants or Company Secretaries, to assist with their annual filing requirements. These professionals can ensure accurate and timely filing, helping LLPs maintain compliance with regulatory authorities."
+                    },
+                    {
+                        "question": "Is LLP Annual Filing mandatory for all LLPs?",
+                        "answer": "Yes, LLP Annual Filing is mandatory for all LLPs registered under the Limited Liability Partnership Act, 2008. Failure to comply with annual filing requirements may lead to penalties, fines, and legal consequences for the LLP and its partners."
+                    }
+                ]
+            }
+        }
+    }
+  }
+  
