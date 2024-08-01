@@ -121,8 +121,8 @@ const extra_services = [
 export const ArticleCards = ({ extraServices }) => (
   <>
     {extraServices?.map((service, index) => (
-      <Link href={`/article/${service.link.href}?id=${service.link.id}`}>
-        <div key={index} className="article-card">
+      <Link key={index} href={`/article/${service.link.href}?id=${service.link.id}`}>
+        <div  className="article-card">
           <div className="article-content">
             <h2>{service.title}</h2>
             <p className="article-meta"></p>

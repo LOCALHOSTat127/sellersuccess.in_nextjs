@@ -1,5 +1,6 @@
 import "./style.scss";
 import { notion } from "../../../../lib/notion";
+import Image from 'next/image';
 import { NotionRenderer } from "@notion-render/client";
 import hljsPlugin from "@notion-render/hljs-plugin";
 import bookmarkPlugin from "@notion-render/bookmark-plugin";
@@ -38,7 +39,8 @@ const BlogPost = async ({ BLOG }) => {
               <div className="about_info">
                 <div className="auther item">
                   <div className="auther_profile">
-                    <img
+                    <Image
+                      width={50} height={50}
                     className="icon"
                       src={BLOG?.data?.auther_details?.avatar_url}
                       alt={BLOG?.data?.auther_details?.name}
@@ -54,7 +56,8 @@ const BlogPost = async ({ BLOG }) => {
                 </div>
               </div>
 
-              <img
+              <Image
+              width={500} height={500}
                 id="blog_Image"
                 loading="eager"
                 src={BLOG?.data?.meta?.blog_Img?.url}

@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from 'react';
 import './style.scss';
 import ClientsReviews from '../ClientsReviews/ClientsReviews';

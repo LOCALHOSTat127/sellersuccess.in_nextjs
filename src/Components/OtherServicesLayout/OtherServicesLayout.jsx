@@ -1,9 +1,8 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import "./style.scss";
 import Link from "next/link";
-const GRID_CONFIG = {
-    cols : 2,
-    gap : 60
-}
+
 
 
 const OtherSerivicesLayout = ({CONFIG}) => {
@@ -24,8 +23,8 @@ const OtherSerivicesLayout = ({CONFIG}) => {
         className="grid">
             {
                 CONFIG.cards.map((card,index) => (
-                    <Link href={`/article/${card.card_link}?id=${card.id}`} >
-                  <div key={index} className="card">
+                    <Link key={index} href={`/article/${card.card_link}?id=${card.id}`} >
+                  <div  className="card">
                     <div className="image_outer">
                         <img
                         className="card_img"

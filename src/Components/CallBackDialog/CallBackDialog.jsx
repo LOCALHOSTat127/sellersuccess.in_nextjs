@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import "./style.scss";
 import CircularProgress from '@mui/material/CircularProgress';

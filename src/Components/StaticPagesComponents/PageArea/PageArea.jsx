@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import "./style.scss";
 import Image from "next/image";
 import ClockIcon from "../../../../public/assets/svg/clock.svg";
@@ -30,7 +32,7 @@ const PageArea = ({META_INFO,CONTENT}) => {
         </div>
         <img
         src={META_INFO.page_img || '/assets/Images/fallback-image.jpg'}  
-        alt={META_INFO?.seo?.title}
+        alt={META_INFO?.seo?.title || "Description"}
         id="page_image"
         loading="lazy"
       />

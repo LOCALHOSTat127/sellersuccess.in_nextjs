@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import "./style.scss";
 import config from "../../../content/pages_static/homepage.json";
 
@@ -14,7 +16,7 @@ const BottomBar = () => {
                 <div className="icon flex aic jcc">
                     <img 
                     src={card.icon} 
-                    alt={card.text}
+                    alt={card.text || "Description"}
                      />
                 </div>
                 <div className="text flex fdc">

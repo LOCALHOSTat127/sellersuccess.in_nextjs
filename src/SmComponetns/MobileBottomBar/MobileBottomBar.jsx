@@ -17,8 +17,6 @@ const MobileBottomBar = () => {
       onClick={handleDiloagBox}
       id="open_cb_">
          Get an Callback
-          {/* <img src="/assets/svg/msg_icon.svg" alt='get an callback' /> */}
-
         <AddIcCallIcon/>
       </button>
     </div>

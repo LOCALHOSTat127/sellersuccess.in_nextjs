@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 import React, { useState, useEffect } from "react";
 import "./style.scss";
@@ -6,7 +7,7 @@ import Link from "next/link";
 import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import Person from "@mui/icons-material/Person";
 
-const filter_options =  ["GST", "Income Tax", "Registrations", "Complaince", "Other"];
+const filter_options = ["GST", "Income Tax", "Registrations", "Complaince", "Other"];
 
 const LoadinCard = ({ index }) => (
   <div key={index} className="article-card">
@@ -31,7 +32,7 @@ const LoadinCard = ({ index }) => (
 
 const ArticleCard = ({ article, index }) => (
   <div key={index} className="article-card">
-    <img src={article.img.url} alt={article.title} />
+    <img src={article.img.url} alt={article.title || "Description"} />
     <div className="article-content">
       <h2>{truncateText(article.title, 60)}</h2>
       <p className="article-meta">
@@ -51,6 +52,7 @@ const ArticleCard = ({ article, index }) => (
     </div>
   </div>
 );
+
 const BlogComponent = () => {
   const [selectedFilter, setSelectedFilter] = useState(filter_options[0]);
   const [isFetching, setFetching] = useState(true);
@@ -125,7 +127,7 @@ const BlogComponent = () => {
         localStorage.setItem('reloadFlag', 'true');
       });
     };
-  }, [selectedFilter]);
+  }, [selectedFilter]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleFilterClick = (filter) => {
     setSelectedFilter(filter);

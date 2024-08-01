@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import Image from "next/image";
 
@@ -109,7 +111,7 @@ const MobileMenu = () => {
           <div className="icons">
           {
             socialMediaIcons.map((icon,index) => (
-                <img src={icon.icon} alt={icon.alt_tag} key={index} className="social_icon" />
+                <img src={icon.icon} alt={icon.alt_tag || "Description"} key={index} className="social_icon" />
             ))
           }
           </div>

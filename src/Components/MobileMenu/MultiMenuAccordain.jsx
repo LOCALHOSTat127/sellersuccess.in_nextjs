@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState } from "react";
 import "./module.style.scss";
 import HorizontalRuleIcon from "@mui/icons-material/HorizontalRule";
@@ -24,8 +26,8 @@ const MultiLevelAccordion = () => {
 
   return (
     <div className="accordion">
-      {config?.navigation?.map((item) => (
-        <div key={item.id} className="accordionItem">
+      {config?.navigation?.map((item,index) => (
+        <div key={index} className="accordionItem">
           <div className="accordionHeader" onClick={() => toggleItem(item.id)}>
             <img
               className="item_icon"
@@ -60,12 +62,13 @@ const MultiLevelAccordion = () => {
                     <ul>
                       {subItem.sub_items.map((subSubItem, index) => (
                         <Link
+                        key={subSubItem.id || index}
                         onClick={handleMenu}
                           href={`/article/${createSlug(subSubItem.title)}?id=${
                             subSubItem.id
                           }`}
                         >
-                          <li key={subSubItem.id || index}>
+                          <li >
                             {subSubItem.item}
                           </li>
                         </Link>
@@ -84,12 +87,13 @@ const MultiLevelAccordion = () => {
               <ul>
                 {item.list.map((listItem, index) => (
                   <Link
+                  key={listItem.id || index}
                   onClick={handleMenu}
                     href={`${createSlug(listItem.title)}?id=${
                       listItem.id
                     }`}
                   >
-                    <li key={listItem.id || index}>{listItem.item}</li>
+                    <li >{listItem.item}</li>
                   </Link>
                 ))}
               </ul>

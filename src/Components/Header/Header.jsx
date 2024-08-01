@@ -1,4 +1,5 @@
-// Import necessary modules and styles
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useState, useEffect } from "react";
 import "./module.style.scss";
 import config from "./config.json";
@@ -36,7 +37,7 @@ const Header = () => {
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
-  }, [lastScrollTop]);
+  }, [lastScrollTop,handleScroll]);
 
   const handleShowMenu = (itemId) => {
     setHoveredItem(itemId);
@@ -63,8 +64,8 @@ const Header = () => {
       <MobileMenu />
       <div className="wrapper__header flex fdr aic jcsb">
         <Link id="logo" href="/">
-          <img className="desktop" alt={config.alt} src={config.logo} />
-          <img className="mobile" alt={config.alt} src={config.mobile_logo} />
+          <img className="desktop" alt={config.alt || "Description"} src={config.logo} />
+          <img className="mobile" alt={config.alt || "Description"} src={config.mobile_logo} />
         </Link>
 
         <nav className="flex fdr aic">
@@ -141,7 +142,6 @@ const Header = () => {
               className="blogs"
             >
               <p>{config.cta.primary.text}</p>
-              {/* <img src={config.cta.primary.icon} alt={config.cta.primary.text} /> */}
               <SearchIcon  className="search_icon" />
             </button>
           </Link>

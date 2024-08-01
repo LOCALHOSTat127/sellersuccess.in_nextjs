@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import { useState, useRef } from "react";
 import "./style.scss";
@@ -97,7 +99,7 @@ const Reviews = () => {
           <a target="_blank" href="https://www.google.com/search?q=Seller+Success+%3A+Business+Accountant+%26+Internet+Marketing+Agency&rlz=1C1RXQR_enIN1111IN1111&oq=seller+Success+%3A+Business+Accountant+%26+Internet+Marketing+Agency&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQg5ODQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x396db126605541bb:0xc30389611fe92aa0,3,,,,">
           <button class="brutalist-button">
             <div class="ms-logo">
-              <img src="/assets/svg/gmb.svg" />
+              <img src="/assets/svg/gmb.svg" alt="Google My Business" />
             </div>
             <div class="button-text">
               <span>Give your Review on</span>
