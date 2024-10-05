@@ -30,7 +30,7 @@ const BlogPost = async ({ BLOG }) => {
   
   return (
     <>
-      <div className="blog_post_">
+      <div className="blog_post_ prose">
         <div className="blog_posts_wrapper">
           <div className="blog_post__container prose">
             <div className="blog_meta">
@@ -68,7 +68,7 @@ const BlogPost = async ({ BLOG }) => {
               />
             </div>
             <div
-              className="blog_html"
+              className="blog_html prose"
               dangerouslySetInnerHTML={{ __html: processedHtmlContent }}
             />
           </div>
