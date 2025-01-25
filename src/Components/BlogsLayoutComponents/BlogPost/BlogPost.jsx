@@ -68,7 +68,7 @@ const BlogPost = async ({ BLOG }) => {
               />
             </div>
             <div
-              className="prose blog_html"
+              className="prose"
               dangerouslySetInnerHTML={{ __html: processedHtmlContent }}
             />
           </div>
