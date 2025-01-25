@@ -8,7 +8,7 @@ import AutherIcon from "../../../../public/assets/svg/auther.svg";
 
 const PageArea = ({META_INFO,CONTENT}) => {
   return (
-    <section className="page_text_area prose">
+    <section className="page_text_area ">
       <div className="page_text_area_wapper">
         <div className="meta_text">
           <h1 className="page_main_title">
@@ -37,7 +37,7 @@ const PageArea = ({META_INFO,CONTENT}) => {
         loading="lazy"
       />
 
-        <div className="dynamic_html_fluyed" dangerouslySetInnerHTML={{ __html: CONTENT }} />
+        <div className="dynamic_html_fluyed prose" dangerouslySetInnerHTML={{ __html: CONTENT }} />
       </div>
     </section>
   );
