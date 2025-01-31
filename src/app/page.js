@@ -9,7 +9,7 @@ import OtherSerivicesLayout from "@/Components/OtherServicesLayout/OtherServices
 const TEXT_CONFIG = {
   state: true,
   isBG: true,
-  head: "Why choose sellersuccess over anybody?",
+  head: "Why choose sellersuccess over Nobody?",
   sub_head:
     "Expertise, personalized service, comprehensive solutions, and exceptional support. Trust us for peace of mind and value for money.",
   list: [
